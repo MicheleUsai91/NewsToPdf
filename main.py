@@ -183,5 +183,6 @@ if hasattr(ssl, "_create_unverified_context"):
                     f.write(newsTitle)
                     f.write(data)
                     f.write(paragraph)
+                    f.write("\n[&#x25B2; TOP &#x25B2;](#)\n")
                     f.write("\n---\n")
         f.close()
