@@ -10,12 +10,12 @@ feedsJson = [
         "category" : "economy",
         "feeds" : [
             {
-                "site" : "Ansa Economia",
+                "site" : "ansa economia",
                 "link" : "https://www.ansa.it/sito/notizie/economia/economia.shtml",
                 "rss" : "https://www.ansa.it/sito/notizie/economia/economia_rss.xml"
             },
             {
-                "site" : "Market Watch",
+                "site" : "market watch",
                 "link" : "https://www.marketwatch.com/",
                 "rss" : "http://www.marketwatch.com/rss/topstories"
             }
@@ -25,7 +25,7 @@ feedsJson = [
     #     "category" : "magazine",
     #     "feeds" : [
     #         {
-    #             "site" : "Palladium",
+    #             "site" : "palladium",
     #             "link" : "https://www.palladiummag.com/",
     #             "rss" : "https://www.palladiummag.com/feed"
     #         }
@@ -35,7 +35,7 @@ feedsJson = [
         "category" : "sardegna",
         "feeds" : [
             {
-                "site" : "Ansa Sardegna",
+                "site" : "ansa sardegna",
                 "link" : "https://www.ansa.it/sardegna",
                 "rss" : "https://www.ansa.it/sardegna/notizie/sardegna_rss.xml"
             }
@@ -45,27 +45,27 @@ feedsJson = [
         "category" : "science",
         "feeds" : [
             {
-                "site" : "Live Science",
+                "site" : "live science",
                 "link" : "https://www.livescience.com/",
                 "rss" : "https://www.livescience.com/feeds/all"
             },
             {
-                "site" : "New Scientist",
+                "site" : "new scientist",
                 "link" : "https://www.newscientist.com/",
                 "rss" : "https://www.newscientist.com/feed/home/"
             },
             {
-                "site" : "Phys Org",
+                "site" : "phys org",
                 "link" : "https://phys.org/",
                 "rss" : "https://phys.org/rss-feed/"
             },
             {
-                "site" : "Scientific American",
+                "site" : "scientific american",
                 "link" : "https://www.scientificamerican.com/",
                 "rss" : "http://rss.sciam.com/ScientificAmerican-Global"
             },
             {
-                "site" : "Science News",
+                "site" : "science news",
                 "link" : "https://www.sciencenews.org/","rss" : "https://www.sciencenews.org/feed/"
             }
         ]
@@ -74,12 +74,12 @@ feedsJson = [
         "category" : "tech",
         "feeds" : [
             {
-                "site" : "Hacker News",
+                "site" : "hacker news",
                 "link" : "https://news.ycombinator.com/",
                 "rss" : "https://news.ycombinator.com/rss"
             },
             {
-                "site" : "Wired",
+                "site" : "wired",
                 "link" : "https://www.wired.com/",
                 "rss" : "https://www.wired.com/feed/rss"
             }
@@ -89,32 +89,32 @@ feedsJson = [
         "category" : "world",
         "feeds" : [
             {
-                "site" : "Ansa Cronaca",
+                "site" : "ansa cronaca",
                 "link" : "https://www.ansa.it/sito/notizie/cronaca/cronaca.shtml",
                 "rss" : "https://www.ansa.it/sito/notizie/cronaca/cronaca_rss.xml"
             },
             {
-                "site" : "Ansa Politica",
+                "site" : "ansa politica",
                 "link" : "https://www.ansa.it/sito/notizie/politica/politica.shtml",
                 "rss" : "https://www.ansa.it/sito/notizie/politica/politica_rss.xml"
             },
             {
-                "site" : "Ansa Mondo",
+                "site" : "ansa mondo",
                 "link" : "https://www.ansa.it/sito/notizie/mondo/mondo.shtml",
                 "rss" : "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml"
             },
             {
-                "site" : "The Guardian",
+                "site" : "the guardian",
                 "link" : "https://www.theguardian.com/international",
                 "rss" : "http://feeds.arstechnica.com/arstechnica/index/"
             },
             {
-                "site" : "The New York Times",
+                "site" : "the new york times",
                 "link" : "https://www.nytimes.com/international/",
                 "rss" : "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
             },
             {
-                "site" : "Wall Street Journal",
+                "site" : "wall street journal",
                 "link" : "https://www.wsj.com/",
                 "rss" : "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
             }
@@ -143,13 +143,35 @@ specialCharacter = [
 if hasattr(ssl, "_create_unverified_context"):
     ssl._create_default_https_context = ssl._create_unverified_context
 
-    for item in feedsJson:
-        fileName = "Sections/" + item["category"] + ".tex"
-        with open(fileName, "w", encoding='utf-8') as f:
+    with open("News.md", "w", encoding='utf-8') as f:
+        toc = "# Table of Content\n"
+        f.write(toc)
+        i = 1
+        for item in feedsJson:
+            category = item["category"]
+            catItem = str(i) + ". [" + category.capitalize() + "](#" + category + ")\n"
+            i += 1
+            f.write(catItem)
+            j = 1
+            for link in item["feeds"]:
+                subCategory = link["site"]
+                subCategoryLink = subCategory.replace(" ", "-")
+                subCatItem = "\t" + str(j) + ". [" + subCategory.capitalize() + "](#" + subCategoryLink + ")\n"
+                j += 1
+                f.write(subCatItem)
+        
+        f.write("\n")
+        
+        for item in feedsJson:
+            sectionTitle = item["category"]
+            section = "# " + sectionTitle.capitalize() + "\n"
+            print(section)
+            f.write(section)
             for link in item["feeds"]:
                 subSectionName = link["site"]
                 subSectionLink = link["link"]
-                subSection = "\\subsection{" + subSectionName + " \\href{" + subSectionLink + "}{\ding{225}}}\n"
+                subSection = "## *[" + subSectionName.capitalize() + "](" + subSectionLink + ")*\n"
+                print(subSection)
                 f.write(subSection)
                 feed = feedparser.parse(link["rss"])
                 for n in feed["items"]:
@@ -167,10 +189,11 @@ if hasattr(ssl, "_create_unverified_context"):
                             titleFormat = titleFormat.replace(char, alt)
                         if char in summary:
                             summaryFormat = summaryFormat.replace(char, alt)
-                    newsTitle = "\\subsubsection{" + titleFormat +" \\href{" + n["link"] + "}{\ding{225}}}\n"
+                    newsTitle = "### *[" + titleFormat + "](" + n["link"] + ")*\n"
                     paragraph = summaryFormat + "\n"
-                    data = "\\textit{" + data + "}\n\n"
+                    data = "_" + data + "_\n\n"
                     f.write(newsTitle)
                     f.write(data)
                     f.write(paragraph)
+                    f.write("\n---\n")
         f.close()
