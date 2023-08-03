@@ -1,2 +1,2 @@
 python3.exe main.py
-pdflatex main.tex
+git add * | git commit -m "Today news" | git push

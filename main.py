@@ -123,21 +123,9 @@ feedsJson = [
 ]
 
 specialCharacter = [
-    {"char" : "à", "alt" : "\\`{a}"},
-    {"char" : "è", "alt" : "\\`{e}"},
-    {"char" : "ì", "alt" : "\\`{i}"},
-    {"char" : "ò", "alt" : "\\`{o}"},
-    {"char" : "ù", "alt" : "\\`{u}"},
-    {"char" : "%", "alt" : "\\%"},
-    {"char" : "$", "alt" : "\\$"},
-    {"char" : "°", "alt" : "\\ang"},
     {"char" : "<p>", "alt" : ""},
     {"char" : "</p>", "alt" : ""},
-    {"char" : "<a>", "alt" : ""},
-    {"char" : "</a>", "alt" : ""},
     {"char" : "&nbsp;", "alt" : ""},
-    {"char" : "#", "alt" : ""},
-    {"char" : "&", "alt" : "\\&"},
 ]
 
 if hasattr(ssl, "_create_unverified_context"):
