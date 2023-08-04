@@ -132,7 +132,9 @@ if hasattr(ssl, "_create_unverified_context"):
     ssl._create_default_https_context = ssl._create_unverified_context
 
     with open("News.md", "w", encoding='utf-8') as f:
-        toc = "# Table of Content\n"
+        opening = "# NEWS "  + date + "\n"
+        f.write(opening)
+        toc = "# TABLE OF CONTENT\n"
         f.write(toc)
         i = 1
         for item in feedsJson:
@@ -148,7 +150,7 @@ if hasattr(ssl, "_create_unverified_context"):
                 j += 1
                 f.write(subCatItem)
         
-        f.write("\n")
+        f.write("\n---\n---\n")
         
         for item in feedsJson:
             sectionTitle = item["category"]
