@@ -136,18 +136,14 @@ if hasattr(ssl, "_create_unverified_context"):
         f.write(opening)
         toc = "# TABLE OF CONTENT\n"
         f.write(toc)
-        i = 1
         for item in feedsJson:
             category = item["category"]
-            catItem = str(i) + ". [" + category.capitalize() + "](#" + category + ")\n"
-            i += 1
+            catItem = "1. [" + category.capitalize() + "](#" + category + ")\n"
             f.write(catItem)
-            j = 1
             for link in item["feeds"]:
                 subCategory = link["site"]
                 subCategoryLink = subCategory.replace(" ", "-")
-                subCatItem = "\t" + str(j) + ". [" + subCategory.capitalize() + "](#" + subCategoryLink + ")\n"
-                j += 1
+                subCatItem = "\t" + "1. [" + subCategory.capitalize() + "](#" + subCategoryLink + ")\n"
                 f.write(subCatItem)
         
         f.write("\n---\n---\n")
@@ -160,7 +156,7 @@ if hasattr(ssl, "_create_unverified_context"):
             for link in item["feeds"]:
                 subSectionName = link["site"]
                 subSectionLink = link["link"]
-                subSection = "## *[" + subSectionName.capitalize() + "](" + subSectionLink + ")*\n"
+                subSection = "## [" + subSectionName.capitalize() + "](" + subSectionLink + ")\n"
                 print(subSection)
                 f.write(subSection)
                 feed = feedparser.parse(link["rss"])
@@ -179,7 +175,7 @@ if hasattr(ssl, "_create_unverified_context"):
                             titleFormat = titleFormat.replace(char, alt)
                         if char in summary:
                             summaryFormat = summaryFormat.replace(char, alt)
-                    newsTitle = "### *[" + titleFormat + "](" + n["link"] + ")*\n"
+                    newsTitle = "### [" + titleFormat + "](" + n["link"] + ")\n"
                     paragraph = summaryFormat + "\n"
                     data = "_" + data + "_\n\n"
                     f.write(newsTitle)

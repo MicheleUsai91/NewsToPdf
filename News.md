@@ -1,5342 +1,5006 @@
-# NEWS 04-Aug-2023
+# NEWS 21-Sep-2023
 # TABLE OF CONTENT
 1. [Economy](#economy)
 	1. [Ansa economia](#ansa-economia)
-	2. [Market watch](#market-watch)
-2. [Sardegna](#sardegna)
+	1. [Market watch](#market-watch)
+1. [Sardegna](#sardegna)
 	1. [Ansa sardegna](#ansa-sardegna)
-3. [Science](#science)
+1. [Science](#science)
 	1. [Live science](#live-science)
-	2. [New scientist](#new-scientist)
-	3. [Phys org](#phys-org)
-	4. [Scientific american](#scientific-american)
-	5. [Science news](#science-news)
-4. [Tech](#tech)
+	1. [New scientist](#new-scientist)
+	1. [Phys org](#phys-org)
+	1. [Scientific american](#scientific-american)
+	1. [Science news](#science-news)
+1. [Tech](#tech)
 	1. [Hacker news](#hacker-news)
-	2. [Wired](#wired)
-5. [World](#world)
+	1. [Wired](#wired)
+1. [World](#world)
 	1. [Ansa cronaca](#ansa-cronaca)
-	2. [Ansa politica](#ansa-politica)
-	3. [Ansa mondo](#ansa-mondo)
-	4. [The guardian](#the-guardian)
-	5. [The new york times](#the-new-york-times)
-	6. [Wall street journal](#wall-street-journal)
+	1. [Ansa politica](#ansa-politica)
+	1. [Ansa mondo](#ansa-mondo)
+	1. [The guardian](#the-guardian)
+	1. [The new york times](#the-new-york-times)
+	1. [Wall street journal](#wall-street-journal)
 
 ---
 ---
 # Economy
-## *[Ansa economia](https://www.ansa.it/sito/notizie/economia/economia.shtml)*
-### *[Borsa: l'Europa apre in rialzo in attesa dei dati Usa](https://www.ansa.it/sito/notizie/economia/2023/08/04/borsa-leuropa-apre-in-rialzo-in-attesa-dei-dati-usa_e4685671-5797-426b-879e-5bf70e30f687.html)*
-_4-Aug-2023_
+## [Ansa economia](https://www.ansa.it/sito/notizie/economia/economia.shtml)
+### [La Svezia alza i tassi al 4% come previsto](https://www.ansa.it/sito/notizie/economia/2023/09/21/la-svezia-alza-i-tassi-al-4-come-previsto_37e3d754-3358-4183-8f93-b86b7ef8fd14.html)
+_21-Sep-2023_
 
-Parigi (+0,36%), Francoforte (+0,15%) e Londra (+0,12%)
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[La benzina al self è ancora in rialzo, a 1,929 euro al litro](https://www.ansa.it/sito/notizie/economia/2023/08/04/la-benzina-al-self-e-ancora-in-rialzo-a-1929-euro-al-litro_1941d1dc-fdd3-42d0-a5d6-eae8fa114a73.html)*
-_4-Aug-2023_
-
-Staffetta, in autostrada sfiora i 2 euro. Verde Tamoil -1 cent
+Aumento dello 0,25%, possibili ulteriori rialzi
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[La benzina al self è ancora in rialzo, a 1,929 euro al litro](https://www.ansa.it/sito/notizie/economia/2023/08/04/la-benzina-al-self-e-ancora-in-rialzo-a-1929-euro-al-litro_ab4701df-333e-43fe-8971-af4b816fadc6.html)*
-_4-Aug-2023_
+### [Borsa: l'Europa parte debole dopo la Fed, Parigi -1%](https://www.ansa.it/sito/notizie/economia/2023/09/21/borsa-leuropa-parte-debole-dopo-la-fed-parigi-1_8bd235c6-c741-4dcd-8c77-8415b17695e5.html)
+_21-Sep-2023_
 
-Staffetta, in autostrada sfiora i 2 euro. Verde Tamoil -1 cent
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Cala la produzione industriale in Francia e Spagna](https://www.ansa.it/sito/notizie/economia/2023/08/04/-in-francia-la-produzione-industriale-09-a-giugno-_d7b8149d-8b08-4077-8a08-dda86807f26e.html)*
-_4-Aug-2023_
-
-Ribasso dell1%
+Il listino francese è il peggiore, Londra e Amsterdam -0,6%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Borsa: Milano apre in rialzo dello 0,2%](https://www.ansa.it/sito/notizie/economia/2023/08/04/borsa-milano-apre-in-rialzo-dello-02_776735af-5d32-48f7-9b3a-dcfb8171a5ee.html)*
-_4-Aug-2023_
+### [Borsa: Milano apre in calo, Ftse Mib -0,78%](https://www.ansa.it/sito/notizie/economia/2023/09/21/borsa-milano-apre-in-calo-ftse-mib-078_1398d1bb-9627-4498-816d-cd1d60bb14cb.html)
+_21-Sep-2023_
 
-Il primo indice Ftse Mib a 28.760 punti
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[In Germania gli ordini di fabbrica +7% a giugno](https://www.ansa.it/sito/notizie/economia/2023/08/04/in-germania-gli-ordini-di-fabbrica-7-a-giugno_7d451922-1af1-4c3e-8bb6-91c63151d389.html)*
-_4-Aug-2023_
-
-Su base annua si registra un aumento del 3%
+In ribasso anche l'indice Ftse All share, -0,76%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Borsa: l'Asia chiude positiva, si guarda alle trimestrali](https://www.ansa.it/sito/notizie/economia/2023/08/04/borsa-lasia-chiude-positiva-si-guarda-alle-trimestrali_af23d282-9147-4162-b08f-83cc3b8eae3a.html)*
-_4-Aug-2023_
+### [Euro poco mosso in avvio di giornata a 1,0644 dollari](https://www.ansa.it/sito/notizie/economia/2023/09/21/euro-poco-mosso-in-avvio-di-giornata-a-10644-dollari_c20fe7ee-5547-4a1e-9026-57b260d345cc.html)
+_21-Sep-2023_
 
-Tokyo guadagna lo 0,1%. Lo yen si rafforza sul dollaro
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Mps batte le attese, l'utile del semestre sale a 619 milioni](https://www.ansa.it/sito/notizie/economia/2023/08/04/mps-batte-le-attese-lutile-del-semestre-sale-a-619-milioni_17c7deb3-6f14-47e5-b5e6-b2f941a026bb.html)*
-_4-Aug-2023_
-
-Corrono i ricavi con i tassi, 'solidità ai vertici del sistema'
+In calo dello 0,16%. Lo yen è a 148,3
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Il prezzo del gas apre in rialzo a 30,8 euro](https://www.ansa.it/sito/notizie/economia/2023/08/04/il-prezzo-del-gas-apre-in-rialzo-a-308-euro_cd9fae7a-2cab-4cc1-96f2-c442f7e5c5af.html)*
-_4-Aug-2023_
+### [Il gas parte in calo (-3%) a 36 euro al Megawattora](https://www.ansa.it/sito/notizie/economia/2023/09/21/il-gas-parte-in-calo-3-a-36-euro-al-megawattora_90e620f1-1732-4643-92d9-a4e9d23cfd01.html)
+_21-Sep-2023_
 
-Ad Amsterdam le quotazioni salgono dell'1,1%
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[L'euro è in rialzo sul dollaro in avvio a 1,0956](https://www.ansa.it/sito/notizie/economia/2023/08/04/leuro-e-in-rialzo-sul-dollaro-in-avvio-a-10956_56313159-4072-4add-b2cc-882cd3903ea6.html)*
-_4-Aug-2023_
-
-La moneta unica scende a 155 sullo yen
+Sul mercato di Amsterdam, di riferimento per l'Europa
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Lo spread tra Btp e Bund apre in calo a 165 punti](https://www.ansa.it/sito/notizie/economia/2023/08/04/lo-spread-tra-btp-e-bund-apre-in-calo-a-165-punti_8a707e21-e3b5-4855-86bb-07c645dfd5fb.html)*
-_4-Aug-2023_
+### [Lo spread tra Btp e Bund apre in rialzo a 180 punti base](https://www.ansa.it/sito/notizie/economia/2023/09/21/lo-spread-tra-btp-e-bund-apre-in-rialzo-a-180-punti-base_50d04744-bd1d-4160-927b-e89da018328d.html)
+_21-Sep-2023_
 
-Il rendimento del decennale italiano è stabile al 4,26%
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[L'oro è stabile a 1.934 dollari l'oncia](https://www.ansa.it/sito/notizie/economia/2023/08/04/loro-e-stabile-a-1.934-dollari-loncia_14fb15e1-0f0e-46ab-9613-b7fcaae67009.html)*
-_4-Aug-2023_
-
-Quotazioni spot poco mosse (-0,02%)
+Rendimento al 4,5%. In tensione tutti i titoli di stato europei
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[In rialzo il prezzo del petrolio, Wti sale a 81,72 dollari](https://www.ansa.it/sito/notizie/economia/2023/08/04/in-rialzo-il-prezzo-del-petrolio-wti-sale-a-8172-dollari_763bf40f-215a-4c4b-beac-729ec8b65f3f.html)*
-_4-Aug-2023_
+### [Borsa: l'Asia scivola con la Fed, male Tokyo e Seul](https://www.ansa.it/sito/notizie/economia/2023/09/21/borsa-lasia-scivola-con-la-fed-male-tokyo-e-seul_d27bf6e3-144d-43ae-89a5-f80947328ce3.html)
+_21-Sep-2023_
 
-Guadagna anche il Brent a 85,26 dollari al barile
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Via i top manager di Terna Scornajenchi e Del Villano](https://www.ansa.it/sito/notizie/economia/2023/08/04/-via-i-top-manager-terna-scornajenchi-e-del-villano-_d5a7043b-edd9-42d4-9fd4-959d960c70ef.html)*
-_4-Aug-2023_
-
-Sono rispettivamente direttore finanziario e Corporate Affairs
+Negativi gli indici sull'avvio dei listini europei
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mimit, dal cdm ok a norme su Rc auto, obbligo a monopattini](https://www.ansa.it/sito/notizie/economia/2023/08/03/mimit-dal-cdm-ok-a-norme-su-rc-auto-obbligo-a-monopattini_bdb3e516-8890-4ea3-8334-81f1922f86ae.html)*
-_3-Aug-2023_
+### [Oro in lieve calo a 1.928 dollari l'oncia](https://www.ansa.it/sito/notizie/economia/2023/09/21/oro-in-lieve-calo-a-1.928-dollari-loncia_ae94522c-778a-4bb6-a269-c056c8ced679.html)
+_21-Sep-2023_
 
-Approvato in via preliminare schema di decreto legislativo
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Il petrolio chiude in rialzo a New York a 81,55 dollari](https://www.ansa.it/sito/notizie/economia/2023/08/03/il-petrolio-chiude-in-rialzo-a-new-york-a-8155-dollari_e531ef84-c65c-4e3d-a98d-3c2b49f89743.html)*
-_3-Aug-2023_
-
-Quotazioni salgono del 2,57%
+Cede lo 0,12%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Salvini riorganizza il Mit. Riflettori su casa e porti](https://www.ansa.it/sito/notizie/economia/2023/08/03/salvini-riorganizza-il-mit.-riflettori-su-casa-e-porti_a08fbead-77ae-4813-b146-5d66a65fd39b.html)*
-_3-Aug-2023_
+### [Petrolio in calo dopo Fed, Wti sotto 89 dollari al barile](https://www.ansa.it/sito/notizie/economia/2023/09/21/petrolio-in-calo-dopo-fed-wti-sotto-89-dollari-al-barile_a9c15b68-00fd-4a5c-8952-de0fd1ab78fc.html)
+_21-Sep-2023_
 
-Si passa da tre a quattro dipartimenti.Una direzione per la casa
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Via libera Senato al decreto per emergenza caldo lavoratori](https://www.ansa.it/sito/notizie/economia/2023/08/03/via-libera-senato-al-decreto-per-emergenza-caldo-lavoratori_3b324c1f-9099-44ef-a120-9527bde83b08.html)*
-_3-Aug-2023_
-
-Il provvedimento passa all'esame della Camera
+Brent 92,83 dollari
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Stellantis, avanti il 'Polo del riciclo' a Mirafiori](https://www.ansa.it/sito/notizie/economia/2023/08/03/stellantis-avanti-il-polo-del-riciclo-a-mirafiori_ba1fc6fb-eeeb-4caa-9ee1-4e86d215a031.html)*
-_3-Aug-2023_
+### [Borsa: Hong Kong negativa dopo mosse Fed, apre a -0,50%](https://www.ansa.it/sito/notizie/economia/2023/09/21/borsa-hong-kong-negativa-dopo-mosse-fed-apre-a-050_05ba1433-f916-4764-9ccd-45db9e4c437b.html)
+_21-Sep-2023_
 
-Pronto in autunno su 55.000 metri quadri di area inutilizzata
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Cicogne 'sfrattate' scelgono torre Inwit come nuovo nido](https://www.ansa.it/sito/notizie/economia/2023/08/03/cicogne-sfrattate-scelgono-torre-inwit-come-nuovo-nido_d4a459c5-2bdd-4955-a8c3-15cd73c8a344.html)*
-_3-Aug-2023_
-
-Comune del pavese aveva chiesto aiuto per garantire il ritorno
+Shanghai cede lo 0,17%, Shenzhen perde lo 0,22%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Fonti Inps, altre 30mila sospensioni Rdc dopo rata di agosto](https://www.ansa.it/sito/notizie/economia/2023/08/03/fonti-inps-altre-30mila-sospensioni-rdc-dopo-rata-di-agosto_9b70349d-c74c-4340-b73c-4ae2d7b1ca3a.html)*
-_3-Aug-2023_
+### [Borsa: Tokyo, apertura in calo (-0,43%)](https://www.ansa.it/sito/notizie/economia/2023/09/21/borsa-tokyo-apertura-in-calo-043_2d0f6afe-b485-434e-b6fb-d05e5b5efb90.html)
+_21-Sep-2023_
 
-Entro fine anno ce ne saranno in totale circa 80mila
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Impegno all'intesa sul trimestre salva-spesa entro il 10/9](https://www.ansa.it/sito/notizie/economia/2023/08/03/impegno-allintesa-sul-trimestre-salva-spesa-entro-il-10/9_fb090b14-b541-4644-81b6-e79461bba529.html)*
-_3-Aug-2023_
-
-Avanti solo con il commercio. Non partecipa l'industria
+Segnali Fed pesano sui mercati, yen si svaluta su dollaro
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Confindustria e Sole 24 Ore certificano l'eccellenza italiana](https://www.ansa.it/sito/notizie/economia/2023/08/03/confindustria-e-sole-24-ore-certificano-leccellenza-italiana_b3563e2c-f9d0-4730-baad-6c27cdc89223.html)*
-_3-Aug-2023_
+### [La Fed lascia i tassi fermi ai massimi da 22 anni, Spread Btp-Bund in netto rialzo a 180](https://www.ansa.it/sito/notizie/economia/aziende/2023/09/20/fed-lascia-i-tassi-invariati-ai-massimi-da-22-anni_2bc4bbc3-c47f-4dd4-8abc-72c6b6fdf8c6.html)
+_21-Sep-2023_
 
-Accordo per sviluppare una certificazione nel manifatturiero
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Il prezzo del gas chiude in rialzo oltre i 30 euro](https://www.ansa.it/sito/notizie/economia/2023/08/03/il-prezzo-del-gas-chiude-in-rialzo-oltre-i-30-euro_d75e8f63-b725-48bd-a7f0-3d4173353b96.html)*
-_3-Aug-2023_
-
-I Ttf Ad Amsterdam segnano un +6%
+Almeno un altro rialzo nel 2023. Powell: "L'inflazione resta alta"
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Borsa: Milano chiude in flessione, Bper la peggiore](https://www.ansa.it/sito/notizie/economia/2023/08/03/borsa-milano-chiude-in-flessione-bper-la-peggiore_3136df73-f381-4f15-8665-d22dbb0ebade.html)*
-_3-Aug-2023_
+### [Mase, prima riunione della piattaforma nucleare sostenibile](https://www.ansa.it/sito/notizie/economia/2023/09/20/mase-prima-riunione-della-piattaforma-nucleare-sostenibile_ba53e853-f80f-4abb-bb3c-e988ac9c4020.html)
+_20-Sep-2023_
 
-Vendite anche su Tim, ancora controcorrente Iveco
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Lo spread tra Btp e Bund chiude in rialzo a 166,6 punti](https://www.ansa.it/sito/notizie/economia/2023/08/03/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-1666-punti_b2551cee-b049-4451-b07b-73c6c8b54bf9.html)*
-_3-Aug-2023_
-
-Il rendimento del decennale italiano sale al 4,26%
+Domani mattina al ministero, poi Pichetto ne parla in streaming
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Calderone, 'è il lavoro il vero rimedio alla povertà, 506 milioni percepiti indebitamente'](https://www.ansa.it/sito/notizie/economia/2023/08/03/calderone-e-il-lavoro-il-vero-rimedio-alla-poverta-506-milioni-percepiti-indebitamente_e727e48a-1770-4ef0-841a-0b55ba067cfb.html)*
-_3-Aug-2023_
+### [Calderone: 'Vigileremo sul licenziamento della Cgil'](https://www.ansa.it/sito/notizie/economia/2023/09/20/calderone-vigileremo-sul-licenziamento-della-cgil_b30ba552-a274-4a95-b4a2-6c72a331d8e5.html)
+_20-Sep-2023_
 
-Su 159mila sms inviati a beneficiari del Reddito per la sospensione della misura da agosto 117.317 sono stati inviati a famiglie composte da una sola persona' ha precisato la ministra
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Borsa: l'Europa chiude in flessione, Parigi -0,72%](https://www.ansa.it/sito/notizie/economia/2023/08/03/borsa-leuropa-chiude-in-flessione-parigi-072_258c7943-3483-421f-b6aa-b5d4c7ff6a24.html)*
-_3-Aug-2023_
-
-Francoforte -0,79%, Londra -0,43%
+Il caso al question time. 'Nel 2019 un contratto irregolare'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Centromarca-Ibc, 'il trimestre salva-spesa è impraticabile'](https://www.ansa.it/sito/notizie/economia/2023/08/03/centromarca-ibc-il-trimestre-salva-spesa-e-impraticabile_c3f381d8-55b7-4f00-b6eb-56900a79c2ac.html)*
-_3-Aug-2023_
+### [Safilo e Amazon lanciano nuovi occhiali smart](https://www.ansa.it/sito/notizie/economia/2023/09/20/safilo-e-amazon-lanciano-nuovi-occhiali-smart_47d25908-9a95-4320-be09-88941ddb9d07.html)
+_20-Sep-2023_
 
-'Valutati gli aspetti sostanziali e di carattere giuridico'
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Borsa: Milano chiude in calo dello 0,94%](https://www.ansa.it/sito/notizie/economia/2023/08/03/borsa-milano-chiude-in-calo-dello-094_a00f6153-f97f-4470-80f4-2616686bc3b1.html)*
-_3-Aug-2023_
-
-Ftse Mib a 28.702 punti
+A marchio Carrera con tecnologia Alexa, solo per il mercato Usa
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Gelera, 'l'sms Inps avrebbe dovuto essere più accurato'](https://www.ansa.it/sito/notizie/economia/2023/08/03/gelera-lsms-inps-avrebbe-dovuto-essere-piu-accurato_8c040151-c08b-4460-8abd-284fc3238924.html)*
-_3-Aug-2023_
+### [Borsa: Milano chiude maglia rosa in Europa, vola Unicredit](https://www.ansa.it/sito/notizie/economia/2023/09/20/borsa-milano-chiude-maglia-rosa-in-europa-vola-unicredit_a4936be9-1f70-48de-a9d9-3c81cdb15eb2.html)
+_20-Sep-2023_
 
-Nell'ambito di un rapporto di trasparenza e lealtà con cittadini
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Il prezzo del gas sale e si avvicina ai 31 euro](https://www.ansa.it/sito/notizie/economia/2023/08/03/il-prezzo-del-gas-sale-e-si-avvicina-ai-31-euro_8845a6f4-39c6-4f57-bec0-d260c4709790.html)*
-_3-Aug-2023_
-
-Ad incidere i lavori in Norvegia e le basse importazioni di Gnl
+In luce Amplifon e Tim. Lo spread Btp-Bund scende a 174 punti
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Arriva il taxi gratis all'uscita delle discoteche](https://www.ansa.it/sito/notizie/economia/2023/08/03/arriva-il-taxi-gratis-alluscita-delle-discoteche_a0a0b0fc-4c28-4382-a145-f649e101f965.html)*
-_3-Aug-2023_
+### [Lo spread tra Btp e Bund chiude in calo a 174 punti](https://www.ansa.it/sito/notizie/economia/2023/09/20/lo-spread-tra-btp-e-bund-chiude-in-calo-a-174-punti_1b4fded7-4b1b-4e09-93cf-a30bccd01f27.html)
+_20-Sep-2023_
 
-Accordo al Mit, fondi per dare il via a un progetto sperimentale
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Leo, 'nessun condono, la collaborazione darà risorse'](https://www.ansa.it/sito/notizie/economia/2023/08/03/leo-nessun-condono-la-collaborazione-dara-risorse_6cc7cff8-4630-430c-af0b-319d095ea3b1.html)*
-_3-Aug-2023_
-
-Scriviamo pagina importante nella storia del diritto tributario
+Il rendimento del decennale italiano scende al 4,44%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Fondi di coesione, oltre 32,4 miliardi deliberati dal Cipess](https://www.ansa.it/sito/notizie/economia/2023/08/03/fondi-di-coesione-oltre-324-miliardi-deliberati-dal-cipess_d1700f99-8d23-4fc2-a9b1-e154b27118fd.html)*
-_3-Aug-2023_
+### [Il prezzo del gas chiude in rialzo a 37,3 euro](https://www.ansa.it/sito/notizie/economia/2023/09/20/il-prezzo-del-gas-chiude-in-rialzo-a-373-euro_e77dbec5-275b-42c3-9346-4dd88dcc7408.html)
+_20-Sep-2023_
 
-Individuate le quote per ogni Regione e Provincia autonoma
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Borsa: L'Europa conferma il rosso con l'avvio di Wall Street](https://www.ansa.it/sito/notizie/economia/2023/08/03/borsa-leuropa-conferma-il-rosso-con-lavvio-di-wall-street_16932ad5-b1b1-4f70-8ffe-4ef070a1f441.html)*
-_3-Aug-2023_
-
-Lo spread risale a168 punti, gas e petrolio in rialzo
+Ad Amsterdam le quotazioni guadagnano l'1,36%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Lo spread tra Btp e Bund lima a 167 punti](https://www.ansa.it/sito/notizie/economia/2023/08/03/lo-spread-tra-btp-e-bund-lima-a-167-punti_dd21b406-2123-4838-9520-46ffef444739.html)*
-_3-Aug-2023_
+### [Borsa: l'Europa chiude in in rialzo in attesa della Fed](https://www.ansa.it/sito/notizie/economia/2023/09/20/borsa-leuropa-chiude-in-in-rialzo-in-attesa-della-fed_28a919cf-9971-446f-a8a1-6a663a3cb0cf.html)
+_20-Sep-2023_
 
-Sempre forte il rendimento del decennale italiano che è al 4,24%
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[L'Italia stenta a decollare per l'uso dei fondi Ue 2021-2027](https://www.ansa.it/sito/notizie/economia/2023/08/03/litalia-stenta-a-decollare-per-luso-dei-fondi-ue-2021-2027_bea7dfd6-1375-4dd9-89ee-607fd2accf49.html)*
-_3-Aug-2023_
-
-Fonti Ue, 'in gioco più risorse risprtto a sussidi del Pnrr'
+Londra (+0,93%), Francoforte (+0,75%) e Parigi (+0,67%)
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Borsa: Milano (-0,7%) riduce calo con l'Europa, scatta Iveco](https://www.ansa.it/sito/notizie/economia/2023/08/03/borsa-milano-07-riduce-calo-con-leuropa-scatta-iveco_11b6d23f-4e44-42e9-a5dd-569c34219c07.html)*
-_3-Aug-2023_
+### [Borsa: Milano chiude in netto rialzo dell'1,64%](https://www.ansa.it/sito/notizie/economia/2023/09/20/borsa-milano-chiude-in-netto-rialzo-dell164_c80a888a-9c41-40c6-b3d0-345df057c12d.html)
+_20-Sep-2023_
 
-Migliora Londra dopo le decisioni della Boe. Spread più calmo
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Labriola, con soci italiani è più semplice vendere la rete](https://www.ansa.it/sito/notizie/economia/2023/08/03/labriola-con-soci-italiani-e-piu-semplice-vendere-la-rete_5766654b-1d05-47d0-a0b8-6881c7354383.html)*
-_3-Aug-2023_
-
-'Mmantenuto le promesse', Confermata la guidance per il 2023
+L'ultimo indice Ftse Mib a 29.229 punti
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Emiliano: Whurt e Midrex scelte per la decarbonizzazione di Ilva](https://www.ansa.it/sito/notizie/economia/2023/08/03/emiliano-whurt-e-midrex-scelte-per-la-decarbonizzazione-di-ilva_f0f5e57d-78f2-4762-a3ab-0b5a46ac84e8.html)*
-_3-Aug-2023_
+### [Borsa: l'Europa accelera dopo Wall Street, Milano +1,7%](https://www.ansa.it/sito/notizie/economia/2023/09/20/borsa-leuropa-accelera-dopo-wall-street-milano-17_e00375ce-58b1-4b0e-a536-55ca453049c3.html)
+_20-Sep-2023_
 
-Il governatore: 'incomprensibile scelta Fitto su fondi Pnrr"
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Anpal, 108mila con Rdc hanno avuto politica attiva lavoro](https://www.ansa.it/sito/notizie/economia/2023/08/03/anpal-108mila-con-rdc-hanno-avuto-politica-attiva-lavoro_ea167e14-1d8f-411d-94da-db9534bf66bc.html)*
-_3-Aug-2023_
-
-Il 42% dei presi in carico da Gol al 30 giugno
+A Piazza Affari toniche le banche. L'euro sale sul dollaro
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Federdistribuzione, avanti comunque su patto salva-spesa](https://www.ansa.it/sito/notizie/economia/2023/08/03/federdistribuzione-avanti-comunque-su-patto-salva-spesa_f02cade3-e2d2-4cf6-a611-c27a0c91805d.html)*
-_3-Aug-2023_
+### [Wall Street apre positiva in attesa della Fed, Dj +0,26%](https://www.ansa.it/sito/notizie/economia/2023/09/20/wall-street-apre-positiva-in-attesa-della-fed-dj-026_7f79daaa-3f9d-4495-b413-c0ce6764e7d9.html)
+_20-Sep-2023_
 
-Anche se l'industria si dichiara indisponibile all'accordo
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Panetta, persistere su livello dei tassi, non solo alzarli](https://www.ansa.it/sito/notizie/economia/2023/08/03/panetta-persistere-su-livello-dei-tassi-non-solo-alzarli_69eaf549-8747-4fbf-8d82-f644b9aed41a.html)*
-_3-Aug-2023_
-
-Componente board Bce, presto per sapere se rialzo a settembre
+Nasdaq +0,22%, S 500 sale dello 0,3%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[L'inflazione nell'Ocse cala a giugno al 5,7%, Italia al 6,4%](https://www.ansa.it/sito/notizie/economia/2023/08/03/linflazione-nellocse-cala-a-giugno-al-57-italia-al-64_aa765d9b-95a3-44a2-8f2c-b011d6bcef86.html)*
-_3-Aug-2023_
+### [Il petrolio è in calo a New York a 90,42 dollari](https://www.ansa.it/sito/notizie/economia/2023/09/20/il-petrolio-e-in-calo-a-new-york-a-9042-dollari_7e5bcf66-9682-4839-98d3-f0554898341d.html)
+_20-Sep-2023_
 
-Nel Belpaese cala di oltre un punto
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Tronchetti nominato vicepresidente esecutivo di Pirelli](https://www.ansa.it/sito/notizie/economia/2023/08/03/tronchetti-nominato-vicepresidente-esecutivo-di-pirelli_72ae0a7c-3c14-49fb-858c-f65efd943546.html)*
-_3-Aug-2023_
-
-Andrea Casaluci è l'amministratore delegato
+Quotazioni perdono lo 0,86%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Inps, dal 2019 la spesa per Rdc ha superato i 31,5 miliardi](https://www.ansa.it/sito/notizie/economia/2023/08/03/inps-dal-2019-la-spesa-per-rdc-ha-superato-i-315-miliardi_5d569e93-ca2b-4d0d-ab6f-889ddde682ea.html)*
-_3-Aug-2023_
+### [A rischio fondi Ue per Sicilia per oltre 1,6 miliardi](https://www.ansa.it/sito/notizie/economia/2023/09/20/a-rischio-fondi-ue-per-sicilia-per-oltre-16-miliardi_15ec31d8-4a8a-4134-a76c-63b6dfc4f8ee.html)
+_20-Sep-2023_
 
-1.148.010 i nuclei beneficiari, importo medio di 538,64 euro
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Il Governo frena, 'non ci sarà una patrimoniale'](https://www.ansa.it/sito/notizie/economia/2023/08/03/passa-alla-camera-ordine-del-giorno-sulla-patrimoniale_9b51ce01-3c5f-49f6-8759-bdcc396a383d.html)*
-_3-Aug-2023_
-
-Alla Camera approvato un odg con ok dell'esecutivo che la ipotizzava per fondi alla scuola
+A fine anno scade termine ultimo per la spesa
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Bank of England alza ancora i tassi, al 5,25%](https://www.ansa.it/sito/notizie/economia/2023/08/03/bank-of-england-alza-ancora-i-tassi-al-525_af26e77a-b160-425a-a832-d3872f59222f.html)*
-_3-Aug-2023_
+### [Walt Disney scommette su parchi e crociere, investe 60 miliardi](https://www.ansa.it/sito/notizie/economia/2023/09/20/walt-disney-scommette-su-parchi-e-crociere-investe-60-miliardi_14130c2b-4b03-4862-84eb-f15dd91d88c6.html)
+_20-Sep-2023_
 
-Aumento di un quarto di punto per ridurre l'inflazione
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Vendite in calo dello 0,2% a giugno, -0,7% in volume](https://www.ansa.it/sito/notizie/economia/2023/08/03/vendite-in-calo-dello-02-a-giugno-07-in-volume_4063206f-28c3-45f0-a86a-9eef1d1a44c2.html)*
-_3-Aug-2023_
-
-Istat, su base annua +3,6% in valore e -3,5% in volume
+La spesa per visitatore è aumentata del 42% dal 2019
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Fincantieri e Cabi Cattaneo insieme per i veicoli subacquei](https://www.ansa.it/sito/notizie/economia/2023/08/03/fincantieri-e-cabi-cattaneo-insieme-per-i-veicoli-subacquei_e205d534-3f80-4b80-8509-72ad1120d8a1.html)*
-_3-Aug-2023_
+### [L'inflazione in Uk cala inaspettatamente al 6,7%](https://www.ansa.it/sito/notizie/economia/2023/09/20/linflazione-in-uk-cala-inaspettatamente-al-67_1e65e70c-50da-4a34-a9d4-16a0bf8df153.html)
+_20-Sep-2023_
 
-Siglato Mou. Collaborazione potrà estendersi ad altre aziende
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Uilt: 'Consultati i lavoratori di Italo, sciopero a settembre'](https://www.ansa.it/sito/notizie/economia/2023/08/03/uilt-consultati-i-lavoratori-di-italo-sciopero-a-settembre_c49e59a1-246b-4cf0-8947-6d2bbd08d54d.html)*
-_3-Aug-2023_
-
-"E' insufficiente l'accordo siglato dagli altri sindacati"
+Gli analisti aspettavano una crescita al 7%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Borsa: l'Europa resta pesante dopo Fitch, Milano -1,5%](https://www.ansa.it/sito/notizie/economia/2023/08/03/borsa-leuropa-resta-pesante-dopo-fitch-milano-15_982c813a-91fa-4060-ad0b-1e8168ddc295.html)*
-_3-Aug-2023_
+### [Il rezzo del gas vicino a 37 euro, flussi Norvegia in ripresa](https://www.ansa.it/sito/notizie/economia/2023/09/20/il-rezzo-del-gas-vicino-a-37-euro-flussi-norvegia-in-ripresa_42f4e9c1-c3e5-4413-b668-1fe975b533e4.html)
+_20-Sep-2023_
 
-Male Bper e Banco Bpm dopo i conti. Tensione sui titoli di Stato
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Tensione sui titoli di Stato, spread Btp-Bund a quota 170](https://www.ansa.it/sito/notizie/economia/2023/08/03/tensione-sui-titoli-di-stato-spread-btp-bund-a-quota-170_b8dea666-21f9-4b53-81c5-996bbd67ed59.html)*
-_3-Aug-2023_
-
-In aumento i tassi anche sui bond Usa
+Gli stoccaggi in Europa sono pieni al 94%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-## *[Market watch](https://www.marketwatch.com/)*
-### *[Economic Report: German factory orders jump by 7% in June](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7241-4EDEA5DD0E01%7D&siteid=rss&rss=1)*
-_04-Aug-2023_
+### [++ Ad Ryanair, 'in Sicilia vogliamo crescere' ++](https://www.ansa.it/sito/notizie/economia/2023/09/20/-ad-ryanair-in-sicilia-vogliamo-crescere-_58e47e8a-73e5-4596-b86f-12fb1911778d.html)
+_20-Sep-2023_
 
-German factory orders jumped 7% in June, the most in three years, according to data released Friday.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Dow Jones Newswires: RBA sees inflation back within target by end of 2025, soft landing for economy](http://www.marketwatch.com/news/story.asp?guid=%7B20C0C4D5-7425-4434-F126-659DE862548B%7D&siteid=rss&rss=1)*
-_04-Aug-2023_
-
-The Reserve Bank of Australia remains confident that it will tame inflation over the coming years, bringing it back within the desired 2% to 3% target band by the end of 2025.
+Wilson, "confronto aperto con Regione, rimuovere addizionale"
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Key Words: As Hollywood strikes continue, unions call out excessive CEO pay: ‘We need to look at what they’re doing with executive compensation’](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7240-D56D7A5E7694%7D&siteid=rss&rss=1)*
-_04-Aug-2023_
+### [Lo spread tra Btp e Bund risale, torna a 177 punti](https://www.ansa.it/sito/notizie/economia/2023/09/20/lo-spread-tra-btp-e-bund-risale-torna-a-177-punti_427bfb41-a9d4-4ddb-bf7b-a7d211d83885.html)
+_20-Sep-2023_
 
-AFL-CIO says media and entertainment company CEOs made an average of $35 million last year.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[: Microsoft exec Brad Smith sells nearly $17 million in stock](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7240-9146F7B3E6FF%7D&siteid=rss&rss=1)*
-_04-Aug-2023_
-
-Longtime Microsoft executive Brad Smith dumped nearly $17 million worth of Microsoft shares earlier this week, new disclosures show.
+Il rendimento del decennale italiano sempre in calo al 4,48%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Earnings Results: Fortinet leads cybersecurity stocks sharply lower after warning of deal delays](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7241-37C4AA8FABD8%7D&siteid=rss&rss=1)*
-_04-Aug-2023_
+### [Urso, 'Antitrust più forte per sgominare l'algoritmo'](https://www.ansa.it/sito/notizie/economia/2023/09/20/urso-antitrust-piu-forte-per-sgominare-lalgoritmo_2bb4e341-2ea9-464b-a50e-81c6d668bb1f.html)
+_20-Sep-2023_
 
-Fortinet saw an "unusually large volume of deals" pushed out beyond the June quarter, its chief financial officer said Thursday.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[MarketWatch First Take: Apple is slogging toward a mediocre milestone not seen in 22 years](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7241-268BC8F4D56F%7D&siteid=rss&rss=1)*
-_04-Aug-2023_
-
-Apple's forecast indicates it could see revenue decline once again in the September quarter, even with the iPhone 15 likely on the horizon.
+'La norma su caro-voli è stata ben indirizzata dando più poteri'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Dow Jones Newswires: Australian regulator rejects ANZ’s deal to acquire Suncorp’s banking unit](http://www.marketwatch.com/news/story.asp?guid=%7B20C0C4D5-7425-4434-F126-659DE8496DF0%7D&siteid=rss&rss=1)*
-_04-Aug-2023_
+### [Unicredit anticipa una tranche da 2,5 miliardi del buyback](https://www.ansa.it/sito/notizie/economia/2023/09/20/unicredit-anticipa-una-tranche-da-25-miliardi-del-buyback_717190e0-ae80-4541-a631-22622e1099b4.html)
+_20-Sep-2023_
 
-Australia's competition regulator has rejected ANZ's proposed 4.9 billion Australian dollars (US$3.21 billion) acquisition of Suncorp's banking unit.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Earnings Results: Apple sees sales decline for third quarter in a row — and says performance could be similar this quarter](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7240-D884B1D92A8A%7D&siteid=rss&rss=1)*
-_04-Aug-2023_
-
-Apple saw revenue fall slightly in the latest quarter, and its management expects similar performance in the current period.
+Orcel frena sulle fusioni. Ai soci almeno 6,5 miliardi all'anno
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Earnings Results: Airbnb results beat expectations amid continued travel rebound, but stock falls after running higher this year](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7240-7CBB9C093913%7D&siteid=rss&rss=1)*
-_04-Aug-2023_
+### [Alleanza Comin and Partners e No Com per servizi congiunti](https://www.ansa.it/sito/notizie/economia/2023/09/20/alleanza-comin-and-partners-e-no-com-per-servizi-congiunti_73f415d1-6953-4276-8e31-4196319c512c.html)
+_20-Sep-2023_
 
-Airbnb  reported second-quarter results and a third-quarter sales forecast that topped Wall Street's estimates.
+Al via polo con oltre 100 professionisti e cinque sedi
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Earnings Results: Coinbase stock dips after narrower loss for crypto company](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7240-96D17FA261A6%7D&siteid=rss&rss=1)*
-_04-Aug-2023_
+### [Borsa: l'Europa si conferma positiva in attesa della Fed](https://www.ansa.it/sito/notizie/economia/2023/09/20/borsa-leuropa-si-conferma-positiva-in-attesa-della-fed_768b33d1-2c92-467d-b224-52480f8bf34d.html)
+_20-Sep-2023_
 
-Coinbase stock dipped after the bell on Thursday after the company reported  a narrower loss and revenue that topped expectations.
+In calo petrolio, gas e lo spread. Risale l'euro sul dollaro
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Leo: 'Le prime misure sul fisco a costo zero, si parte dal tax gap'](https://www.ansa.it/sito/notizie/economia/2023/09/20/leo-le-prime-misure-sul-fisco-a-costo-zero-si-parte-dal-tax_49328dd6-2668-4ff9-ab57-9967f71e1c4e.html)
+_20-Sep-2023_
+
+Se ci saranno 3 aliquote Irpef lo si saprà con la Nadef, ma serve la massima prudenza
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Bonomi: 'Non vedo un rischio mercati ma c'è un rischio tassi'](https://www.ansa.it/sito/notizie/economia/2023/09/20/bonomi-non-vedo-un-rischio-mercati-ma-ce-un-rischio-tassi_086118ef-749f-473e-a814-865cb4fc7005.html)
+_20-Sep-2023_
+
+Panetta: 'Una governance efficace dovrebbe sostenere la crescita'
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Bonomi: "Non vedo un rischio mercati ma c'è un rischio tassi"](https://www.ansa.it/sito/notizie/economia/2023/09/20/bonomi-non-vedo-un-rischio-mercati-ma-ce-un-rischio-tassi_3d7991ac-e873-41d3-981f-a80e12faaed3.html)
+_20-Sep-2023_
+
+"Dobbiamo fare i compiti a casa"
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Panetta,'una governance efficace dovrebbe sostenere la crescita'](https://www.ansa.it/sito/notizie/economia/2023/09/20/panettauna-governance-efficace-dovrebbe-sostenere-la-crescita_94399b4f-283a-447b-aa81-22513634187d.html)
+_20-Sep-2023_
+
+Prestare anche molta attenzione al debito
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+## [Market watch](https://www.marketwatch.com/)
+### [: Hollywood writers reportedly near deal with studios to end strike](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7269-72106E2A71D2%7D&siteid=rss&rss=1)
+_21-Sep-2023_
+
+Hollywood writers and studios are reportedly near an agreement to end one of the months-long strikes that have brought production of TV shows and movies to a halt.
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [MarketWatch First Take: Instacart shares slump to their IPO price as investors have second thoughts](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7269-62183170FCEB%7D&siteid=rss&rss=1)
+_21-Sep-2023_
+
+IPO investors, who are focused on growth potential, appear to have some reservations about Instacart.
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [: Barbie and Wednesday Addams are hot Halloween costumes as Americans expected to spend over $4 billion dressing up this year](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7268-89A61315B86F%7D&siteid=rss&rss=1)
+_20-Sep-2023_
+
+Overall Halloween spending is expected to break a record $12.2 billion this year, the National Retail Federation reports, with the average person spending $108.
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Dow Jones Newswires: Toshiba to go private after shareholders back takeover proposal](http://www.marketwatch.com/news/story.asp?guid=%7B20C0C4D5-7425-4434-F126-660D7A377215%7D&siteid=rss&rss=1)
+_21-Sep-2023_
+
+Toshiba Corp. said Thursday that a tender offer to take the company private ended successfully.
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [: Canopy Growth’s stock falls back below $1 after 46 million shares are registered for sale](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7268-7DB2A6440C0E%7D&siteid=rss&rss=1)
+_20-Sep-2023_
+
+Canopy Growth's stock dropped back below the $1 mark Wednesday after the cannabis company registered roughly 46 million shares for sale to the public.
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [: The return-to-office battle just hit a tipping point that gave companies a win](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7268-E6A39A27524F%7D&siteid=rss&rss=1)
+_20-Sep-2023_
+
+Companies’ push to bring more workers back into the office is showing initial signs of working, according to one important indicator.
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [: There’s one culprit for U.S. airlines’ steeper losses, and it’s not lack of demand](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7268-B77C09186ACF%7D&siteid=rss&rss=1)
+_20-Sep-2023_
+
+U.S. airlines have entered one of their "shoulder" season, but their post-Labor Day doldrums are entirely up to rising fuel prices.
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Earnings Results: KB Home stock slips despite earnings beat, raised forecast and ‘steady’ demand](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7269-2EEEA83FF843%7D&siteid=rss&rss=1)
+_21-Sep-2023_
+
+KB Home shares declined after hours Wednesday following an earnings beat, a hiked revenue forecast, and reported steady demand amid rising mortgage rates.
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Earnings Results: FedEx cites ‘upside’ from UPS labor negotiations and  Yellow’s bankruptcy — but Postal Service is giving it a run for its money](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7269-0DDB83F267D2%7D&siteid=rss&rss=1)
+_21-Sep-2023_
+
+Shares of FedEx rallied after hours on Wednesday after the package deliverer raised its full-year profit outlook.
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [: UAE oil exec and leader of COP28 climate summit tells U.N., energy industry to ‘get after gigatons’ of emissions](http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7269-1343B2783D6A%7D&siteid=rss&rss=1)
+_21-Sep-2023_
+
+Sultan Al Jaber, an executive in an oil industry responsible for the bulk of Earth-warming pollution, tells the U.N., "we are not powerless" in emissions fight.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
 # Sardegna
-## *[Ansa sardegna](https://www.ansa.it/sardegna)*
-### *[A Loceri i cittadini cuochi per due giorni nelle piazze](https://www.ansa.it/sardegna/notizie/2023/08/04/a-loceri-i-cittadini-cuochi-per-due-giorni-nelle-piazze_5b31722c-4a61-4ec8-a12f-fb3b603afa42.html)*
-_4-Aug-2023_
+## [Ansa sardegna](https://www.ansa.it/sardegna)
+### [Vela: al via a Porto Cervo la Scandinavian Gold Cup](https://www.ansa.it/sardegna/notizie/2023/09/20/vela-al-via-a-porto-cervo-la-scandinavian-gold-cup_4cdc7812-7f24-4099-a0ca-e64601859d9f.html)
+_20-Sep-2023_
 
-Cibo, vino, musica e artigianato a Gennas Abertas
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Attentato incendiario a Sassari, bruciata un'ambulanza del 118](https://www.ansa.it/sardegna/notizie/2023/08/04/attentato-incendiario-a-sassari-bruciata-unambulanza-del-118_e457e1fa-ce0e-4fe1-8824-3620cdd13a62.html)*
-_4-Aug-2023_
-
-Nel mirino l'associazione di volontariato Sant'Anna,
+Regate della Classe internazionale 5.5 metri sino a domenica 24
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Presunto terrorista Pkk arrestato, 'io estraneo alle accuse'](https://www.ansa.it/sardegna/notizie/2023/08/03/presunto-terrorista-pkk-arrestato-io-estraneo-alle-accuse_6dea000c-2cd7-4956-82d3-84d3e693fbde.html)*
-_3-Aug-2023_
+### [In moto finisce fuori strada, turista muore a Santa Teresa](https://www.ansa.it/sardegna/notizie/2023/09/20/in-moto-finisce-fuori-strada-turista-muore-a-santa-teresa_0fa4fee2-3eea-4d63-91e6-e3a4dbb14615.html)
+_20-Sep-2023_
 
-La Corte d'appello di Sassari deciderà domani su estradizione
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Altri 16 roghi in Sardegna, in azione elicotteri e Canadair](https://www.ansa.it/sardegna/notizie/2023/08/03/altri-16-roghi-in-sardegna-in-azione-elicotteri-e-canadair_2d672dd7-89de-4662-ac1a-d6af155c1a3f.html)*
-_3-Aug-2023_
-
-A Sant'Andrea Frius il fuoco brucia 5 ettari di macchia
+Vittima un tedesco di 60 anni, chiusa la Statale 133 bis
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Reparto di oncoematologia del Microcitemico torna al Brotzu](https://www.ansa.it/sardegna/notizie/2023/08/03/reparto-di-oncoematologia-del-microcitemico-torna-al-brotzu_45c76410-078f-4c6b-81b3-538cc010e509.html)*
-_3-Aug-2023_
+### [Terapia del dolore, nuovi locali al Marino di Cagliari](https://www.ansa.it/sardegna/notizie/2023/09/20/terapia-del-dolore-nuovi-locali-al-marino-di-cagliari_da2dba1d-eac9-4c29-ba51-fcc6de5e19b0.html)
+_20-Sep-2023_
 
-Aula approva correttivo, 30 giorni di tempo per delibera Giunta
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Strangolato nel B&b, arrestato 'non pensavo di averlo ucciso'](https://www.ansa.it/sardegna/notizie/2023/08/03/strangolato-nel-bb-arrestato-non-pensavo-di-averlo-ucciso_3db1c7f0-5e72-4dbc-81f5-d0f318734e50.html)*
-_3-Aug-2023_
-
-Il giovane ha risposto al gip di Cagliari, resta in carcere
+Tre sale al Poetto, in carico duemila pazienti all'anno
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Gdf: a Olbia arriva il tenente Degli Angeli](https://www.ansa.it/sardegna/notizie/2023/08/03/gdf-a-olbia-arriva-il-tenente-degli-angeli_e72e55a4-f41d-4a6f-b249-e3d25cc685e9.html)*
-_3-Aug-2023_
+### [Tre casi di peste suina a Dorgali, il virus forse importato](https://www.ansa.it/sardegna/notizie/2023/09/20/tre-casi-di-peste-suina-a-dorgali-il-virus-forse-importato_e46e70b3-77e7-4e8e-850b-5650172ac802.html)
+_20-Sep-2023_
 
-Avvicendamento al comando del Secondo Nucleo Operativo Gruppo
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Circolare Prefetto su accessi a Cala Luna, niente numero chiuso](https://www.ansa.it/sardegna/notizie/2023/08/03/circolare-prefetto-su-accessi-a-cala-luna-niente-numero-chiuso_8e7777ac-9174-4593-8a17-b83cfd8c3b12.html)*
-_3-Aug-2023_
-
-C'è la delega ai sindaci di Dorgali e Baunei per regolamento
+L'ultimo focolaio in Sardeghna risale al 2018
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Cultura e tradizioni in una rassegna a Sa Dom'e Farra](https://www.ansa.it/sardegna/notizie/2023/08/03/cultura-e-tradizioni-in-una-rassegna-a-sa-dome-farra_2439faa1-1df8-4b42-9b15-a1ce4f6c99d8.html)*
-_3-Aug-2023_
+### [Spaccio droga a San Donato, confermate condanne a famiglia Carta](https://www.ansa.it/sardegna/notizie/2023/09/20/spaccio-droga-a-san-donato-confermate-condanne-a-famiglia-carta_6553da11-eaa1-46ee-aa03-e8f751384e1f.html)
+_20-Sep-2023_
 
-Incontri appuntamenti da domani e fino all'autunno a Quartu
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Appello di Chessa ad albergatori, 'giù prezzi e aprire 8 mesi'](https://www.ansa.it/sardegna/notizie/2023/08/03/appello-di-chessa-ad-albergatori-giu-prezzi-e-aprire-8-mesi_39ef4fe4-68cd-4858-90d1-eb7af536a439.html)*
-_3-Aug-2023_
-
-L'assessore: 'Record di arrivi ma i turisti scelgono b e case'
+Sassari, sconto di pena solo a due imputati
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Emergenza sangue in Sardegna, -10mila sacche rispetto al 2022](https://www.ansa.it/sardegna/notizie/2023/08/03/emergenza-sangue-in-sardegna-10mila-sacche-rispetto-al-2022_80381f79-b524-4a5d-9b65-3f695fd1ded7.html)*
-_3-Aug-2023_
+### [No agli impianti rinnovabili, i comitati scrivono a Mattarella](https://www.ansa.it/sardegna/notizie/2023/09/20/no-agli-impianti-rinnovabili-i-comitati-scrivono-a-mattarella_87de1ee4-2f65-4149-8d88-3870ce24c386.html)
+_20-Sep-2023_
 
-Appello Avis alla donazione, 'ospedali non chiudono d'estate'
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Lirico Cagliari in Ogliastra per la pastorale del turismo](https://www.ansa.it/sardegna/notizie/2023/08/03/lirico-cagliari-in-ogliastra-per-la-pastorale-del-turismo_cae795f2-fa48-4ccd-bd04-57e3ed5c0d53.html)*
-_3-Aug-2023_
-
-Schirru e Secci interpretano celebri arie, duetti e canzoni
+Nuovo sit-in per la moratoria: 'Consiglieri ci prendono in giro'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ranieri, 'Cagliari ottimo collettivo,peccato infortuni'](https://www.ansa.it/sardegna/notizie/2023/08/03/calcio-ranieri-cagliari-ottimo-collettivopeccato-infortuni_7f644e34-5aa6-4b74-8278-87a52e3c8a8a.html)*
-_3-Aug-2023_
+### [Ricattata con video hot, l'arrestato resta in carcere a Sassari](https://www.ansa.it/sardegna/notizie/2023/09/20/ricattata-con-video-hot-larrestato-resta-in-carcere-a-sassari_cc42981c-44e8-4929-bb79-c9f574999740.html)
+_20-Sep-2023_
 
-"Ma Jankto ora recupera. Shomurodov? Vuole grande campionato"
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Aggrediscono e molestano una coppia di turisti, 3 indagati](https://www.ansa.it/sardegna/notizie/2023/08/03/aggrediscono-e-molestano-una-coppia-di-turisti-3-indagati_08370e17-3775-4b40-ac23-1d09a2b45a1d.html)*
-_3-Aug-2023_
-
-L'episodio a Tertenia, uno arrestato per spaccio di droga
+Gip conferma misura cautelare, lui si dichiara innocente
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A Olbia niente palloncini alle feste, arriva il divieto del sindaco](https://www.ansa.it/sardegna/notizie/2023/08/03/a-olbia-niente-palloncini-alle-feste-divieto-del-sindaco_7b94e616-8c36-4393-83aa-adf180b2f9d2.html)*
-_3-Aug-2023_
+### [Regionali 2024: Grande centro si rafforza con ingresso Udc](https://www.ansa.it/sardegna/notizie/2023/09/20/regionali-2024-grande-centro-si-rafforza-con-ingresso-udc_727dd8f5-f530-446b-ae86-1875d65a5098.html)
+_20-Sep-2023_
 
-Nizzi: 'L'ordinanza ha lo scopo di tutelare l'ambiente'
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Torna Autunno in Barbagia, 33 borghi aperti fino a dicembre](https://www.ansa.it/sardegna/notizie/2023/08/03/torna-autunno-in-barbagia-33-borghi-aperti-fino-a-dicembre_fa860bf4-7601-4c3b-9650-505dd552b0f7.html)*
-_3-Aug-2023_
-
-Cicalò:'Nel 2022 500mila visitatori, più attenzione a sicurezza'
+Sovranità parola chiave, pronti a proporre candidato presidente
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Sfondano muro e si riprendono stanza 'rubata'dal vicino,indagati](https://www.ansa.it/sardegna/notizie/2023/08/03/sfondano-muro-e-si-riprendono-stanza-rubatadal-vicinoindagati_c8cf4bfd-541c-4507-b048-eef13e0135bc.html)*
-_3-Aug-2023_
+### [Cala l'immigrazione in Sardegna, -2% in quattro anni](https://www.ansa.it/sardegna/notizie/2023/09/20/cala-limmigrazione-in-sardegna-2-in-quattro-anni_4b70a664-ad87-4748-a055-1e00d50d96c2.html)
+_20-Sep-2023_
 
-Porto Rotondo, nei guai una donna di Roma e un uomo di Marino
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Sassari pronta per la secolare discesa dei Candelieri](https://www.ansa.it/sardegna/notizie/2023/08/03/sassari-pronta-per-la-secolare-discesa-dei-candelieri_9e300c7f-003a-403b-a28f-bfa9a24544d3.html)*
-_3-Aug-2023_
-
-Il 14 agosto si rinnova lo scioglimento del voto alla Madonna
+50mila stranieri nell'Isola, la maggioranza a Sassari e Cagliari
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Undici piante di marijuana accanto ad alberi da frutto](https://www.ansa.it/sardegna/notizie/2023/08/03/undici-piante-di-marijuana-accanto-ad-alberi-da-frutto_00e812ec-c5cc-4c4f-8911-67a6b955679c.html)*
-_3-Aug-2023_
+### [Scuola: proteste in via Stoccolma per orari e accoglienza](https://www.ansa.it/sardegna/notizie/2023/09/20/scuola-proteste-in-via-stoccolma-per-orari-e-accoglienza_66238f7c-b512-4ac8-9938-0db9b91a72d2.html)
+_20-Sep-2023_
 
-Erano alte due metri, 48enne arrestato a San Sperate
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Numero chiuso a Cala Luna, esultano gli ambientalisti](https://www.ansa.it/sardegna/notizie/2023/08/03/numero-chiuso-a-cala-luna-esultano-gli-ambientalisti_904703d0-6fff-4ba6-8f62-77bd887a705e.html)*
-_3-Aug-2023_
-
-Grig: 'Regione incapace e imprenditori miopi, bene il prefetto'
+E alla Stagno denuncia per sicurezza e parolacce sui muri
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Cagliari tra città più litigiose d'Italia dopo Roma e Napoli](https://www.ansa.it/sardegna/notizie/2023/08/03/cagliari-tra-citta-piu-litigiose-ditalia-dopo-roma-e-napoli_cba360e1-d15b-476a-ad5c-462d89c8b4d9.html)*
-_3-Aug-2023_
+### ["Benvenuto vermentino", una settimana di eventi a Olbia](https://www.ansa.it/sardegna/notizie/2023/09/20/benvenuto-vermentino-una-settimana-di-eventi-a-olbia_01eefd6d-dea5-4a12-847e-e23a417cf8ac.html)
+_20-Sep-2023_
 
-Si litiga soprattutto per rumore, spese condominiali e cani
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[I turisti alla ricerca di prodotti del territorio ed emozioni](https://www.ansa.it/sardegna/notizie/2023/08/03/i-turisti-alla-ricerca-di-prodotti-del-territorio-ed-emozioni_3c8bd381-f54d-4850-b851-ddb4b22b16ac.html)*
-_3-Aug-2023_
-
-Confartigianato, in Sardegna settore ancora poco sviluppato
+Dal 2 all'8 ottobre nona edizione della rassegna enogastronomica
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *['Fiducia in calo sulla sanità sarda', ricerca SWG-Iares Acli](https://www.ansa.it/sardegna/notizie/2023/08/03/fiducia-in-calo-sulla-sanita-sarda-ricerca-swg-iares-acli_90f054c0-ce0e-4b12-b081-29578d24acfb.html)*
-_3-Aug-2023_
+### [Ad Arzachena riapre l'Accademia d'arte](https://www.ansa.it/sardegna/notizie/2023/09/20/ad-arzachena-riapre-laccademia-darte_15c41de6-1353-4132-8ea3-4c4c44b849d7.html)
+_20-Sep-2023_
 
-Oltre un terzo insoddisfatto propria condizione economica
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Calcio: Cagliari, 2-1 al Como in amichevole](https://www.ansa.it/sardegna/notizie/2023/08/02/calcio-cagliari-2-1-al-como-in-amichevole_150919f7-2d3e-4ed7-bb03-80d4429baae8.html)*
-_2-Aug-2023_
-
-A segno Lella e Viola su rigore. Per i lariani in gol Blanco
+Al via un nuovo progetto didattico e performativo
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Autopsia sul 43enne ucciso nel B&b, morto per strangolamento](https://www.ansa.it/sardegna/notizie/2023/08/02/autopsia-sul-43enne-ucciso-nel-bb-morto-per-strangolamento_45d87312-563d-421e-9c98-09ca62592c01.html)*
-_2-Aug-2023_
+### [Accordo Sardegna Ricerche-Comune, Cagliari a misura di startup](https://www.ansa.it/sardegna/notizie/2023/09/20/accordo-sardegna-ricerche-comune-cagliari-a-misura-di-startup_5829268a-930e-4e27-8f91-c67b56b2926f.html)
+_20-Sep-2023_
 
-Cagliari, sul corpo ferite riconducibili a lotta con assassino
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Traffico in aumento negli aeroporti di Olbia e Alghero](https://www.ansa.it/sardegna/notizie/2023/08/02/traffico-in-aumento-negli-aeroporti-di-olbia-e-alghero_aed7bae8-678e-4b3b-85d7-598a21b95419.html)*
-_2-Aug-2023_
-
-A luglio boom di passeggeri, oltre 920mila
+Si parte con il progetto del "tombino intelligente"
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Capossela torna in Sardegna, tre concerti a Sassari e Cagliari](https://www.ansa.it/sardegna/notizie/2023/08/02/capossela-torna-in-sardegna-tre-concerti-a-sassari-e-cagliari_9192115a-9063-4fb8-b7ef-a3efb7cfa1d4.html)*
-_2-Aug-2023_
+### [Olbia, il 25 via ai lavori per la conversione al metano](https://www.ansa.it/sardegna/notizie/2023/09/20/olbia-il-25-via-ai-lavori-per-la-conversione-al-metano_11221108-3035-44e8-9636-07cf21b78031.html)
+_20-Sep-2023_
 
-Esibizioni a dicembre nei teatri per presentare l'ultimo album
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Raccolta fondi per servizi lido Olbia persone con disabilità](https://www.ansa.it/sardegna/notizie/2023/08/02/raccolta-fondi-per-servizi-lido-olbia-persone-con-disabilita_8a909566-034e-42c6-ae78-3f3ad2ba5aba.html)*
-_2-Aug-2023_
-
-Progetto coop Villa Chiara col Gruppo Intesa Sanpaolo
+Medea, è il primo grande centro interessato della Sardegna
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Università di Sassari, 60 posti in più in Medicina](https://www.ansa.it/sardegna/notizie/2023/08/02/universita-di-sassari-60-posti-in-piu-in-medicina_89a88785-9de7-4cc8-b35d-5bff72091361.html)*
-_2-Aug-2023_
+### [Indice di sportività, Cagliari prima tra le province del sud](https://www.ansa.it/sardegna/notizie/2023/09/20/indice-di-sportivita-cagliari-prima-tra-le-province-del-sud_2ea9a785-058f-4928-bf4f-329453f6f3ad.html)
+_20-Sep-2023_
 
-Via libera del Ministero, il corso passa da 140 a 200 iscritti
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Presunto terrorista del Pkk arrestato dalla Digos a Sassari](https://www.ansa.it/sardegna/notizie/2023/08/02/presunto-terrorista-del-pkk-arrestato-dalla-digos-a-sassari_cd96e48d-1d8b-4977-9987-d335a51d1921.html)*
-_2-Aug-2023_
-
-Tedesco di origini turche fermato su richiesta della Turchia
+Città metropolitana 11/a nella classifica generale, Sassari 52/a
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Rimossi 300 metri di reti da pesca abbandonate a Capo Caccia](https://www.ansa.it/sardegna/notizie/2023/08/02/rimossi-300-metri-di-reti-da-pesca-abbandonate-a-capo-caccia_5ed224b8-4077-467f-89d6-6f2a6537d8ac.html)*
-_2-Aug-2023_
+### [La pastora-ingegnera, dal paesino ai vertici di Coldiretti](https://www.ansa.it/sardegna/notizie/2023/09/20/la-pastora-ingegnera-dal-paesino-ai-vertici-di-coldiretti_e014c5d6-24f7-470f-ab49-06faa8abebe7.html)
+_20-Sep-2023_
 
-Operazione della Guardia costiera di Alghero e Cagliari
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Aggredisce amministratrice locale a Quartu, fermato col taser](https://www.ansa.it/sardegna/notizie/2023/08/02/aggredisce-amministratrice-locale-a-quartu-fermato-col-taser_3686777e-6112-4dde-b1b6-80c0129be13e.html)*
-_2-Aug-2023_
-
-Per la presidente del Consiglio comunale frattura alla spalla
+Mariafrancesca Serra: mondo agricolo sempre complicato per donne
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Approvato il calendario della caccia, si inizia il 3 settembre](https://www.ansa.it/sardegna/notizie/2023/08/02/approvato-il-calendario-della-caccia-si-inizia-il-3-settembre_5698f52a-b279-475c-bb30-3dce85abd4e8.html)*
-_2-Aug-2023_
+### [Donne Coldiretti, Mariafrancesca Serra è la nuova leader](https://www.ansa.it/sardegna/notizie/2023/09/20/donne-coldiretti-mariafrancesca-serra-e-la-nuova-leader_1a91203a-03ed-4a85-bfb0-a98f0fbec36b.html)
+_20-Sep-2023_
 
-Assessore Porcu, 'valutazioni su prelievo di conigli'
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Pena fuori dal carcere per la detenuta incinta di otto mesi](https://www.ansa.it/sardegna/notizie/2023/08/02/pena-fuori-dal-carcere-per-la-detenuta-incinta-di-otto-mesi_d8cfce55-7551-4aa0-9171-fbc3ebc35993.html)*
-_2-Aug-2023_
-
-Cagliari, Garante annuncia decisione dopo appello associazione
+Da ingegnera cosmopolita a pastora nell'azienda di famiglia
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Luglio record all'aeroporto di Cagliari con 600mila passeggeri](https://www.ansa.it/sardegna/notizie/2023/08/02/luglio-record-allaeroporto-di-cagliari-con-600mila-passeggeri_18e7d2d4-d85e-4340-9aef-c5f9e6314e8f.html)*
-_2-Aug-2023_
+### [Sequestrati articoli per la casa privi certificati sicurezza](https://www.ansa.it/sardegna/notizie/2023/09/20/sequestrati-articoli-per-la-casa-privi-certificati-sicurezza_0705bace-6edf-480f-996c-4b2264144ba4.html)
+_20-Sep-2023_
 
-Superato anche il precedente record di agosto 2019
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *['Aereo rattoppato con nastro adesivo', denuncia ex deputato](https://www.ansa.it/sardegna/notizie/2023/08/02/aereo-rattoppato-con-nastro-adesivo-denuncia-ex-deputato_69df9e98-bcc8-45df-a9d5-3a20739aa7ac.html)*
-_3-Aug-2023_
-
-Mauro Pili su Fb: 'Voli per Sardegna da terzo mondo'
+Operazione della Guardia di Finanza ad Alghero e Olbia
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Sbarco di migranti nel sud Sardegna, arrestati tre scafisti](https://www.ansa.it/sardegna/notizie/2023/08/02/sbarco-di-migranti-nel-sud-sardegna-arrestati-tre-scafisti_649a2a97-2a8a-49c7-824f-2467eb01db17.html)*
-_2-Aug-2023_
+### [Sfruttamento del lavoro nero, cinque arresti a Cagliari](https://www.ansa.it/sardegna/notizie/2023/09/20/sfruttamento-del-lavoro-nero-cinque-arresti-a-cagliari_67f39619-dc2d-495d-9476-a9248706ca79.html)
+_20-Sep-2023_
 
-Erano pronti a tornare in Tunisia ma il motore si è inceppato
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *['La storia della Sardegna sia materia in tutte le scuole'](https://www.ansa.it/sardegna/notizie/2023/08/02/la-storia-della-sardegna-sia-materia-in-tutte-le-scuole_19295728-a517-44da-be70-00d9634c655f.html)*
-_2-Aug-2023_
-
-Proposta di legge dell'associazione La Sardegna verso l'Unesco
+Polizia sgomina associazione a delinquere di stranieri
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Rischio crolli in via Dettori, arrivano gli aiuti alle imprese](https://www.ansa.it/sardegna/notizie/2023/08/02/rischio-crolli-in-via-dettori-arrivano-gli-aiuti-alle-imprese_c2e77daa-cf25-43dc-90c2-ebe5dd495e76.html)*
-_2-Aug-2023_
+### [Sei mesi per radioterapia, protesta in piazza a Fonni](https://www.ansa.it/sardegna/notizie/2023/09/19/sei-mesi-per-radioterapia-protesta-in-piazza-a-fonni_be90a66e-ed25-4c2b-9a2d-76b6296c1b8d.html)
+_19-Sep-2023_
 
-Contributi sino a un massimo di 60mila euro per imprese
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Piromane seriale in manette dopo sei incendi nell'Oristanese](https://www.ansa.it/sardegna/notizie/2023/08/02/piromane-seriale-in-manette-dopo-sei-incendi-nelloristanese_ff6c4c7d-32f3-4263-bcad-e54769f0356b.html)*
-_2-Aug-2023_
-
-Il Corpo forestale arresta un 66enne di Palmas Arborea
+In centinaia a manifestazione di solidarietà malati oncologici
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Massimo 500 persone sulla spiaggia di Cala Luna](https://www.ansa.it/sardegna/notizie/2023/08/02/massimo-500-persone-sulla-spiaggia-di-cala-luna_30053dfe-3acf-492b-8db6-2b2b10cd2017.html)*
-_3-Aug-2023_
+### [Ricattata con video hot, l'arrestato respinge ogni accusa](https://www.ansa.it/sardegna/notizie/2023/09/19/ricattata-con-video-hot-larrestato-respinge-ogni-accusa_6bf60a70-3ce4-435c-88ec-c079003d5d14.html)
+_19-Sep-2023_
 
-Il prefetto di Nuoro trova una mediazione dopo lo stop all'ordinanza
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Sequestrate quattro macchinette da gioco manomesse a Olbia](https://www.ansa.it/sardegna/notizie/2023/08/02/sequestrate-quattro-macchinette-da-gioco-manomesse-a-olbia_f7b60d42-27a1-47ea-b097-78b2ca12700f.html)*
-_2-Aug-2023_
-
-Operazione dell'Agenzia delle dogane in un esercizio commerciale
+Sassari, davanti al gip nega esistenza del filmato e del ricatto
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Gianluca Zambrotta in Costa Smeralda con la sua Gz19 Academy](https://www.ansa.it/sardegna/notizie/2023/08/02/gianluca-zambrotta-in-costa-smeralda-con-la-sua-gz19-academy_968fe6fe-a15a-4a4f-a9d9-5b02bf2d12e6.html)*
-_2-Aug-2023_
+### [Rimosso residuato bellico scoperto a Cagliari, area riaperta](https://www.ansa.it/sardegna/notizie/2023/09/19/rimosso-residuato-bellico-scoperto-a-cagliari-area-riaperta_1b344e15-06b5-4933-9a7a-d6269309b294.html)
+_19-Sep-2023_
 
-Dall'1 al 5 agosto allenamenti per piccoli e adulti
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Target vaccinazioni obbligatorie non raggiunti nell'Isola](https://www.ansa.it/sardegna/notizie/2023/08/02/target-vaccinazioni-obbligatorie-non-raggiunti-nellisola_736a1834-0a74-46ed-a836-c66666c000f4.html)*
-_2-Aug-2023_
-
-Report Fondazione Gimbe sull'impatto del Covid nelle coperture
+In azione specialisti genio guastatori della Brigata Sassari
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scontro frontale alle porte di Olbia, tre feriti](https://www.ansa.it/sardegna/notizie/2023/08/02/scontro-frontale-alle-porte-di-olbia-tre-feriti_33d1f60f-3cb5-428b-bca5-b33faeb7fec3.html)*
-_2-Aug-2023_
+### [Lavori riqualificazione viale Trieste,dal 21 nuova viabilità](https://www.ansa.it/sardegna/notizie/2023/09/19/lavori-riqualificazione-viale-triestedal-21-nuova-viabilita_1729cc08-86ff-4387-ae48-54acece7f755.html)
+_19-Sep-2023_
 
-Strada provinciale 73 chiusa al traffico per diverse ore
+Modifiche alla circolazione in vigore sino al 31 dicembre
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [In carcere da 32 anni, 'Beniamino è innocente liberatelo'](https://www.ansa.it/sardegna/notizie/2023/09/19/in-carcere-da-32-anni-beniamino-e-innocente-liberatelo_f9d87368-ed53-4343-91d5-5403088c8d0b.html)
+_19-Sep-2023_
+
+Pastore di Burcei davanti a giudici Roma per revisione processo
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Malore mentre nuota, turista 84enne muore ad Alghero](https://www.ansa.it/sardegna/notizie/2023/09/19/malore-mentre-nuota-turista-84enne-muore-ad-alghero_abcf44e6-345f-4a62-b126-0bf7b015461b.html)
+_19-Sep-2023_
+
+Vittima una donna tedesca residente in provincia di Como
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Tre feriti in scontro in galleria a S.Teodoro,uno gravissimo](https://www.ansa.it/sardegna/notizie/2023/09/19/tre-feriti-in-scontro-in-galleria-a-s.teodorouno-gravissimo_5a0310d8-7875-4948-a05b-3ba2c7a1e5da.html)
+_19-Sep-2023_
+
+Uomo di 33 anni ricoverato a Sassari con l'elisoccorso
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Regionali '24: Progressisti, 'no ad accordi presi a Roma'](https://www.ansa.it/sardegna/notizie/2023/09/19/regionali-24-progressisti-no-ad-accordi-presi-a-roma_eb87d621-75f8-46ae-a729-0faa6614ff4a.html)
+_19-Sep-2023_
+
+Partito contro presunto patto Pd-M5s per candidare Todde
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Un rap per il bomber Lapadula firmato dai Fratelli Banlieue](https://www.ansa.it/sardegna/notizie/2023/09/19/un-rap-per-il-bomber-lapadula-firmato-dai-fratelli-banlieue_5ab1e99b-f791-4ddd-b778-a5c3564f4911.html)
+_19-Sep-2023_
+
+Brano dedicato all'attaccante rossoblù che lo riposta sui social
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Overdenture, impianti dentali per chi non può permetterseli](https://www.ansa.it/sardegna/notizie/2023/09/19/overdenture-impianti-dentali-per-chi-non-puo-permetterseli_744b8f1f-3dc5-4a9e-9bc9-077a1f85dff5.html)
+_19-Sep-2023_
+
+Policlinico di Monserrato, torna progetto per ridare il sorriso
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Grande prosa a Cagliari con Branciaroli, De Sio e Haber](https://www.ansa.it/sardegna/notizie/2023/09/19/grande-prosa-a-cagliari-con-branciaroli-de-sio-e-haber_27fdcd16-edf6-488f-9193-7d396725e59d.html)
+_19-Sep-2023_
+
+Stagione Cedac, anche danza con i coreografi Taylor e Malandain
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Droga in carcere, c'era chi si faceva arrestare per portarla](https://www.ansa.it/sardegna/notizie/2023/09/19/droga-in-carcere-cera-chi-si-faceva-arrestare-per-portarla_c5a0379f-4c5e-4dd3-ad06-6adeea59ac22.html)
+_19-Sep-2023_
+
+Procura di Aosta, anche lanci con la fionda per superare le mura
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Gdf: a Bosa 80/o anniversario battaglia Cefalonia e Corfù](https://www.ansa.it/sardegna/notizie/2023/09/19/gdf-a-bosa-80/o-anniversario-battaglia-cefalonia-e-corfu_821adb31-5636-4a2d-9853-2c9c91d361bd.html)
+_19-Sep-2023_
+
+Episodio II Guerra mondiale valse medaglia d'oro a Fiamme Gialle
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Carabinieri: cambio al Ris di Cagliari, Berti nuovo comandate](https://www.ansa.it/sardegna/notizie/2023/09/19/carabinieri-cambio-al-ris-di-cagliari-berti-nuovo-comandate_8fd01178-57f0-474c-b0f1-4f068b284c88.html)
+_19-Sep-2023_
+
+Il tenente colonnello Vecchio va alla Scuola Ufficiali di Roma
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Calangianus per 10 giorni diventa la capitale del biliardo](https://www.ansa.it/sardegna/notizie/2023/09/19/calangianus-per-10-giorni-diventa-la-capitale-del-biliardo_afedbc2c-b87b-43eb-8347-1b774cbecc96.html)
+_19-Sep-2023_
+
+Via alle Biliardiadi con oltre 250 atleti da 15 nazioni
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Operaio investito mentre lavora a segnaletica stradale, è grave](https://www.ansa.it/sardegna/notizie/2023/09/19/operaio-investito-mentre-lavora-a-segnaletica-stradale-e-grave_00f6fa27-3654-4786-bf4a-33da1906e789.html)
+_19-Sep-2023_
+
+Incidente vicino al lago di Baratz, l'uomo è in Rianimazione
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Residuato bellico in centro a Cagliari, uffici e case evacuate](https://www.ansa.it/sardegna/notizie/2023/09/19/residuato-bellico-in-centro-a-cagliari-uffici-e-case-evacuate_8cc342c6-fcbb-4534-a80f-2ffa6d55b37b.html)
+_19-Sep-2023_
+
+Scoperto da operai che lavoravano ai piedi dei giardini pubblici
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [A Sassari la Notte europea ricercatori nel segno di ET](https://www.ansa.it/sardegna/notizie/2023/09/19/a-sassari-la-notte-europea-ricercatori-nel-segno-di-et_63ff0b6f-9c26-497a-896e-b61f8ff2c7fa.html)
+_19-Sep-2023_
+
+L'Università in collegamento streaming con Lula sabato 29
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Morti sul lavoro, panchina bianca a Carbonia in memoria vittime](https://www.ansa.it/sardegna/notizie/2023/09/19/morti-sul-lavoro-panchina-bianca-a-carbonia-in-memoria-vittime_80d48067-7ffc-4837-a18a-a34fff0e5355.html)
+_19-Sep-2023_
+
+Iniziativa per sensibilizzate su salvaguardia salute lavoratori
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Una app con le novità normative a disposizione degli avvocati](https://www.ansa.it/sardegna/notizie/2023/09/19/una-app-con-le-novita-normative-a-disposizione-degli-avvocati_9ccd81ef-eed9-489f-a0df-e9fed71da069.html)
+_19-Sep-2023_
+
+In un click per i legali di Cagliari, primo ordine in Sardegna
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Governo riscrive regole caro-voli, poteri all'Antitrust](https://www.ansa.it/sardegna/notizie/2023/09/19/governo-riscrive-regole-caro-voli-poteri-allantitrust_abe24115-d855-46fd-b0d9-96cbe1c32686.html)
+_19-Sep-2023_
+
+Emendamento al decreto asset, salta il tetto del 200% dei prezzi
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Aeroitalia, 'voucher per rinuncia a volo per garantire i sardi'](https://www.ansa.it/sardegna/notizie/2023/09/19/aeroitalia-voucher-per-rinuncia-a-volo-per-garantire-i-sardi_3ab987b1-7f0b-4118-a1a8-c07b805e07a2.html)
+_19-Sep-2023_
+
+Compagnia replica ad Adiconsum su rimborsi diretti a viaggiatori
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Indagato per femmincidio, nuove accuse di violenza per 71enne](https://www.ansa.it/sardegna/notizie/2023/09/19/indagato-per-femmincidio-nuove-accuse-di-violenza-per-71enne_e784d8ea-e5a0-43af-8cd0-0333cc3efe5c.html)
+_19-Sep-2023_
+
+L'uomo è già in carcere per abusi su una minorenne
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [In un terreno 120 kg di marijuana per 600mila euro, un arresto](https://www.ansa.it/sardegna/notizie/2023/09/19/in-un-terreno-120-kg-di-marijuana-per-600mila-euro-un-arresto_346f194e-225d-4c05-acd8-6e607a045039.html)
+_19-Sep-2023_
+
+La polizia scopre piantagione e deposito di droga a Gonnesa
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Ventimila firme in 2 giorni per salvare la casa di Joyce Lussu](https://www.ansa.it/sardegna/notizie/2023/09/19/ventimila-firme-in-2-giorni-per-salvare-la-casa-di-joyce-lussu_66ca190d-feae-4f75-8474-81224c7673e0.html)
+_19-Sep-2023_
+
+Petizione lanciata da giornalista sarda su Change.org
+
+[&#x25B2; TOP &#x25B2;](#)
+
+---
+### [Scontro frontale tra auto nel sud Sardegna, due morti](https://www.ansa.it/sardegna/notizie/2023/09/19/scontro-frontale-tra-auto-nel-sud-sardegna-due-morti_65250227-02fc-4a89-b4c8-0bcc257ef5cb.html)
+_19-Sep-2023_
+
+Incidente sulla strada provinciale 2 a Portoscuso, nel Sulcis
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
 # Science
-## *[Live science](https://www.livescience.com/)*
-### *[Weird 'gut-eye axis' links the retina and intestines, and may help explain glaucoma](https://www.livescience.com/health/viruses-infections-disease/weird-gut-eye-axis-links-the-retina-and-intestines-and-may-help-explain-glaucoma)*
-_03-Aug-2023_
+## [Live science](https://www.livescience.com/)
+### [Sunken temple and sanctuary from ancient Egypt found brimming with 'treasures and secrets'](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
+_20-Sep-2023_
 
-A type of immune cell that travels from the gut to the eyeballs may help to explain why some people with glaucoma continue to lose their vision after treatment.
+Archaeologists discovered a cache of treasure inside a sunken underwater temple and sanctuary in Egypt.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Subterranean crypt with empty tombs unearthed at medieval cathedral in England](https://www.livescience.com/archaeology/subterranean-crypt-with-empty-tombs-unearthed-at-medieval-cathedral-in-england)*
-_03-Aug-2023_
+### [Watch: NASA spacecraft flies through a violent solar explosion for 1st time ever — and survives unscathed](https://www.livescience.com/space/the-sun/watch-nasa-spacecraft-flies-through-a-violent-solar-explosion-for-1st-time-ever-and-survives-unscathed)
+_20-Sep-2023_
 
-Ongoing excavations at Exeter Cathedral in England reveal a possible medieval crypt, empty tombs and more.
+NASA's Parker Solar Probe plunged through a hellish coronal mass ejection (CME) to capture its mysterious swirlings on film.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Strange, two-faced brain cells confirmed to exist, and they may play a role in schizophrenia](https://www.livescience.com/health/neuroscience/strange-two-faced-brain-cells-confirmed-to-exist-and-they-may-play-a-role-in-schizophrenia)*
-_03-Aug-2023_
+### [Cup crafted from prehistoric human skull discovered in cave in Spain](https://www.livescience.com/archaeology/cup-crafted-from-prehistoric-human-skull-discovered-in-cave-in-spain)
+_20-Sep-2023_
 
-Researchers have confirmed the existence of an odd type of brain cell that other neuroscientists once thought might be only a technical quirk or error.
+A new study suggests that Spain's ancient peoples shared complex beliefs about death and the afterlife.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Meteorite that crashed to Earth 3,500 years ago carved into arrowhead by Bronze Age hunters](https://www.livescience.com/archaeology/meteorite-that-crashed-to-earth-3500-years-ago-carved-into-arrowhead-by-bronze-age-hunters)*
-_03-Aug-2023_
+### [How many cells are in the human body? New study provides an answer.](https://www.livescience.com/health/anatomy/how-many-cells-are-in-the-human-body-new-study-provides-an-answer)
+_20-Sep-2023_
 
-A Bronze Age arrowhead found in Switzerland was made using meteoric iron.
+A new analysis of more than 1,500 papers and 60 types of tissue has revealed the total number of cells in the human body.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Perseid meteor shower peak on Aug. 12 and 13 will be the 'best in years.' Here's how to watch.](https://www.livescience.com/space/meteoroids/perseid-meteor-shower-peak-on-aug-12-and-13-will-be-the-best-in-years-heres-how-to-watch)*
-_03-Aug-2023_
+### [See extremely rare photos of alien-looking '7-arm octopus' spotted near Washington coast](https://www.livescience.com/animals/octopuses/see-extremely-rare-photos-of-alien-looking-7-arm-octopus-spotted-near-washington-coast)
+_20-Sep-2023_
 
-As many as 100 'shooting stars' per hour will be visible during the moonless peak of the Perseids on Aug. 12 and 13.
+The seven-arm octopus, which actually has eight arms, is one of the largest octopus species and is rarely seen by people because it normally dwells in the deep sea.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Rare 'Ides of March' dagger coin minted by Brutus after Julius Caesar's murder goes to auction](https://www.livescience.com/archaeology/romans/rare-ides-of-march-dagger-coin-minted-by-brutus-after-julius-caesars-murder-goes-to-auction)*
-_03-Aug-2023_
+### [Archaeologists in Zambia discover oldest wooden structure in the world, dating to 476,000 years ago](https://www.livescience.com/archaeology/archaeologists-in-zambia-discover-oldest-wooden-structure-in-the-world-dating-to-476000-years-ago)
+_20-Sep-2023_
 
-Brutus minted the silver denarius as a way to pay his troops in the aftermath of Julius Caesar's assassination.
+A new finding in Zambia reveals the oldest known wooden construction shaped by the hands of a human ancestor and demonstrates the ingenuity and technical prowess of our ancient relatives.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[In rare case, man develops 'flesh-eating' bacterial infection on both legs, but 4 days apart](https://www.livescience.com/health/viruses-infections-disease/in-rare-case-man-develops-flesh-eating-bacterial-infection-on-both-legs-but-4-days-apart)*
-_03-Aug-2023_
+### ['True rarity': Gigantic alligator gar caught and released in Texas reservoir could break 2 world records](https://www.livescience.com/animals/fish/true-rarity-gigantic-alligator-gar-caught-and-released-in-texas-reservoir-could-break-2-world-records)
+_20-Sep-2023_
 
-"Flesh-eating" bacteria normally spread rapidly throughout the body. In this case, it took four days for the infection to reach both of a man's legs.
+Anglers in Texas reeled in a 283-pound alligator gar after a lengthy battle with the enormous fish. Experts say the catch likely breaks a 72-year record.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[James Webb telescope captures 'a preview of the sun's distant future' in stunning new Ring Nebula image](https://www.livescience.com/space/astronomy/james-webb-telescope-captures-a-preview-of-the-suns-distant-future-in-stunning-new-ring-nebula-image)*
-_03-Aug-2023_
+### [See the stunning facial approximation of a medieval man with dwarfism](https://www.livescience.com/archaeology/see-the-stunning-facial-approximation-of-a-medieval-man-with-dwarfism)
+_20-Sep-2023_
 
-Astronomers reveal 'the final chapters of a star's life' in a stunning James Webb Space Telescope's image of the exploding Ring Nebula.
+Researchers used 3D scans of a medieval man's skull to recreate a facial approximation of what he may have looked like when he was alive centuries ago.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scientists 'remote-controlled' designer human cells implanted in mice using only DC currents](https://www.livescience.com/health/genetics/scientists-remote-controlled-designer-human-cells-implanted-in-mice-using-only-dc-currents)*
-_03-Aug-2023_
+### ['Ghost' particles from the sun could lead us straight to an invisible trove of dark matter](https://www.livescience.com/space/the-sun/ghost-particles-from-the-sun-could-lead-us-straight-to-an-invisible-trove-of-dark-matter)
+_20-Sep-2023_
 
-Using off-the-shelf consumer batteries, scientists stimulated insulin release from engineered human cells implanted in diabetic mice and restored the rodents' normal blood sugar levels.
+New research suggests that the sun may hold dark matter in its fiery heart, and ghostly particles called neutrinos could lead us to it.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Get this 15-inch Chromebook for under $200 ahead of the new school year](https://www.livescience.com/technology/get-a-15-inch-chromebook-for-under-dollar200-ahead-of-the-new-school-year)*
-_03-Aug-2023_
+### [Should we rethink our legal definition of a human embryo?](https://www.livescience.com/health/fertility-pregnancy-birth/should-we-rethink-our-legal-definition-of-a-human-embryo)
+_20-Sep-2023_
 
-Get a student laptop for less, with this Acer Chromebook 315 deal.
+Scientists can now create realistic human embryo models in the lab, leading some to suggest that we rethink how we legally define an embryo.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-## *[New scientist](https://www.newscientist.com/)*
-### *[Does space-time remember? The search for gravitational memory](https://www.newscientist.com/article/mg25934501-400-does-space-time-remember-the-search-for-gravitational-memory/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+## [New scientist](https://www.newscientist.com/)
+### [Human noise pollution drives monkeys to rely on communication by scent](https://www.newscientist.com/article/2393331-human-noise-pollution-drives-monkeys-to-rely-on-communication-by-scent/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_21-Sep-2023_
 
-Detecting the permanent imprints left by colliding black holes would reveal a universe saturated with infinite symmetries – and narrow the possibilities for a theory of quantum gravity.
+Tamarins living near cities in the Amazon Rainforest use odour to communicate nearly twice as often as usual when noise pollution spikes from nearby freeways or town centres
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The Ring Nebula glows green in a stunning new JWST image](https://www.newscientist.com/article/2386213-the-ring-nebula-glows-green-in-a-stunning-new-jwst-image/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_03-Aug-2023_
+### ['Dark earth' made by Amazon farmers stores carbon for centuries](https://www.newscientist.com/article/2393008-dark-earth-made-by-amazon-farmers-stores-carbon-for-centuries/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-A new image of the Ring Nebula from the James Webb Space Telescope is revealing its intricate internal structure, which could help us learn what the sun will look like when it dies
+Nutrient-rich soil known as “dark earth” has been cultivated by Indigenous farmers in the Amazon for centuries, leaving behind a large and still uncounted store of carbon
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Flower that thrives in Death Valley may hold secret to heat adaptation](https://www.newscientist.com/article/2385302-flower-that-thrives-in-death-valley-may-hold-secret-to-heat-adaptation/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_03-Aug-2023_
+### [Corkscrew-shaped microbot could use sound to spiral through human body](https://www.newscientist.com/article/2392959-corkscrew-shaped-microbot-could-use-sound-to-spiral-through-human-body/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-Insights into how Death Valley’s Tidestromia oblongifolia tolerates such high temperatures could help researchers to engineer crops that can survive global warming
+Microscopic helical robot travels through narrow tubes when exposed to sound, and could eventually be used to deliver drugs inside of the body by spiralling through its vasculature.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Which dietary supplements actually work and which should you take](https://www.newscientist.com/article/mg25934500-200-which-dietary-supplements-actually-work-and-which-should-you-take/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_31-Jul-2023_
+### [Suppressing worrying thoughts may improve our mental health](https://www.newscientist.com/article/2393298-suppressing-worrying-thoughts-may-improve-our-mental-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-From vitamin D to turmeric extracts and probiotics, nutritional supplements are a booming industry. But what is the evidence behind the claimed benefits?
+Rather than recalling and focusing on fearful thoughts, it might sometimes be useful to avoid these imaginings to boost our well-being and avoid symptoms of mental health conditions like depression or PTSD
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Tropical tree species that grow far apart can better avoid ‘enemies’](https://www.newscientist.com/article/2386087-tropical-tree-species-that-grow-far-apart-can-better-avoid-enemies/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_03-Aug-2023_
+### [Prehistoric people in Spain may have made tools from human bones](https://www.newscientist.com/article/2393136-prehistoric-people-in-spain-may-have-made-tools-from-human-bones/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-Trees in rainforests that grow far away from others of the same species may be more likely to survive than close neighbours if they're protected from insects and fungal pathogens that target those specific trees
+The Cueva de los Marmoles cave in Granada, Spain, was used as a prehistoric human burial site. Researchers have found that nearly a third of the bones that remain were altered by tools, possibly to make bowls, cups or spatulas
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Canada's wildfire emissions this year have doubled the annual record](https://www.newscientist.com/article/2386169-canadas-wildfire-emissions-this-year-have-doubled-the-annual-record/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_03-Aug-2023_
+### [Rishi Sunak's weakening of UK net-zero policy is an unhelpful delay](https://www.newscientist.com/article/2393286-rishi-sunaks-weakening-of-uk-net-zero-policy-is-an-unhelpful-delay/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-The unprecedented scale of wildfires in Canada since May has already produced double the carbon emissions of the previous record-holding year as well as displacing tens of thousands of people from their homes
+Cutting carbon emissions means replacing the heating systems in homes, transforming transport and greening steel production. All of these will take time, but the UK prime minister has instead chosen to delay
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Astronomers have spotted inexplicably bright light coming from the sun](https://www.newscientist.com/article/2386042-astronomers-have-spotted-inexplicably-bright-light-coming-from-the-sun/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_03-Aug-2023_
+### [Holly tree species not seen by scientists in 200 years reappears](https://www.newscientist.com/article/2393021-holly-tree-species-not-seen-by-scientists-in-200-years-reappears/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-Extraordinarily high-energy gamma rays have been found emanating from the sun, and none of our theoretical models can explain why there are so many of them
+No sightings of the Pernambuco holly tree had been confirmed since the species was first identified in 1838. Scientists have now found four of the trees in the city Igarassu in north-east Brazil
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Thin reflective film that mimics butterfly wings can keep cars cool](https://www.newscientist.com/article/2386014-thin-reflective-film-that-mimics-butterfly-wings-can-keep-cars-cool/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_03-Aug-2023_
+### [Earliest evidence of buildings made from wood is 476,000 years old](https://www.newscientist.com/article/2392894-earliest-evidence-of-buildings-made-from-wood-is-476000-years-old/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-A thin, multi-layered film inspired by the structure of vibrant blue butterfly wings could help vehicles reduce energy used for cooling
+We tend to think that ancient humans were constantly on the move, but at a site in Zambia there are the first tentative hints that people stayed put and built large wooden dwellings
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Unions strike to save the world from bad TV and movies](https://www.newscientist.com/article/mg25934500-700-unions-strike-to-save-the-world-from-bad-tv-and-movies/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [Brain damage linked to schizophrenia may spread as condition develops](https://www.newscientist.com/article/2393020-brain-damage-linked-to-schizophrenia-may-spread-as-condition-develops/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-The threat of AI-authored content hangs over many creative industries. Journalists, actors and screenwriters need to push back against automation, says Annalee Newitz
+Brain scans show loss of tissue starting in small areas when people first experience psychosis, and following neural highways until later it encompasses wider regions of the brain
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Bees miss out on sleep if they are exposed to light at night](https://www.newscientist.com/article/2385979-bees-miss-out-on-sleep-if-they-are-exposed-to-light-at-night/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_03-Aug-2023_
+### [Silkworms genetically engineered to produce pure spider silk](https://www.newscientist.com/article/2392737-silkworms-genetically-engineered-to-produce-pure-spider-silk/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-Honeybees exposed to continuous artificial light get much less sleep, and this may affect their ability to pollinate plants
+Spider silk has been seen as a greener alternative to artificial fibres like nylon and Kevlar, but spiders are notoriously hard to farm. Now researchers have used CRISPR to genetically engineer silkworms that produce pure spider silk
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Neuron-like machinery helps anemones decide when to sting](https://www.newscientist.com/article/2384993-neuron-like-machinery-helps-anemones-decide-when-to-sting/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_03-Aug-2023_
+### [How dark matter-powered stars could solve a huge cosmological puzzle](https://www.newscientist.com/article/mg25934570-800-how-dark-matter-powered-stars-could-solve-a-huge-cosmological-puzzle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-Anemones have special cells that shoot stinging barbs for protection or to hunt prey – decisions about when to release them and where to aim is based on the activity of calcium ion channels similar to those in human neurons
+Astronomers say they have spotted evidence of stars fuelled by the annihilation of dark matter particles. If true, it could solve the cosmic mystery of how supermassive black holes appeared so early
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scientists race to test claimed room-temperature superconductor](https://www.newscientist.com/article/2385743-scientists-race-to-test-claimed-room-temperature-superconductor/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [UK's Online Safety Bill to become law, but can it be enforced?](https://www.newscientist.com/article/2393012-uks-online-safety-bill-to-become-law-but-can-it-be-enforced/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-Researchers are moving quickly to test if a material called LK-99 really is a superconductor at room temperature and pressure. Several labs have already announced results
+After years of political wrangling, wide-ranging online rules are about to become UK law - but complying with and enforcing the regulations won't be easy
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Two changes could nearly halve carbon footprint of US school lunches](https://www.newscientist.com/article/2385762-two-changes-could-nearly-halve-carbon-footprint-of-us-school-lunches/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_03-Aug-2023_
+### [Vaccine that erases immune memory may help treat multiple sclerosis](https://www.newscientist.com/article/2392706-vaccine-that-erases-immune-memory-may-help-treat-multiple-sclerosis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-US schools could nearly halve the carbon emissions of the lunches they offer by only serving beef once a month and replacing the highest emitting meal a week with a vegan option
+An experimental vaccine that erases the immune system’s memory of a molecule could be used to stop autoimmune reactions like those seen in multiple sclerosis, type 1 diabetes or coeliac disease
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How even the greatest scientists can fall for cognitive bias](https://www.newscientist.com/article/mg25934502-700-how-even-the-greatest-scientists-can-fall-for-cognitive-bias/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [The entire brain may be involved in language, not just a few regions](https://www.newscientist.com/article/2393046-the-entire-brain-may-be-involved-in-language-not-just-a-few-regions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-Why did entire communities of scientists reject groundbreaking theories, even those backed by sound evidence? It's a question of bias, says Dan Levitt
+Brain regions identified as “language centres” are actually hubs that coordinate the processing of language throughout the brain, argues a controversial new study
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Talking Heads review: Cunning tale of how conversation creates worlds](https://www.newscientist.com/article/mg25934501-000-talking-heads-review-cunning-tale-of-how-conversation-creates-worlds/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [Watch a cyborg cockroach navigate a maze](https://www.newscientist.com/article/2392588-watch-a-cyborg-cockroach-navigate-a-maze/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-The way conversation shapes our worlds and holds them together is cunningly teased apart by Shane O'Mara, a professor of experimental brain research
+Remote-controlled cockroaches are not a new idea, but now researchers have found a way to steer the insects without injuring them
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[New superconductor claims could lead to progress even if they're wrong](https://www.newscientist.com/article/mg25934503-700-new-superconductor-claims-could-lead-to-progress-even-if-theyre-wrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [Stick insects that are normally asexual may occasionally have sex](https://www.newscientist.com/article/2392777-stick-insects-that-are-normally-asexual-may-occasionally-have-sex/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_20-Sep-2023_
 
-Experts are right to be wary of claims that a room-temperature, ambient-pressure superconductor has been found, but the flurry of new research to confirm the finding could result in a genuine breakthrough
+Some animals reproduce asexually by creating embryos from unfertilised eggs, but this can lead to a lack of genetic diversity. To keep their gene pool healthy, two species of asexual stick insect appear to occasionally mate
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Something strange is happening in the Pacific and we must find out why](https://www.newscientist.com/article/mg25934500-100-something-strange-is-happening-in-the-pacific-and-we-must-find-out-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_01-Aug-2023_
+### [Theory of consciousness branded 'pseudoscience' by neuroscientists](https://www.newscientist.com/article/2392771-theory-of-consciousness-branded-pseudoscience-by-neuroscientists/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_19-Sep-2023_
 
-Unexpectedly, the eastern Pacific Ocean is cooling. If this “cold tongue” continues, it could reduce greenhouse gas warming by 30 per cent – but also bring megadrought to the US
+A leading theory about consciousness called the integrated information theory has been attacked in an open letter from over one hundred researchers in the field
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Gold flakes glow when they are bathed in light and now we know how](https://www.newscientist.com/article/2385531-gold-flakes-glow-when-they-are-bathed-in-light-and-now-we-know-how/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [Why being more open about mental health could be making us feel worse](https://www.newscientist.com/article/mg25934573-900-why-being-more-open-about-mental-health-could-be-making-us-feel-worse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_19-Sep-2023_
 
-Shooting powerful lasers at thin gold flakes has revealed how the precious metal generates its own faint glow – and might help us better control chemical reactions used in energy storage
+The language of the therapy room is creeping into everyday life. Psychologist Lucy Foulkes says therapy speak and overpsychologising could do more harm than good
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[ADHD linked to disrupted brain signals involved in focusing attention](https://www.newscientist.com/article/2385899-adhd-linked-to-disrupted-brain-signals-involved-in-focusing-attention/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [Extinct Tasmanian tiger yields RNA secrets that could aid resurrection](https://www.newscientist.com/article/2392879-extinct-tasmanian-tiger-yields-rna-secrets-that-could-aid-resurrection/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_19-Sep-2023_
 
-Disrupted brain signals have previously been linked to ADHD in children, with the link now being found in young adults, improving researchers' understanding of the condition
+RNA, which regulates the activity of DNA, is a crucial part of building an organism - and now researchers have extracted some from an extinct animal for the first time
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[AI voices are hard to spot even if you know audio might be a deepfake](https://www.newscientist.com/article/2385752-ai-voices-are-hard-to-spot-even-if-you-know-audio-might-be-a-deepfake/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [Rare Australian pink diamonds emerged when a supercontinent broke up](https://www.newscientist.com/article/2392517-rare-australian-pink-diamonds-emerged-when-a-supercontinent-broke-up/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_19-Sep-2023_
 
-Deepfake audio can trick people even when they know they might be hearing an AI-generated voice – AI-powered detectors may need to step up to help people distinguish deepfakes from authentic human speech
+Understanding how the world’s largest-known collection of pink diamonds came to the surface in Australia around 1.3 billion years ago could help us find hidden deposits elsewhere in the world
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ancient whale might have been the heaviest animal that ever lived](https://www.newscientist.com/article/2385927-ancient-whale-might-have-been-the-heaviest-animal-that-ever-lived/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [What you need to know about the 2023 covid-19 boosters](https://www.newscientist.com/article/2392575-what-you-need-to-know-about-the-2023-covid-19-boosters/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_18-Sep-2023_
 
-A whale that lived around 39 million years ago could have weighed as much as 340 tonnes, according to analysis of a partial skeleton found in Peru
+New Scientist explains how the latest covid-19 booster vaccines are different from previous ones, and who should get them
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Chemical reaction used in cooking may have helped complex life evolve](https://www.newscientist.com/article/2385855-chemical-reaction-used-in-cooking-may-have-helped-complex-life-evolve/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [DeepMind AI can predict if DNA mutations are likely to be harmful](https://www.newscientist.com/article/2392821-deepmind-ai-can-predict-if-dna-mutations-are-likely-to-be-harmful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_19-Sep-2023_
 
-The Maillard reaction, which generates flavoursome compounds during cooking, probably helps lock carbon away in the seabed, boosting oxygen in the atmosphere
+By working out which small mutations will probably be damaging, Google DeepMind’s AlphaMissense system could help doctors identify the cause of genetic diseases
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Gene variant that seems to protect against HIV may lead to new drugs](https://www.newscientist.com/article/2385802-gene-variant-that-seems-to-protect-against-hiv-may-lead-to-new-drugs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [Catastrophic Libyan dam collapse partly caused by climate change](https://www.newscientist.com/article/2392811-catastrophic-libyan-dam-collapse-partly-caused-by-climate-change/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_19-Sep-2023_
 
-A different form of a gene called CHD1L found in people with African ancestry has been linked to lower HIV levels in people infected with the virus, and the discovery could open the door to improved treatments
+Recent extreme rainfall that caused flooding across the Mediterranean and contributed to the catastrophic collapse of two dams in Libya was probably made more likely and more intense by climate change
 
-
-
-
-
-
-
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Your gut microbiome is linked to your fitness and biological age](https://www.newscientist.com/article/2385367-your-gut-microbiome-is-linked-to-your-fitness-and-biological-age/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [6 charts that explain the cannabis revolution](https://www.newscientist.com/article/2392124-6-charts-that-explain-the-cannabis-revolution/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_19-Sep-2023_
 
-Altering the gut microbiome via probiotics could one day help people to maintain a certain level of fitness and reduce the rate of their biological ageing
+As popular discussion of cannabis has moved away from the drug trade and toward potential medical applications, views about safety and support for legalisation have changed hugely in the US
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Artificial spider silk could help us harvest drinking water from air](https://www.newscientist.com/article/2384658-artificial-spider-silk-could-help-us-harvest-drinking-water-from-air/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [Rare mutation hints gene editing could prevent Alzheimer’s disease](https://www.newscientist.com/article/2392481-rare-mutation-hints-gene-editing-could-prevent-alzheimers-disease/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_19-Sep-2023_
 
-Helical bumps on artificial fibres can carry 2000 times more water than the volume of the bumps themselves, which could help people harvest drinking water from the air
+Two people with a mutant version of a gene variant – APOE4 – linked to Alzheimer’s showed no signs of dementia, indicating that gene editing to mimic the effect may work against the condition
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ancient Babylonian arson in Jerusalem revealed by chemical clues](https://www.newscientist.com/article/2385449-ancient-babylonian-arson-in-jerusalem-revealed-by-chemical-clues/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [How scientists are cracking historical codes to reveal lost secrets](https://www.newscientist.com/article/mg25934570-900-how-scientists-are-cracking-historical-codes-to-reveal-lost-secrets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_18-Sep-2023_
 
-By analysing charred remains of a Jerusalem building, archaeologists have uncovered details of how it was burned down by Babylonian invaders in 586 BC
+Deciphering encrypted messages from centuries past is a painstaking process. But linguists and computer scientists are starting to automate it, with some sensational results
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Oldest adult jellyfish fossil ever found is over 500 million years old](https://www.newscientist.com/article/2385670-oldest-adult-jellyfish-fossil-ever-found-is-over-500-million-years-old/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_02-Aug-2023_
+### [We now know how many cells there are in the human body](https://www.newscientist.com/article/2392685-we-now-know-how-many-cells-there-are-in-the-human-body/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_18-Sep-2023_
 
-A fossil discovered in Canada reveals that jellyfish developed the swimming stage of their life cycle more than half a billion years ago
+New estimates for the number of cells in adults and children draw on over 1500 scientific papers detailing the different cell and tissue types in our bodies
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[NASA has regained contact with Voyager 2 after losing it for a week](https://www.newscientist.com/article/2385738-nasa-has-regained-contact-with-voyager-2-after-losing-it-for-a-week/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_01-Aug-2023_
+### [The world’s brightest X-ray machine has been turned on](https://www.newscientist.com/article/2392138-the-worlds-brightest-x-ray-machine-has-been-turned-on/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_18-Sep-2023_
 
-After accidentally turning the Voyager 2 spacecraft away from Earth and losing contact with it, NASA engineers have now heard a “heartbeat signal” that shows it is still okay
+The LCLS-II X-ray laser is unprecedentedly bright, and will make it possible to record exactly what atoms and molecules do during photosynthesis and other chemical reactions
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Lead exposure linked to higher risk of engaging in criminal behaviour](https://www.newscientist.com/article/2385578-lead-exposure-linked-to-higher-risk-of-engaging-in-criminal-behaviour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_01-Aug-2023_
+### [Kidneys for transplantation could come from babies who die at birth](https://www.newscientist.com/article/2392522-kidneys-for-transplantation-could-come-from-babies-who-die-at-birth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_18-Sep-2023_
 
-Higher exposure to lead in childhood is associated with a greater likelihood of criminality, a review of 17 studies has found, but whether the element is causing the behaviour rather than just being associated with it is unknown
+Organ donation from newborn babies currently happens very rarely, but could save more lives if hospitals were more open to it
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Room-temperature superconductors: Here's everything you need to know](https://www.newscientist.com/article/2385270-room-temperature-superconductors-heres-everything-you-need-to-know/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [Spinal fluid test may enable earlier diagnosis of Parkinson's disease](https://www.newscientist.com/article/2392475-spinal-fluid-test-may-enable-earlier-diagnosis-of-parkinsons-disease/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_18-Sep-2023_
 
-Truly convenient materials that can conduct electricity perfectly have long been sought after by researchers, but their history is one of difficult experiments, theoretical puzzles and scientific controversy
+People with Parkinson’s disease have been found to have high levels of an enzyme called DOPA decarboxylase in the fluid around their brain and spinal cord
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Euclid space telescope sends back amazing first images of the cosmos](https://www.newscientist.com/article/2385424-euclid-space-telescope-sends-back-amazing-first-images-of-the-cosmos/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_31-Jul-2023_
+### [Doctors warn about the rise of people with obsolete medical implants](https://www.newscientist.com/article/2392358-doctors-warn-about-the-rise-of-people-with-obsolete-medical-implants/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_18-Sep-2023_
 
-The European Space Agency’s Euclid telescope launched on 1 July, and now it has delivered its first stunning pictures of stars and galaxies across the cosmos
+People with implants for treating conditions such as blindness, chronic pain and severe headaches have had medical benefits that are now in jeopardy
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Earth's early warmth may be explained by methane-making reaction](https://www.newscientist.com/article/2385596-earths-early-warmth-may-be-explained-by-methane-making-reaction/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_01-Aug-2023_
+### [Cannabis for medical use is soaring but the research is lagging behind](https://www.newscientist.com/article/mg25934563-300-cannabis-for-medical-use-is-soaring-but-the-research-is-lagging-behind/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-A chemical process that produces methane without living organisms could have warmed up the young Earth – and may complicate the search for life elsewhere
+With more of us turning to cannabis and its compounds for medical reasons than ever before, we need solid research to tell us what it really does to the body and mind
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Male moths make their own perfume from flowers to attract females](https://www.newscientist.com/article/2385534-male-moths-make-their-own-perfume-from-flowers-to-attract-females/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_01-Aug-2023_
+### [Google Bard AI won't answer questions about Putin asked in Russian](https://www.newscientist.com/article/2392386-google-bard-ai-wont-answer-questions-about-putin-asked-in-russian/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_18-Sep-2023_
 
-Tobacco budworm moth males gather a sweet-smelling chemical from flowers and release it from hairy appendages when they are near females to make themselves more attractive
+Asking Google Bard about the Russian president Vladimir Putin tends to be met with refusal when posing questions in Russian - something that doesn't occur as often in English or with other AI chatbots
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Is it possible to drill a hole straight through a planet?](https://www.newscientist.com/article/2385526-is-it-possible-to-drill-a-hole-straight-through-a-planet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_01-Aug-2023_
+### [Anti-ageing drugs could make more organs viable for transplants](https://www.newscientist.com/article/2392414-anti-ageing-drugs-could-make-more-organs-viable-for-transplants/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_18-Sep-2023_
 
-Could we bore a hole through the centre of Earth? What would it be like to fling yourself through it? The Dead Planets Society podcast digs deep into the potential hazards
+Organs from older donors can accelerate cellular ageing in transplant recipients, but research in mice suggests this can be reduced with the help of so-called senolytic drugs
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The best new science fiction books of August 2023](https://www.newscientist.com/article/2385317-the-best-new-science-fiction-books-of-august-2023/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_01-Aug-2023_
+### [It's a great time to see the Cygnus constellation – here's how](https://www.newscientist.com/article/mg25934561-800-its-a-great-time-to-see-the-cygnus-constellation-heres-how/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-From speculative novellas by Josh Malerman to a first venture into science fiction from H is for Hawk author Helen Macdonald, August brims with sci-fi potential, says culture editor Alison Flood
+You can currently see Cygnus and its lovely stars, including stunning double star Albireo, from almost anywhere in the world, says Abigail Beall
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Essential molecule for life spotted floating in space for first time](https://www.newscientist.com/article/2384657-essential-molecule-for-life-spotted-floating-in-space-for-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_01-Aug-2023_
+### [Disinformation wars: The fight against fake news in the age of AI](https://www.newscientist.com/article/mg25934563-200-disinformation-wars-the-fight-against-fake-news-in-the-age-of-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_12-Sep-2023_
 
-Carbonic acid, an important component of amino acids, has been seen in a cloud of gas near the centre of the Milky Way, which could help us explain how life came to be on Earth
+Researchers and governments are finally battling back against the deluge of false information online, just as artificial intelligence threatens to supercharge the problem
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Our solar system might be 1.1 million years older than we thought](https://www.newscientist.com/article/2385393-our-solar-system-might-be-1-1-million-years-older-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_01-Aug-2023_
+### [Is CBD a wonder drug or waste of money? Here's what the evidence says](https://www.newscientist.com/article/mg25934563-100-is-cbd-a-wonder-drug-or-waste-of-money-heres-what-the-evidence-says/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-A new analysis of small flecks in meteorites calculates the age of the solar system as 4.5684 billion years old, rather than 4.5673 billion
+Claims about the health benefits of cannabidiol have outpaced credible research, but CBD does show some real promise
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Arctic foxes help create habitats as ‘gardeners’ of the tundra](https://www.newscientist.com/article/2385227-arctic-foxes-help-create-habitats-as-gardeners-of-the-tundra/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_01-Aug-2023_
+### [Starter Villain review: Big questions laced with absurdist humour](https://www.newscientist.com/article/mg25934561-600-starter-villain-review-big-questions-laced-with-absurdist-humour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-Satellite images support the claim that Arctic foxes promote the growth of the lush vegetation seen around their dens
+The protagonist of John Scalzi's excellent new sci-fi novel is trying to find his way out of existential misery. So is the hero of Lavie Tidhar's The Circumference of the World. But at their hearts, both books are setting out to explore what on earth we are doing here, finds Sally Adee
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Space germs: How can we avoid contaminating other worlds?](https://www.newscientist.com/article/2375987-space-germs-how-can-we-avoid-contaminating-other-worlds/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_09-Jun-2023_
+### [Can massive solar power expansion regenerate the US’s iconic prairies?](https://www.newscientist.com/article/mg25934560-100-can-massive-solar-power-expansion-regenerate-the-uss-iconic-prairies/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_12-Sep-2023_
 
-Headlines about alien flu from outer space exaggerate the risk of extraterrestrial microbes but we still need to be careful about taking our own germs off-planet, says astrophysicist Erika Nesvold
+Renewable energy development is transforming the US countryside. It could be a chance to restore the iconic prairies if rural opposition can be overcome
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Energy-storing concrete could form foundations for solar-powered homes](https://www.newscientist.com/article/2385500-energy-storing-concrete-could-form-foundations-for-solar-powered-homes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_31-Jul-2023_
+### [How to spot green comet Nishimura in the skies this week](https://www.newscientist.com/article/2391582-how-to-spot-green-comet-nishimura-in-the-skies-this-week/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_12-Sep-2023_
 
-A mixture of cement and fine charcoal can become a supercapacitor that could someday charge homes or electric vehicles
+Comet Nishimura, which was discovered just a month ago, is about to make its closest approach to the sun, giving people in the northern hemisphere a great chance of a sighting
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mathematicians find 27 tickets that guarantee UK National Lottery win](https://www.newscientist.com/article/2384455-mathematicians-find-27-tickets-that-guarantee-uk-national-lottery-win/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [Why the ancient hominins of Asia are so mysterious](https://www.newscientist.com/article/2392510-why-the-ancient-hominins-of-asia-are-so-mysterious/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_15-Sep-2023_
 
-Buying a specific set of 27 tickets for the UK National Lottery will mathematically guarantee that you win something
+When it comes to ancient humans in Asia, we have so many fossils and no consensus on how to make sense of them
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Nightingales match the pitch of their rivals in singing duels](https://www.newscientist.com/article/2385379-nightingales-match-the-pitch-of-their-rivals-in-singing-duels/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_31-Jul-2023_
+### [City-wide quantum communication network in China is most advanced yet](https://www.newscientist.com/article/2391405-city-wide-quantum-communication-network-in-china-is-most-advanced-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Sep-2023_
 
-Male nightingales respond to each other’s songs by whistling back at the same pitch when competing for territory, and they even copy the pitch of artificial whistle sounds
+A network that connects quantum devices and a central server that spans Hefei, China, can allow multiple secure quantum chats at once
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[What will the UK push for more North Sea oil and gas really achieve?](https://www.newscientist.com/article/2385452-what-will-the-uk-push-for-more-north-sea-oil-and-gas-really-achieve/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_31-Jul-2023_
+### [Facebook change to control covid-19 vaccine misinformation failed](https://www.newscientist.com/article/2392194-facebook-change-to-control-covid-19-vaccine-misinformation-failed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_15-Sep-2023_
 
-The UK’s plan to issue new oil and gas licences will make a minimal impact on North Sea production levels – but it will dent the country's reputation as a climate leader
+The removal of a major anti-vaccine page in November 2020 by Facebook didn’t reduce misinformation and instead led to remaining anti-vaccine content becoming more extreme and getting more engagement
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[AI can make life easier, but it could seriously distort democracies](https://www.newscientist.com/article/mg25934493-600-ai-can-make-life-easier-but-it-could-seriously-distort-democracies/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Data leak means anyone can see when astronauts urinate on the ISS](https://www.newscientist.com/article/2392360-data-leak-means-anyone-can-see-when-astronauts-urinate-on-the-iss/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_15-Sep-2023_
 
-While artificial intelligence is a transformative tool that can release us from tedious tasks, we must be wary of its unprecedented power to to supercharge propaganda
+A security researcher has found an old data feed that reveals how full the urine tank on the International Space Station is, allowing them to track when astronauts use the toilet
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Swimming behind someone cuts drag by up to 40 per cent](https://www.newscientist.com/article/2385153-swimming-behind-someone-cuts-drag-by-up-to-40-per-cent/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_31-Jul-2023_
+### [Tadpoles can change colour to blend in with their environment](https://www.newscientist.com/article/2392398-tadpoles-can-change-colour-to-blend-in-with-their-environment/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_15-Sep-2023_
 
-Swimmers in open water races can reduce the amount of drag forces they experience by swimming behind or at the hip level of another swimmer
+When tadpoles are raised in white, black or grey trays, they adapt their colour to match their background, which may help them avoid being eaten by birds and fish
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Wild bees are rapidly shrinking due to global warming](https://www.newscientist.com/article/2384886-wild-bees-are-rapidly-shrinking-due-to-global-warming/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_31-Jul-2023_
+### [NASA’s UFO task force has released its final report – it’s not aliens](https://www.newscientist.com/article/2392310-nasas-ufo-task-force-has-released-its-final-report-its-not-aliens/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Sep-2023_
 
-Bees in a well-preserved Spanish wilderness weigh less than they did decades ago, possibly because rising temperatures are affecting their development and food
+An independent task force formed by NASA to look into unidentified anomalous phenomena found no evidence of alien craft, and suggests that if we want to find proof of visitors we need better data
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How to make perfect tempura at home](https://www.newscientist.com/article/mg25934491-600-how-to-make-perfect-tempura-at-home/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Plant protein capsules could make it easier to add vitamin D to drinks](https://www.newscientist.com/article/2392111-plant-protein-capsules-could-make-it-easier-to-add-vitamin-d-to-drinks/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_15-Sep-2023_
 
-From using less protein to adding ethanol, these science-backed tricks can help you make the crispiest tempura
+Drinks in transparent bottles are difficult to fortify with vitamin D because the supplement breaks down when exposed to UV light, but tiny protein capsules that protect the vitamin could help
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Can AI ever become conscious and how would we know if that happens?](https://www.newscientist.com/article/2384077-can-ai-ever-become-conscious-and-how-would-we-know-if-that-happens/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [Key immune cells may help protect against inflammatory bowel disease](https://www.newscientist.com/article/2392304-key-immune-cells-may-help-protect-against-inflammatory-bowel-disease/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_15-Sep-2023_
 
-It sounds far-fetched, but researchers are trying to recreate subjective experience in AIs, even if disagreement over what consciousness is will make it difficult to test
+A group of specialised immune cells in the gut seems to have a protective role in people with Crohn's disease, and may help doctors predict how the illness will progress
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Aliens: Dark Descent review: Great game finally joins the franchise](https://www.newscientist.com/article/mg25934491-200-aliens-dark-descent-review-great-game-finally-joins-the-franchise/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [JWST has taken an astonishing image of a baby star with powerful jets](https://www.newscientist.com/article/2392326-jwst-has-taken-an-astonishing-image-of-a-baby-star-with-powerful-jets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Sep-2023_
 
-Based on the first film sequel, Aliens: Dark Descent sees you in charge of exploring a moon in search of hostile creatures. Things can get real bad, real quick, discovers Jacob Aron
+The James Webb Space Telescope has captured an image of a young star spewing out powerful winds that have created a pair of stunning, colourful jets
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The slippery quest to invent a safer, more effective sunscreen](https://www.newscientist.com/article/mg25934491-500-the-slippery-quest-to-invent-a-safer-more-effective-sunscreen/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_24-Jul-2023_
+### [Growing pains may indicate a greater risk of migraines later in life](https://www.newscientist.com/article/2392123-growing-pains-may-indicate-a-greater-risk-of-migraines-later-in-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_15-Sep-2023_
 
-Concerns over chemical sunscreens harming coral reefs and maybe even our health are inspiring a new generation of sun lotions that would offer greater protection that endures
+A study of 100 children found that those who experience growing pains are more likely than their peers to get migraines five years later
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[These are the five most shocking climate records this week](https://www.newscientist.com/article/2384931-these-are-the-five-most-shocking-climate-records-this-week/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [High-flying microplastics could pose a threat to the ozone layer](https://www.newscientist.com/article/2391496-high-flying-microplastics-could-pose-a-threat-to-the-ozone-layer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_15-Sep-2023_
 
-From "hot tub" sea temperatures in Florida to wildfires across Greek islands, we are seeing a record-breaking season of climate extremes
+Experiments suggest microplastic fragments with irregular shapes settle more slowly than spherical ones and may reach the stratosphere
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The biggest scientific challenges that AI is already helping to crack](https://www.newscientist.com/article/2384085-the-biggest-scientific-challenges-that-ai-is-already-helping-to-crack/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [Fascinating photos of fungi show their diversity](https://www.newscientist.com/article/mg25934561-100-fascinating-photos-of-fungi-show-their-diversity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-AI isn't just for chatbots – many companies are using it to tackle everything from protein folding and drug development to commercially viable nuclear fusion
+Mycologists Danny Newman and Roo Vandegrift spent more than a decade scouting for fungi in the threatened Los Cedros reserve in Ecuador. See some of their finds here
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Rats have a 'laugh centre' in their brains that responds to tickling](https://www.newscientist.com/article/2385124-rats-have-a-laugh-centre-in-their-brains-that-responds-to-tickling/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [Ten Trips review: What tripping taught an academic about psychedelics](https://www.newscientist.com/article/mg25934561-400-ten-trips-review-what-tripping-taught-an-academic-about-psychedelics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Sep-2023_
 
-A region of the midbrain in rodents appears to be instrumental in enabling rats to engage in laughter and play
+From ketamine in a London kitchen to wachuma in the Colombian Amazon, self-described "douchey forty-nine-year-old psychedelic virgin" and neuropsychologist Andy Mitchell hopes his trips will teach us more about the drugs
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Women may age fastest during their 30s and 50s](https://www.newscientist.com/article/2384445-women-may-age-fastest-during-their-30s-and-50s/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [Thousands of people apparently cheat at Wordle every day](https://www.newscientist.com/article/2392150-thousands-of-people-apparently-cheat-at-wordle-every-day/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Sep-2023_
 
-A woman may be most likely to give birth in her 30s and go through the menopause in her 50s, with these life events causing hormonal changes that may accelerate ageing
+The popular word-guessing game Wordle inspires large numbers of people to either cheat by looking up answers or to stubbornly stick with favourite starting words
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Intermittent fasting could boost immunity in addition to weight loss](https://www.newscientist.com/article/2385137-intermittent-fasting-could-boost-immunity-in-addition-to-weight-loss/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Sep-2023_
 
-Immune cells are more effective at fending off pathogens when they use ketones – which are produced during fasting – rather than glucose for energy
+Insect-sized robots that can crawl, hop and turn by harnessing the power of explosions can be cheaply produced for a range of applications
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Loss of smell may be an early sign of Alzheimer's in at-risk people](https://www.newscientist.com/article/2384964-loss-of-smell-may-be-an-early-sign-of-alzheimers-in-at-risk-people/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [Oxygen levels are dropping in rivers across the US and central Europe](https://www.newscientist.com/article/2392240-oxygen-levels-are-dropping-in-rivers-across-the-us-and-central-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Sep-2023_
 
-People who carry a genetic variant that raises the risk of Alzheimer's disease may start to lose their sense of smell before they experience any decline in cognitive function
+Rivers in the US and central Europe are losing their ability to hold oxygen because of rising temperatures, which could put fish at risk
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[AI news recap: While Hollywood strikes, is ChatGPT getting worse?](https://www.newscientist.com/article/2384188-ai-news-recap-while-hollywood-strikes-is-chatgpt-getting-worse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [MDMA therapy for PTSD expected to get US approval after latest trial](https://www.newscientist.com/article/2392213-mdma-therapy-for-ptsd-expected-to-get-us-approval-after-latest-trial/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Sep-2023_
 
-There is anger over a Netflix AI job paying up to $900,000, coming as actors are still striking over the use of AI in film and TV.  In other AI news, problems with training data can cause glitches or make chatbots more racist
+US regulators could soon authorise MDMA-assisted psychotherapy for post-traumatic stress disorder after positive results in the largest clinical trial to date
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ancient make-up in Chinese tomb includes concealer and skin lightener](https://www.newscientist.com/article/2384091-ancient-make-up-in-chinese-tomb-includes-concealer-and-skin-lightener/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [The quantum world: A concise guide to the particles that make reality](https://www.newscientist.com/article/2367423-the-quantum-world-a-concise-guide-to-the-particles-that-make-reality/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_05-Apr-2023_
 
-Two cosmetic products have been identified from residues in the tomb of a non-noble woman who lived in China 2000 years ago, suggesting the widespread use of make-up
+Get to grips with the deepest layer of reality we know of with our inventory of the subatomic realm, from known particles like quarks and the Higgs boson to hypotheticals including the fifth force and strings in 11 dimensions
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Shirt woven with metal could help medical implants communicate](https://www.newscientist.com/article/2384486-shirt-woven-with-metal-could-help-medical-implants-communicate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [Fresh ideas about the causes of depression are bringing new treatments](https://www.newscientist.com/article/mg25734220-100-fresh-ideas-about-the-causes-of-depression-are-bringing-new-treatments/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_18-Jan-2023_
 
-Transmitting data around the body can be tricky, but a shirt with a metal upgrade could help
+By upending the idea that a chemical imbalance in the brain is behind depression, we are starting to understand some of its mysteries and develop better treatments
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Striking photo of lone tree is stark warning about Bolivia’s future](https://www.newscientist.com/article/mg25934490-800-striking-photo-of-lone-tree-is-stark-warning-about-bolivias-future/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Roger Penrose: "Consciousness must be beyond computable physics"](https://www.newscientist.com/article/mg25634130-100-roger-penrose-consciousness-must-be-beyond-computable-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Nov-2022_
 
-Bolivia's deforestation crisis is underlined in this set of images from Terraforming, a project by photographer Matjaž Krivic and journalist Maja Prijatelj Videmšek
+The mathematician shares his latest theories on quantum consciousness, the structure of the universe and how to communicate with civilisations from other cosmological aeons
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[In Light-Years There's No Hurry review: Embracing a cosmic perspective](https://www.newscientist.com/article/mg25934491-000-in-light-years-theres-no-hurry-review-embracing-a-cosmic-perspective/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Low-carb diets: An easy way to lose weight or recipe for heart attack?](https://www.newscientist.com/article/mg24933160-800-low-carb-diets-an-easy-way-to-lose-weight-or-recipe-for-heart-attack/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_06-Jan-2021_
 
-A charming, challenging book argues that we can improve our well-being by tapping into the spiritually transforming "overview effect" that astronauts report after seeing earth from space
+More people are cutting carbs and filling up on fat and protein to lose weight or get healthier – despite warnings about this boosting cholesterol. New Scientist investigates the true risks of low-carb life
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Formula E unveils racing car made from electronic waste](https://www.newscientist.com/article/2384959-formula-e-unveils-racing-car-made-from-electronic-waste/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_28-Jul-2023_
+### [Developing the 'sharenting' habit prenatally has consequences](https://www.newscientist.com/article/mg25934560-900-developing-the-sharenting-habit-prenatally-has-consequences/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-A Formula E racing car made from iPhones, chargers, batteries and single-use vapes has been built in the UK to highlight the increasing problem of electronic waste
+Sharing information about children before they are born, like I did when I posted my daughter's ultrasound scan, may affect a child's future on multiple levels, says psychologist Elaine Kasket
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Targeted mRNA delivery will lead to cheaper cures for many diseases](https://www.newscientist.com/article/2384828-targeted-mrna-delivery-will-lead-to-cheaper-cures-for-many-diseases/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [Mosquitoes dodge efforts to swat them by surfing a wave of air](https://www.newscientist.com/article/2392033-mosquitoes-dodge-efforts-to-swat-them-by-surfing-a-wave-of-air/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Sep-2023_
 
-A technique for delivering mRNAs to blood stem cells should enable better and cheaper treatments for conditions from sickle cell disease to ageing
+A combination of keen senses and quick reflexes may help mosquitoes avoid a sticky end by riding the pressure wave generated as a swatter sweeps through the air
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[People in the US passed swine flu to pigs nearly 400 times in 12 years](https://www.newscientist.com/article/2385056-people-in-the-us-passed-swine-flu-to-pigs-nearly-400-times-in-12-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [The Coming Wave review: How AI reshapes our world](https://www.newscientist.com/article/mg25934561-300-the-coming-wave-review-how-ai-reshapes-our-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-A particular strain of swine flu was first recorded in people in 2009. Since then, humans have passed the strain to pigs at least 370 times in the US
+How powerful is artificial intelligence? Where has it sprung from? Mustafa Suleyman's The Coming Wave is one of four disquieting books which set out to explore AI's hold on the world
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Origin of Indo-European languages traced back to 8000 years ago](https://www.newscientist.com/article/2385057-origin-of-indo-european-languages-traced-back-to-8000-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [Huge rise in US overdose deaths from fentanyl mixed with stimulants](https://www.newscientist.com/article/2392115-huge-rise-in-us-overdose-deaths-from-fentanyl-mixed-with-stimulants/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_14-Sep-2023_
 
-An analysis of related words in 161 languages suggests their shared roots lie in the Middle East – a conclusion that also fits with DNA evidence
+Between 2010 and 2021, the proportion of drug overdose deaths in the US involving a combination of fentanyl and a stimulant such as cocaine or methamphetamine skyrocketed
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Is geological hydrogen a green solution to our energy needs?](https://www.newscientist.com/article/2384933-is-geological-hydrogen-a-green-solution-to-our-energy-needs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [Frogs have been trying to mate with odd things for 220 million years](https://www.newscientist.com/article/2392098-frogs-have-been-trying-to-mate-with-odd-things-for-220-million-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-Plans to extract hydrogen from underground reservoirs have been presented as climate-friendly, but it is still unclear just how much they could increase global warming
+Male frogs will sometimes try to mate with turtles or inanimate objects, and now there is evidence that the behaviour began deep in prehistory with the first frogs
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Supersonic cracks seem to be breaking the laws of physics](https://www.newscientist.com/article/2384843-supersonic-cracks-seem-to-be-breaking-the-laws-of-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [A note from our editor on New Scientist Live 2023](https://www.newscientist.com/article/0-a-note-from-our-editor-on-new-scientist-live-2023/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-An experiment with elastic gels broke the theoretical speed limit for how fast cracks can move through materials, raising new questions about the physics of fractures
+With just a few weeks to go, now is the time to grab your tickets to the world’s greatest festival of ideas, says Emily Wilson
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[UFO hearing: Why do so many people believe aliens have visited Earth?](https://www.newscientist.com/article/2384991-ufo-hearing-why-do-so-many-people-believe-aliens-have-visited-earth/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [Moderna's improved mRNA covid-19 vaccine is effective at lower doses](https://www.newscientist.com/article/2392035-modernas-improved-mrna-covid-19-vaccine-is-effective-at-lower-doses/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-Despite testimony by David Grusch to US Congress about "non-human biologics" and UFO crash sites, there is still no evidence aliens have ever come to Earth. Why are people taking such claims seriously, asks Jacob Aron
+A streamlined version of Moderna’s vaccine that targets only key parts of the spike protein of the SARS-CoV-2 coronavirus is being trialled in humans
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Young mouse blood extends lives of older ones while rejuvenating them](https://www.newscientist.com/article/2384878-young-mouse-blood-extends-lives-of-older-ones-while-rejuvenating-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [Humans use a quarter of all the biomass created by plants on land](https://www.newscientist.com/article/2391648-humans-use-a-quarter-of-all-the-biomass-created-by-plants-on-land/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-Surgically attaching old mice to young mice to exchange their blood has previously been shown to rejuvenate the older individuals' brains, livers and muscles. Now, it has been shown to also extend their lifespan, even after the animals have been detached
+To stay within safe planetary boundaries, humans should only use around 10 per cent of the biomass produced each year by plants on land, but we are currently way above that level
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Stars have an innate twinkle – and now you can listen to it](https://www.newscientist.com/article/2384861-stars-have-an-innate-twinkle-and-now-you-can-listen-to-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [Stone Age carvings of animal footprints identified by expert trackers](https://www.newscientist.com/article/2391787-stone-age-carvings-of-animal-footprints-identified-by-expert-trackers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-Simulations of the rippling that occurs inside stars has made it possible to turn this innate twinkling into audio
+Animal footprints carved into rock thousands of years ago depict over 40 species, a trio of trackers has determined
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Could Elon Musk's xAI be exactly what the world needs?](https://www.newscientist.com/article/mg25934490-700-could-elon-musks-xai-be-exactly-what-the-world-needs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Reusable rocket built by students is about to launch to space](https://www.newscientist.com/article/2391589-reusable-rocket-built-by-students-is-about-to-launch-to-space/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-As academics struggle to compete with private investment, perhaps Musk’s new artificial intelligence venture really can tackle the “true nature of the universe”
+The Karman Space Programme, set up by students at Imperial College London, will attempt to launch its Aurora rocket to an altitude of 100 kilometres, the generally accepted boundary of space
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[River pollution 'offsets' for homes in England and Wales may not work](https://www.newscientist.com/article/2384196-river-pollution-offsets-for-homes-in-england-and-wales-may-not-work/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [Superglue alternative made from soya is strong but biodegradable](https://www.newscientist.com/article/2391899-superglue-alternative-made-from-soya-is-strong-but-biodegradable/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-Some home builders in England and Wales are allowed to buy nutrient credits to "offset" the pollution caused by new houses, but their efficacy is in doubt
+Most adhesives are made from fossil fuels and take thousands of years to biodegrade, but a new alternative derived from soya plants bonds metal, wood and synthetic surfaces just as strongly
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[We should all be curbing our water usage – before it's too late](https://www.newscientist.com/article/mg25934493-500-we-should-all-be-curbing-our-water-usage-before-its-too-late/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [DNA-based computer can run 100 billion different programs](https://www.newscientist.com/article/2391747-dna-based-computer-can-run-100-billion-different-programs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-Many have an attitude towards water that assumes it will always be plentiful. But unless people, governments and corporations change their ways, the demand may soon outstrip the supply, says Jason Arunn Murugesu
+Mixing and matching various strands of DNA can create versatile biological computer circuits that can take the square roots of numbers or solve quadratic equations
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[We may have finally figured out how galaxy-scale magnetic fields arose](https://www.newscientist.com/article/2384429-we-may-have-finally-figured-out-how-galaxy-scale-magnetic-fields-arose/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [How soap operas can help us understand special relativity](https://www.newscientist.com/article/mg25934561-000-how-soap-operas-can-help-us-understand-special-relativity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-Large-scale magnetic fields that fill up the universe may have grown from tiny magnetic fields that arose spontaneously in turbulent plasmas
+Time scales in my favourite soap opera Emmerdale make no sense, but maybe this helps avid fans to normalise the concept of time dilation, says Chanda Prescod-Weinstein
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How cancer-fighting immune cells could be made safer and more powerful](https://www.newscientist.com/article/2383957-how-cancer-fighting-immune-cells-could-be-made-safer-and-more-powerful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [The earliest black holes seen by JWST appear to be unusually massive](https://www.newscientist.com/article/2391777-the-earliest-black-holes-seen-by-jwst-appear-to-be-unusually-massive/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-Engineered immune cells called CAR T-cells are highly effective against cancer but they are also dangerous – but an upgrade could make them safer and more effective
+Observations by the James Webb Space Telescope suggest supermassive black holes from the early universe are more massive in relation to their galaxies compared with those near us
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[What an Owl Knows review: Inside the world of this mysterious bird](https://www.newscientist.com/article/mg25934490-900-what-an-owl-knows-review-inside-the-world-of-this-mysterious-bird/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Male cockatoos make customised drumsticks for their mating displays](https://www.newscientist.com/article/2391666-male-cockatoos-make-customised-drumsticks-for-their-mating-displays/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_13-Sep-2023_
 
-Owls are "in our DNA" says Jennifer Ackerman, the author of a new book that investigates the latest scientific and archaeological findings about the enigmatic birds
+Palm cockatoos fashion sticks for drumming on trees by snapping off branches and whittling them with their beaks, and the males design their tools with their own personal style
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Cannabis poisoning cases quadruple in children after legalisation](https://www.newscientist.com/article/2384800-cannabis-poisoning-cases-quadruple-in-children-after-legalisation/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_27-Jul-2023_
+### [Could we tweak the solar system to make Pluto a planet again?](https://www.newscientist.com/article/2391292-could-we-tweak-the-solar-system-to-make-pluto-a-planet-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_12-Sep-2023_
 
-The risk of cannabis poisoning in children increased fourfold after the drug was legalised for medical or recreational use in different locations, primarily due to edibles
+Pluto officially lost its planethood in 2006, and this episode of Dead Planets Society is all about bringing it back by making it bigger, faster and better than ever
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Room-temperature superconductor 'breakthrough' met with scepticism](https://www.newscientist.com/article/2384782-room-temperature-superconductor-breakthrough-met-with-scepticism/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [English rivers regularly pumped full of oxygen to prevent fish deaths](https://www.newscientist.com/article/2391674-english-rivers-regularly-pumped-full-of-oxygen-to-prevent-fish-deaths/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_12-Sep-2023_
 
-Creating a material that perfectly conducts electricity at room temperature and pressure would be a big deal, but a research team's claims of creating one has attracted more scrutiny than optimism
+In the past five years, there have been almost 100 cases of the UK's Environment Agency deploying emergency oxygen to stop fish in English rivers from dying
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Lizard puts less effort into wooing and choosing mates when it's hot](https://www.newscientist.com/article/2384434-lizard-puts-less-effort-into-wooing-and-choosing-mates-when-its-hot/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [How humans brought cannabis to every corner of the globe](https://www.newscientist.com/article/2391228-how-humans-brought-cannabis-to-every-corner-of-the-globe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_08-Sep-2023_
 
-Spiny lava lizards spent less time wooing and selecting a sexual partner when exposed to temperatures that are warmer than usual
+Cannabis originated in East Asia but can now be found growing on every continent except Antarctica – thanks to human trade and cultivation
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Wood-munching fungi can break down common type of plastic](https://www.newscientist.com/article/2384693-wood-munching-fungi-can-break-down-common-type-of-plastic/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Mental health 'first aid' training has no clear medical benefit](https://www.newscientist.com/article/2391461-mental-health-first-aid-training-has-no-clear-medical-benefit/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_12-Sep-2023_
 
-Fungi isolated from rotting hardwood trees can break down sheets of low-density polyethylene, one of the most abundant plastics on Earth
+A review of the Mental Health First Aid programme, which trains members of the public to support people with conditions like depression, has found no good evidence of it actually improving mental health
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How to use AI to make your life simpler, cheaper and more productive](https://www.newscientist.com/article/2384092-how-to-use-ai-to-make-your-life-simpler-cheaper-and-more-productive/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [The universe’s evolution seems to be slowing and we don’t know why](https://www.newscientist.com/article/2391414-the-universes-evolution-seems-to-be-slowing-and-we-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_11-Sep-2023_
 
-From helping you to craft the perfect email to providing personal training and meal planning, a whole host of generative AI tools are here to streamline your daily grind
+The development of cosmic structure – the huge strands of galaxies and caverns of emptiness that make up our universe – seems to be slowing down more than expected. That could mean there is something wrong with our understanding of the universe
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Magnetic-levitation device separates and sorts viruses from the air](https://www.newscientist.com/article/2384112-magnetic-levitation-device-separates-and-sorts-viruses-from-the-air/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Smart toilets could leak your medical data, warn security experts](https://www.newscientist.com/article/2390113-smart-toilets-could-leak-your-medical-data-warn-security-experts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_12-Sep-2023_
 
-Viruses and bacteria floating in the air can be sorted for further analysis using magnets and the metal gadolinium
+Toilets that collect health data could be hacked to reveal extremely sensitive information and should be regulated as medical devices, say security experts
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Aspirin raises the risk of brain bleeds and may not prevent strokes](https://www.newscientist.com/article/2384633-aspirin-raises-the-risk-of-brain-bleeds-and-may-not-prevent-strokes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Seven healthy lifestyle activities may massively cut depression risk](https://www.newscientist.com/article/2391417-seven-healthy-lifestyle-activities-may-massively-cut-depression-risk/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_11-Sep-2023_
 
-Doctors sometimes recommend older people take a low dose of aspirin to reduce their risk of the most common type of stroke, but a study suggests this is no more effective than a placebo and raises the risk of brain bleeds
+An analysis of more than 200,000 people found that living a healthy lifestyle that includes things like getting enough sleep, regularly exercising and eating a healthy diet is linked to a 57 per cent lower risk of developing depression compared with people who didn’t do this
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The start of spring in the Arctic is increasingly unpredictable](https://www.newscientist.com/article/2384583-the-start-of-spring-in-the-arctic-is-increasingly-unpredictable/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [The ultimate guide to hydration and what you really should be drinking](https://www.newscientist.com/article/mg25934550-100-the-ultimate-guide-to-hydration-and-what-you-really-should-be-drinking/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_05-Sep-2023_
 
-Instead of coming earlier and earlier as the climate warms, the onset of spring in the Arctic is now extremely variable from year to year, bringing challenges to wildlife
+Plain water, coffee or milk? Sports or energy drinks? Our ideas about what we ought to be drinking, and how much, are confounded by half-truths. Here's what the science says
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Driverless cars could get AI-powered heat vision for nighttime driving](https://www.newscientist.com/article/2384435-driverless-cars-could-get-ai-powered-heat-vision-for-nighttime-driving/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Red imported fire ants with painful bites have taken hold in Europe](https://www.newscientist.com/article/2391471-red-imported-fire-ants-with-painful-bites-have-taken-hold-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_11-Sep-2023_
 
-Self-driving vehicles that struggle with recognising objects at night could get a boost from a heat-assisted detection and ranging system
+Already a serious invasive species in the US and Australia, red imported fire ant nests have now been found in Sicily, Italy, and they could spread to other parts of Europe
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Best science fiction films about space, according to an astrophysicist](https://www.newscientist.com/article/2384184-best-science-fiction-films-about-space-according-to-an-astrophysicist/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [Mathematicians find 12,000 solutions for fiendish three-body problem](https://www.newscientist.com/article/2390230-mathematicians-find-12000-solutions-for-fiendish-three-body-problem/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_08-Sep-2023_
 
-From 2001: A Space Odyssey to WALL-E, Erika Nesvold picks her favourite sci-fi films set in space (and explains why E.T. missed out)
+Until recently, working out how three objects can stably orbit each other was nearly impossible, but now mathematicians have found a record number of solutions
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Rethinking reality: Is the entire universe a single quantum object?](https://www.newscientist.com/article/mg25834460-800-rethinking-reality-is-the-entire-universe-a-single-quantum-object/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_05-Jul-2023_
+### [Risk of mass deaths as heatwaves start to pass survivability threshold](https://www.newscientist.com/article/2391326-risk-of-mass-deaths-as-heatwaves-start-to-pass-survivability-threshold/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_08-Sep-2023_
 
-In the face of new evidence, physicists are starting to view the cosmos not as made up of disparate layers, but as a quantum whole linked by entanglement
+Between 1.5 and 2°C of global warming will lead to heatwaves so extreme that healthy people can't survive outdoors for long, in areas where people aren't used to extreme heat
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The best new science fiction books of July 2023](https://www.newscientist.com/article/2380747-the-best-new-science-fiction-books-of-july-2023/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_03-Jul-2023_
+### [Computers that use heat instead of electricity could run efficient AI](https://www.newscientist.com/article/2391276-computers-that-use-heat-instead-of-electricity-could-run-efficient-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_11-Sep-2023_
 
-From George R. R. Martin’s new Wild Cards anthology to Nana Kwame Adjei-Brenyah's dystopian take on America, there is a wealth of exciting science fiction out this month. Culture editor Alison Flood shares the novels she is most anticipating
+Devices in which heat is a necessary part of the computation process rather than a nuisance could lead to more energy-efficient machines
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How hacking your metabolism can help you burn fat and prevent disease](https://www.newscientist.com/article/mg25634071-000-how-hacking-your-metabolism-can-help-you-burn-fat-and-prevent-disease/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_04-Oct-2022_
+### [Physicists can complete our amazing, imperfect picture of reality](https://www.newscientist.com/article/mg25934553-800-physicists-can-complete-our-amazing-imperfect-picture-of-reality/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_06-Sep-2023_
 
-Hacking your metabolism to help your body burn fats and carbs more efficiently may be key to helping you lose weight, run for longer and reduce the risk of conditions like type two diabetes
+On its 50th anniversary, the standard model of particle physics remains an unfinished masterpiece. The quest to finally fill in the blanks should be treated not with frustration but joyful anticipation
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Honey made by ants could treat some bacterial and fungal infections](https://www.newscientist.com/article/2384459-honey-made-by-ants-could-treat-some-bacterial-and-fungal-infections/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Westerners sleep later on weekends than people in Asia](https://www.newscientist.com/article/2391129-westerners-sleep-later-on-weekends-than-people-in-asia/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_11-Sep-2023_
 
-An ant species in Australia makes honey that killed some bacterial and fungal infections in the lab, raising hopes that its properties could be used in new drugs
+Sleep-tracker data from 35 countries shows that people in Western countries tend to have longer lie-ins at the weekend than people in Asia, and they go to bed earlier
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Vital Atlantic Ocean current could collapse as soon as 2025](https://www.newscientist.com/article/2384094-vital-atlantic-ocean-current-could-collapse-as-soon-as-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [Can the UK’s new ARIA science agency deliver ‘moonshot’ technologies?](https://www.newscientist.com/article/2391383-can-the-uks-new-aria-science-agency-deliver-moonshot-technologies/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_11-Sep-2023_
 
-A study warns that the Atlantic meridional overturning circulation is close to a tipping point that would severely disrupt the climate – but other researchers say the timing is impossible to predict
+Originally dreamed up by Dominic Cummings, the UK's Advanced Research and Invention Agency (ARIA) has been tasked with a high-risk, high-reward approach to research funding
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Newly discovered dinosaur roamed South-East Asia 200 million years ago](https://www.newscientist.com/article/2383575-newly-discovered-dinosaur-roamed-south-east-asia-200-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Why great people don't always give good advice](https://www.newscientist.com/article/mg25934550-900-why-great-people-dont-always-give-good-advice/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_06-Sep-2023_
 
-Fossils unearthed in Thailand have been identified as a new species of dinosaur that fed on plants and roamed the wilds of South-East Asia
+Whatever your area of interest, it would seem sensible to learn from the best. Recent research disagrees, finds David Robson
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Unique egg patterns help drongos avoid getting duped by cuckoos](https://www.newscientist.com/article/2384258-unique-egg-patterns-help-drongos-avoid-getting-duped-by-cuckoos/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_26-Jul-2023_
+### [Billion Dollar Heist review: How cybercriminals hit Bangladeshi bank](https://www.newscientist.com/article/mg25934550-700-billion-dollar-heist-review-how-cybercriminals-hit-bangladeshi-bank/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_06-Sep-2023_
 
-Fork-tailed drongos produce individualised patterns on their eggs, which may help them recognise their own and reject 94 per cent of cuckoo eggs
+A sophisticated attack on Bangladesh Bank left the world reeling as it became clear that the world's largest bank, the Federal Reserve Bank of New York, was powerless to stop all of it. A smart documentary shows how state-sponsored cybercriminals are for hire, says Simon Ings
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Water seen in young planet system shows Earth may have always been wet](https://www.newscientist.com/article/2384405-water-seen-in-young-planet-system-shows-earth-may-have-always-been-wet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [Covid-19 linked to elevated risk of type 1 diabetes in young children](https://www.newscientist.com/article/2391359-covid-19-linked-to-elevated-risk-of-type-1-diabetes-in-young-children/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_08-Sep-2023_
 
-The James Webb Space Telescope has spotted water vapour in an area where planets may be forming, which could present an answer to the debate over how Earth got its water
+Children between the ages of 4 months and 2 years seem more likely to have antibodies that attack insulin-producing cells, a feature of type 1 diabetes, if they have had covid-19, which may show how viral infections can lead to this type of diabetes
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Building things with wood may not be as climate-friendly as thought](https://www.newscientist.com/article/2384394-building-things-with-wood-may-not-be-as-climate-friendly-as-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [Why it's a big deal that India beat Russia in the new race to the moon](https://www.newscientist.com/article/2391065-why-its-a-big-deal-that-india-beat-russia-in-the-new-race-to-the-moon/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_08-Sep-2023_
 
-Wood is a versatile construction material that could be used to replace carbon-intensive steel and concrete in construction, however the emissions involved may have been underestimated
+The success of the Indian Space Research Organisation mission to the moon places India as a capable up-and-comer in the space industry, and may inspire other nations with relatively new space agencies to follow suit
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Forget human extinction – these are the real risks posed by AI today](https://www.newscientist.com/article/2384063-forget-human-extinction-these-are-the-real-risks-posed-by-ai-today/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [Cave art pigments show how ancient technology changed over 4500 years](https://www.newscientist.com/article/2391272-cave-art-pigments-show-how-ancient-technology-changed-over-4500-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_08-Sep-2023_
 
-Amid warnings that advanced AI could wipe out humanity, some experts insist we should be more worried about people using existing AIs to supercharge the spread of misinformation
+The source of ochre minerals used by Stone Age humans in an Ethiopian cave changed over a 4500-year period, although it is unclear why
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[What generative AI really means for the economy, jobs and education](https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [Asteroid hit by NASA spacecraft is behaving unexpectedly](https://www.newscientist.com/article/2391083-asteroid-hit-by-nasa-spacecraft-is-behaving-unexpectedly/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_07-Sep-2023_
 
-Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how
+When NASA crashed its DART spacecraft into the asteroid Dimorphos, the goal was to shorten the space rock's orbit around its parent asteroid. The mission succeeded - but Dimorphos' orbit has continued to shrink and it isn't clear why
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The science and side effects of the drugs Ozempic and Wegovy](https://www.newscientist.com/article/2371780-the-science-and-side-effects-of-the-drugs-ozempic-and-wegovy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [Ancient mini koala may help solve mystery of early marsupial evolution](https://www.newscientist.com/article/2391225-ancient-mini-koala-may-help-solve-mystery-of-early-marsupial-evolution/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_08-Sep-2023_
 
-From how well they work to side effects such as hair loss, here’s the skinny on new weight loss injections that work by blocking a hormone that normally reduces appetite
+Fossils from a 25-million-year-old koala that may have weighed just 2.6 kilograms might help us understand how early marsupials diversified
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How does ChatGPT work and do AI-powered chatbots “think” like us?](https://www.newscientist.com/article/2384030-how-does-chatgpt-work-and-do-ai-powered-chatbots-think-like-us/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [See this award-winning shot of a reef manta ray taken by a drone](https://www.newscientist.com/article/mg25934550-200-see-this-award-winning-shot-of-a-reef-manta-ray-taken-by-a-drone/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_06-Sep-2023_
 
-The large language models behind the new chatbots are trained to predict which words are most likely to appear together – but “emergent abilities” suggest they might be doing more than that
+Lewis Burnett's powerful photographs of a saltwater crocodile, Risso's dolphins and a reef manta ray are part of a collection that won him the Portfolio prize in the 2023 Australian Geographic Nature Photographer of the Year competition
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Sea level may have been higher than it is now just 6000 years ago](https://www.newscientist.com/article/2383478-sea-level-may-have-been-higher-than-it-is-now-just-6000-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)*
-_25-Jul-2023_
+### [Why nature is the ultimate quantum engineer](https://www.newscientist.com/article/2390076-why-nature-is-the-ultimate-quantum-engineer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home)
+_08-Sep-2023_
 
-Climate researchers thought that current global average sea levels were the highest in more than 100,000 years, but new models suggest oceans just 6000 years ago may have been higher than at the beginning of the industrial revolution, and possibly even higher than today
+Historically, researchers believed that quantum properties disappear at the scale of biology, but there is increasing evidence that this isn't the full story, says physicist Clarice Aiello
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-## *[Phys org](https://phys.org/)*
-### *[New exoplanet discovery builds better understanding of planet formation](https://phys.org/news/2023-08-exoplanet-discovery-planet-formation.html)*
-_03-Aug-2023_
+## [Phys org](https://phys.org/)
+### [New research finds that sewage release is worse for rivers than agriculture](https://phys.org/news/2023-09-sewage-worse-rivers-agriculture.html)
+_21-Sep-2023_
 
-An international team of scientists has discovered an unusual Jupiter-sized planet orbiting a low-mass star called TOI-4860, located in the Corvus constellation.
+Ahead of World Rivers Day (24 September), new research by the University of Oxford reveals that sewage discharge into rivers has a greater impact on water quality, and the animals and plants that live in rivers, than surrounding land use. The findings have been published in the journals Global Change Biology and Ecological Solutions and Evidence.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Research reveals Hawai'i's undersea volcano, Kama'ehu, erupted five times in past 150 years](https://phys.org/news/2023-08-reveals-hawaii-undersea-volcano-kamaehu.html)*
-_03-Aug-2023_
+### [Monkeys cause a stink in response to human noise](https://phys.org/news/2023-09-monkeys-response-human-noise.html)
+_20-Sep-2023_
 
-Kamaʻehuakanaloa (formerly Lōʻihi Seamount), a submarine Hawaiian volcano located about 20 miles off the south coast of the Big Island of Hawai'i, has erupted at least five times in the last 150 years, according to new research led by Earth scientists at the University of Hawai'i at Mānoa. For the first time, scientists were able to estimate the ages of the most recent eruptions of Kamaʻehu, as well as the ages of eight additional older eruptions at this volcano going back about 2,000 years. Their findings were published recently in Geology.
+New research has found that monkeys increase their use of scent markings to compensate for human noise pollution.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scientists discover the highest-energy light coming from the sun](https://phys.org/news/2023-08-scientists-highest-energy-sun.html)*
-_03-Aug-2023_
+### [Scientists unravel the chemical mechanism behind silica-coated nanodiamonds](https://phys.org/news/2023-09-scientists-unravel-chemical-mechanism-silica-coated.html)
+_20-Sep-2023_
 
-Sometimes, the best place to hide a secret is in broad daylight. Just ask the sun.
+Coating something rare—tiny shards of diamond—with the main ingredient in sand might sound unusual, but the end result turns out to have a number of valuable applications. The trick is, nobody knows for sure how the two materials bond.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scientists identify an alternative system for producing the medical isotope scandium-44](https://phys.org/news/2023-08-scientists-alternative-medical-isotope-scandium-.html)*
-_03-Aug-2023_
+### [Turning mixed plastic into useful chemicals](https://phys.org/news/2023-09-plastic-chemicals.html)
+_20-Sep-2023_
 
-Scandium-44 is a promising medical isotope for positron emission tomography (PET) imaging. PET allows doctors to measure the activity of the cells in the body to help identify cancer, heart disease, and other conditions. Scandium-44 can be produced through the radioactive decay of titanium-44. Because it decays much more slowly than scandium-44, the same batch of titanium-44 can produce enough scandium-44 for many years of PET scans.
+Almost 80% of plastic in the waste stream ends up in landfills or accumulates in the environment. Oak Ridge National Laboratory scientists have developed a technology that converts a conventionally unrecyclable mixture of plastic waste into useful chemicals, presenting a new strategy in the tool kit to combat global plastic waste.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Researchers design algorithm to monitor two-photon lithography nanoscale fabrication](https://phys.org/news/2023-08-algorithm-two-photon-lithography-nanoscale-fabrication.html)*
-_03-Aug-2023_
+### [Better use of tech in prisons would help with transition back into society, says researcher](https://phys.org/news/2023-09-tech-prisons-transition-society.html)
+_20-Sep-2023_
 
-A new way to monitor two-photon lithography nanoscale fabrication could help improve the accuracy and efficiency of creating 3D-engineered tissue scaffolds, according to a new study. Tissue scaffolds mimic the natural extracellular matrices found in the body, which creates a 3D environment ideal for tissue formation.
+Better use of technology in prisons would improve family relationships, and ultimately, a detainee's prospects of transitioning successfully back into society.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Huge solar arrays permanently installed on NASA's Psyche spacecraft](https://phys.org/news/2023-08-huge-solar-arrays-permanently-nasa.html)*
-_03-Aug-2023_
+### [A view to killing off stereotypes](https://phys.org/news/2023-09-view-stereotypes.html)
+_20-Sep-2023_
 
-The Psyche mission is speeding toward its Oct. 5 launch date, preparing for the last of its launch-preparation milestones.
+Looking for insights into geopolitics? Eager to learn about foreign policy in the Asia-Pacific region? Don't rely on James Bond films for your education.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Curiosity rover faces its toughest climb yet on Mars](https://phys.org/news/2023-08-curiosity-rover-toughest-climb-mars.html)*
-_03-Aug-2023_
+### [Researchers reveal novel AI-based camera alert system to promote coexistence between tigers and humans](https://phys.org/news/2023-09-reveal-ai-based-camera-coexistence-tigers.html)
+_20-Sep-2023_
 
-On Aug. 5, NASA's Curiosity rover will notch its 11th year on Mars by doing what it does best: studying the Red Planet's surface. The intrepid bot recently investigated a location nicknamed "Jau" that is pockmarked with dozens of impact craters. Scientists have rarely gotten a close-up view of so many Martian craters in one place. The largest is estimated to be at least as long as a basketball court, although most are much smaller.
+For decades, wildlife biologists have dreamt of a "smart" camera alerting system capable of detecting tigers and other endangered species on the prowl. Legacy camera-trap technology, while valuable for many research applications, has historically been hindered by false positives and an inability to facilitate rapid responses.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Deep learning for new protein design](https://phys.org/news/2023-08-deep-protein.html)*
-_03-Aug-2023_
+### [Looks matter—handsome bank CEOs can earn a million more than their less attractive colleagues](https://phys.org/news/2023-09-matterhandsome-bank-ceos-million-colleagues.html)
+_20-Sep-2023_
 
-The key to understanding proteins—such as those that govern cancer, COVID-19, and other diseases—is quite simple: Identify their chemical structure and find which other proteins can bind to them. But there's a catch.
+Appearance significantly influences the compensation of chief executive officers in the banking sector. In American banks, CEOs with more attractive facial features earn, on average, one million dollars more per year than their less appealing colleagues.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Winter storms over Labrador Sea influence Gulf Stream system](https://phys.org/news/2023-08-winter-storms-labrador-sea-gulf.html)*
-_03-Aug-2023_
+### [NASA team simulates a glimpse of our galaxy in gravitational waves](https://phys.org/news/2023-09-nasa-team-simulates-glimpse-galaxy.html)
+_20-Sep-2023_
 
-The Gulf Stream, which brings warm water from the Gulf of Mexico to Europe and keeps the climate mild, is only part of a larger system of oceanic currents called the Atlantic Meridional Overturning Circulation, or AMOC for short. It runs through the Atlantic like a giant climate machine: As warm water from the tropics is transported northwards at the surface, the current reverses in the North Atlantic—the water cools, becomes heavier and flows south at depth.
+Astronomers using simulated data have produced a glimpse of the sky as it would appear in gravitational waves, cosmic ripples in space-time generated by orbiting objects. The image shows how space-based gravitational wave observatories expected to launch in the next decade will enhance our understanding of our galactic home.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Historical DNA study connects living people to enslaved and free African Americans at early ironworks](https://phys.org/news/2023-08-historical-dna-people-enslaved-free.html)*
-_03-Aug-2023_
+### [Realistic analysis of excavation damaged zone trends in an underground research lab in Japan](https://phys.org/news/2023-09-realistic-analysis-excavation-zone-trends.html)
+_20-Sep-2023_
 
-A first-of-its-kind analysis of historical DNA ties tens of thousands of living people to enslaved and free African Americans who labored at an iron forge in Maryland known as Catoctin Furnace soon after the founding of the United States.
+To ensure the effectiveness of high-level radioactive waste (HLW) disposal facilities, the distribution of hydraulic and mechanical properties within the surrounding rock mass, acting as a natural barrier, should be evaluated.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Tropical trees use social distancing to maintain biodiversity](https://phys.org/news/2023-08-tropical-trees-social-distancing-biodiversity.html)*
-_03-Aug-2023_
+### [River sampling study shows impact of COVID-19 pandemic on London's waterways](https://phys.org/news/2023-09-river-sampling-impact-covid-pandemic.html)
+_20-Sep-2023_
 
-Tropical forests often harbor hundreds of species of trees in a square mile, but scientists often struggle to understand how such a diversity of species can coexist. In a study published in Science, researchers at The University of Texas at Austin have provided new insights into the answer by uncovering a key characteristic of the spatial distribution of adult trees.
+The most detailed study of a city's waterways anywhere in the world has revealed how chemical pollutants in London's rivers changed over the pandemic.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[New, simple and accessible method creates potency-increasing structure in drugs](https://phys.org/news/2023-08-simple-accessible-method-potency-increasing-drugs.html)*
-_03-Aug-2023_
+### [Exploring the mind-mitochondria connection](https://phys.org/news/2023-09-exploring-mind-mitochondria.html)
+_20-Sep-2023_
 
-Chemical structures called cyclopropanes can increase the potency and fine-tune the properties of many drugs, but traditional methods to create this structure only work with certain molecules and require highly reactive—potentially explosive—ingredients.
+As befits the child of a scientist, Martin Picard's young son, 3, is already learning about biology with an age-appropriate textbook, "Cell Biology for Babies." Picard winces a little whenever the book calls mitochondria the "powerhouses of the cell" but figures he has plenty of time as his son grows older to explain why the tiny organelles are much more than simple energy sources.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scientists propose method that imparts elastic recovery to ferroelectric materials](https://phys.org/news/2023-08-scientists-method-imparts-elastic-recovery.html)*
-_03-Aug-2023_
+### [Impact of Child Trust Funds in the UK 'a missed opportunity,' researchers say](https://phys.org/news/2023-09-impact-child-funds-uk-opportunity.html)
+_20-Sep-2023_
 
-A research group led by Prof. Li Runwei at the Ningbo Institute of Materials Technology and Engineering (NIMTE) of the Chinese Academy of Sciences (CAS) have proposed a "slight cross-linking" method that imparts elastic recovery to ferroelectric materials. The study was published in Science.
+Researchers from Aston and Lincoln Universities have conducted a comprehensive study to evaluate the effectiveness of Child Trust Funds (CTFs) in the United Kingdom.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How many lottery tickets do you need to buy to guarantee a win? Mathematicians find the answer](https://phys.org/news/2023-08-lottery-tickets-buy-mathematicians.html)*
-_03-Aug-2023_
+### [Revealing the general characteristics of fiber Rayleigh scattering based on deep learning](https://phys.org/news/2023-09-revealing-general-characteristics-fiber-rayleigh.html)
+_20-Sep-2023_
 
-Mathematicians at The University of Manchester have answered the question: How many lottery tickets do you need to buy to guarantee wining something on the U.K. National Lottery?
+Scattering in media has unique inherent randomness. Fiber Rayleigh scattering is one of the typical scattering effects. The exploration and understanding of the characteristics of fiber Rayleigh scattering holds significant research value for optical fiber sensing, random fiber lasers, etc.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[New study explores how venture team membership dynamics impact innovation](https://phys.org/news/2023-08-explores-venture-team-membership-dynamics.html)*
-_03-Aug-2023_
+### [How do zeolite-encapsulated metal catalysts act on hydrogen-related catalytic reactions?](https://phys.org/news/2023-09-zeolite-encapsulated-metal-catalysts-hydrogen-related-catalytic.html)
+_20-Sep-2023_
 
-New research published in the Strategic Entrepreneurship Journal shows that modifying the composition of a new venture's team significantly affects the venture's ability to be innovative, which is key to allowing new organizations to establish a market presence and compete against established firms.
+Zeolites encapsulated metal and metal oxide species (regarded as metal@zeolite) are an important type of heterogeneous catalyst. They give performances that steadily outperform the traditional supported catalysts in many important reactions and have become a research hotspot. Remarkable achievements have been made dealing with the synthesis, characterization, and performances of metal species (typically metal and metal oxide clusters) confined in zeolites.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A spinout's biggest competitor may be the parent company, not other entrepreneurs](https://phys.org/news/2023-08-spinout-biggest-competitor-parent-company.html)*
-_03-Aug-2023_
+### [New research findings: Understanding the sex life of coral gives hope of clawing it back from the path to extinction](https://phys.org/news/2023-09-sex-life-coral-clawing-path.html)
+_20-Sep-2023_
 
-Spinouts, or new ventures started by employees leaving a parent firm, often outperform other types of new firms. But a new study published in the Strategic Management Journal finds that when parent firms identify and implement ideas internally, they outperform spinouts. For example, if employees at Microsoft leave the parent and start their own spinout in the competing industry, the spinout potentially needs to compete against a new establishment formed by Microsoft in the same industry.
+For the first time, scientists have mapped the reproductive strategies and life cycle of an endangered coral species, offering hope it can be clawed back from the path to extinction.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[New study shows volcanism 56 million years ago released more methane than thought](https://phys.org/news/2023-08-volcanism-million-years-methane-thought.html)*
-_03-Aug-2023_
+### [Unveiling the aquatic marvel: The rock-climbing fish and its adhesion-sliding feat](https://phys.org/news/2023-09-unveiling-aquatic-marvel-rock-climbing-fish.html)
+_20-Sep-2023_
 
-About 55 million years ago, the Atlantic Ocean was born. Until then, Europe and America were connected. As the continents began to move apart, the Earth's crust between them ruptured, releasing large volumes of magma. This rift volcanism has led to the formation of large igneous provinces (LIPs) in several places around the world.
+Underwater "traffic" encompasses a fascinating variety of creatures, from fish with their graceful swimming postures to jet-propelled jellyfish and remoras hitching rides on other organisms. Among these, a remarkable species known as the "underwater gecko," the rock-climbing fish (Beaufortia kweichowensis), stands out. This extraordinary creature possesses a unique set of abilities—it can swiftly slide along underwater surfaces like an ice skater, crawl against water currents, and securely adhere to a fixed position with remarkable adhesion force.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[James Webb Space Telescope captures stunning images of the Ring Nebula](https://phys.org/news/2023-08-james-webb-space-telescope-captures.html)*
-_03-Aug-2023_
+### [Incentive programs doubled cover crop use by farmers: Study](https://phys.org/news/2023-09-incentive-crop-farmers.html)
+_20-Sep-2023_
 
-NASA's James Webb Space Telescope (JWST) has recorded breathtaking new images of the iconic Ring Nebula, also known as Messier 57.
+A survey of farmers in four Northeast states, including New York, found that incentive payments encouraged participants to plant twice as many acres of cover crops as they did prior to receiving funds—a change that can both improve their farms and mitigate climate change.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Study offers glimpse of 500-million-year-old sea worm named after 'Dune' monster](https://phys.org/news/2023-08-glimpse-million-year-old-sea-worm-dune.html)*
-_03-Aug-2023_
+### [The Tibetan Plateau bridge: Remote climate effects of extratropical and tropical forcing](https://phys.org/news/2023-09-tibetan-plateau-bridge-remote-climate.html)
+_20-Sep-2023_
 
-Excavations by a University of Kansas paleontologist working in a treasure trove of fossils called the "Spence Shale Lagerstätte" have revealed an ancient sea worm unknown to science until now. The finding has now been published in the journal Historical Biology.
+The Tibetan Plateau (TP), which is located in the subtropics of eastern Eurasia, could act as a bridge spanning from the mid-to-high-latitude forcing on the tropical climate, as well as from the tropical region to subtropical systems. Knowledge of the TP bridge and its role in climate variability has advanced over the past several years.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mussel-inspired membrane can boost sustainability and add value to industrial wastewater treatment](https://phys.org/news/2023-08-mussel-inspired-membrane-boost-sustainability-industrial.html)*
-_03-Aug-2023_
+### [Researchers advance topological superconductors for quantum computing](https://phys.org/news/2023-09-advance-topological-superconductors-quantum.html)
+_20-Sep-2023_
 
-Engineers have developed a new kind of membrane that separates chemicals within wastewater so effectively that they can be reused, presenting a new opportunity for industries to improve sustainability, while extracting valuable by-products and chemicals from wastewater.
+Quantum computers process information using quantum bits, or qubits, based on fragile, short-lived quantum mechanical states. To make qubits robust and tailor them for applications, researchers from the Department of Energy's Oak Ridge National Laboratory sought to create a new material system.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Current takes a surprising path in quantum material](https://phys.org/news/2023-08-current-path-quantum-material.html)*
-_03-Aug-2023_
+### [Gray wolf personality research uses puzzle boxes, rain sticks](https://phys.org/news/2023-09-gray-wolf-personality-puzzle.html)
+_20-Sep-2023_
 
-Cornell researchers have used magnetic imaging to obtain the first direct visualization of how electrons flow in a special type of insulator, and by doing so they discovered that the transport current moves through the interior of the material, rather than at the edges, as scientists had long assumed.
+Researchers using puzzle boxes, rain sticks and papier-mâché balls are studying captive gray wolves at the Oakland Zoo and the California Wolf Center to evaluate personality and problem-solving skills of the endangered animals.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Do phrases like 'global boiling' help or hinder climate action?](https://phys.org/news/2023-08-phrases-global-hinder-climate-action.html)*
-_03-Aug-2023_
+### [Ensuring effective visual communication of climate change](https://phys.org/news/2023-09-effective-visual-communication-climate.html)
+_20-Sep-2023_
 
-Last week, United Nations General Secretary António Guterres coined an arresting new term. The era of global warming has ended, he declared dramatically, and the era of "global boiling" has arrived.
+The consequences of a warming climate frequently dominated the news this summer, from devastating wildfires and floods to deadly heat waves across the globe. Reducing harm from climate change is a challenging endeavor, and it requires comprehensive public education. Thus, the question arises: How can climate change science be made most accessible to the general population, as well as decision-makers and educators?
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Languages are both acquired and learned, so conscious and unconscious effort is needed when picking up a new one](https://phys.org/news/2023-08-languages-conscious-unconscious-effort.html)*
-_03-Aug-2023_
+### [Recent advances in nickel-based catalysts for electrochemical reduction of carbon dioxide](https://phys.org/news/2023-09-advances-nickel-based-catalysts-electrochemical-reduction.html)
+_20-Sep-2023_
 
-Two concepts—acquisition and learning—play key roles in the study of language. Although there are people who use the two terms interchangeably, in reality they embody two different processes in the development of communicative competence.
+In a paper published in Advanced Sensor and Energy Materials, an international team of scientists reviewed recent advances in nickel-based catalysts for electrochemical reduction of carbon dioxide. The relevant CO2RR mechanisms are first discussed in detail.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How community markets for all could be a sustainable alternative to food banks](https://phys.org/news/2023-08-community-sustainable-alternative-food-banks.html)*
-_03-Aug-2023_
+### [AI could make studying birds easier](https://phys.org/news/2023-09-ai-birds-easier.html)
+_20-Sep-2023_
 
-The number of people using food banks in the UK has increased from 26,000 in 2008–09 to more than 100 times that in 2023. Nearly one in five British households experienced moderate to severe food insecurity in September 2022.
+Artificial intelligence could make studying birds easier, thanks to the work of a University of Alberta student.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How platforms like Airbnb turn users into narcissistic entrepreneurs](https://phys.org/news/2023-08-platforms-airbnb-users-narcissistic-entrepreneurs.html)*
-_03-Aug-2023_
+### [Socially vulnerable populations are disproportionately exposed to wildfires in the West, study finds](https://phys.org/news/2023-09-socially-vulnerable-populations-disproportionately-exposed.html)
+_20-Sep-2023_
 
-When browsing Airbnb listings for a weekend getaway, you would not only check cottage amenities but also scroll through previous guest reviews. And if you put up your house for rental on the same platform, you would scrutinize prospective guests beforehand. Wouldn't you?
+People experiencing a high degree of social vulnerability are also more exposed to wildfires in Oregon and Washington as wildfire risk increases, a new study shows.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Most Americans support NASA but don't think it should prioritize sending people to space](https://phys.org/news/2023-08-americans-nasa-dont-prioritize-people.html)*
-_03-Aug-2023_
+### [Researchers make sand that flows uphill](https://phys.org/news/2023-09-sand-uphill.html)
+_20-Sep-2023_
 
-Most Americans (69%) believe it is essential that the United States continue to be a world leader in space. But only a subsection of that group believes NASA should prioritize sending people to the moon, according to a new report released by the Pew Research Center. The study surveyed over 10,000 U.S. adults on their attitudes toward NASA and their expectations for the space industry over the next few decades.
+Engineering researchers at Lehigh University have discovered that sand can actually flow uphill.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Australia has had school nurses for more than 100 years, but we don't use them enough](https://phys.org/news/2023-08-australia-school-nurses-years-dont.html)*
-_03-Aug-2023_
+### [Some stick insects that normally reproduce through parthenogenesis found to mate on occasion](https://phys.org/news/2023-09-insects-parthenogenesis-occasion.html)
+_20-Sep-2023_
 
-Teachers are not always equipped to deal with the growing health needs of their students, from mental health challenges to complex medical needs.
+A team of ecologists and evolutionary biologists at the University of Lausanne, Switzerland, has found that some normally asexual species of stick insects, which are known to reproduce via parthenogenesis, occasionally mate to enhance the gene pool.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[X marks the unknown in algebra, but X's origins are a math mystery](https://phys.org/news/2023-08-unknown-algebra-math-mystery.html)*
-_03-Aug-2023_
+### [Contaminants of emerging concern impact fish health in Minnesota waters](https://phys.org/news/2023-09-contaminants-emerging-impact-fish-health.html)
+_20-Sep-2023_
 
-Even though "x" is one of the least-used letters in the English alphabet, it appears throughout American culture—from Stan Lee's X-Men superheroes to "The X-Files" TV series. The letter x often symbolizes something unknown, with an air of mystery that can be appealing—just look at Elon Musk with SpaceX, Tesla's Model X, and now X as a new name for Twitter.
+Researchers from the University of Minnesota and the Grand Portage Band of Lake Superior Chippewa discovered fish from 18 out of 19 testing sites in northern Minnesota contained contaminants of emerging concern (CECs) such as pharmaceuticals, hormones and personal care products.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A carbon tax can have economic, not just environmental, benefits for Australia](https://phys.org/news/2023-08-carbon-tax-economic-environmental-benefits.html)*
-_03-Aug-2023_
+### [New self-cleaning membranes developed by researchers dramatically improve efficiency of desalination technologies](https://phys.org/news/2023-09-self-cleaning-membranes-efficiency-desalination-technologies.html)
+_20-Sep-2023_
 
-A new study has found that a carbon tax, accompanied by "revenue recycling," can produce both environmental and economic benefits for Australia.
+A team of NYU Abu Dhabi (NYUAD) researchers has developed a new kind of self-cleaning, hybrid membrane that provides a solution that overcomes significant challenges that have, until now, limited desalination technologies.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Shared horse and human burials show how deeply the vikings cared for their animal companions](https://phys.org/news/2023-08-horse-human-burials-deeply-vikings.html)*
-_03-Aug-2023_
+### [Sometimes beneficial, sometimes damaging: The double role of the enzyme chameau](https://phys.org/news/2023-09-beneficial-role-enzyme-chameau.html)
+_20-Sep-2023_
 
-Is your pet part of the family? That's nothing new. Archaeological evidence exists to suggest that the vikings held their own animals in high—even intimate—regard, taking them with them on voyages. Earlier this year, scientific evidence found for the first time that—as early as the ninth century—vikings brought horses, dogs and other animals with them across the North Sea.
+Biologists have discovered why an enzyme is important for the survival of fruit flies, even though it can shorten their lives under certain conditions.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-## *[Scientific american](https://www.scientificamerican.com/)*
-### *[Largest U.S. Offshore Wind Project Could Produce Power This Year](https://www.scientificamerican.com/article/largest-u-s-offshore-wind-project-could-produce-power-this-year/)*
-_03-Aug-2023_
+## [Scientific american](https://www.scientificamerican.com/)
+### [FEMA Needs More Money to Keep Up with Disasters. Instead It Faces a Potential Government Shutdown](https://www.scientificamerican.com/article/fema-needs-more-money-to-keep-up-with-disasters-instead-it-faces-a-potential-government-shutdown/)
+_20-Sep-2023_
 
-Construction has begun on the Vineyard Wind project off the coast of Massachusetts. It could provide enough clean energy to power 400,000 homes per year
+A government shutdown could force the Federal Emergency Management Agency to curtail all disaster activities at a time when it is already short of cash to respond to crises
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Euclid Space Telescope Snaps Spectacular First Images](https://www.scientificamerican.com/article/euclid-space-telescope-snaps-spectacular-first-images/)*
-_03-Aug-2023_
+### [Suppressing an Onrush of Toxic Thoughts Might Improve Your Mental Health](https://www.scientificamerican.com/article/suppressing-an-onrush-of-toxic-thoughts-might-improve-your-mental-health/)
+_20-Sep-2023_
 
-The European Space Agency's ambitious Euclid space telescope is on its way to decoding the secrets of dark matter and dark energy
+Counter to the conventional wisdom, suppression of distressing thoughts could be an invaluable addition in treating depression, anxiety and trauma
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Meet the Woman Who Supervised the Computations That Proved an Atomic Bomb Would Work](https://www.scientificamerican.com/article/meet-the-woman-who-supervised-the-computations-that-proved-an-atomic-bomb-would-work/)*
-_03-Aug-2023_
+### [Octopuses Used in Research Could Receive Same Protections as Monkeys](https://www.scientificamerican.com/article/octopuses-used-in-research-could-receive-same-protections-as-monkeys/)
+_20-Sep-2023_
 
-Naomi Livesayworked on computations that formed the mathematical basis for implosion simulations. Despite her crucial role on the project, she is rarely mentioned as more than a footnote&mdash;until now
+For the first time in the U.S., research with cephalopods might require approval by an ethics committee
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[What Grand Theft Auto Tells Us about the 'Crisis in Masculinity'](https://www.scientificamerican.com/article/what-grand-theft-auto-tells-us-about-the-crisis-in-masculinity/)*
-_03-Aug-2023_
+### [Earliest Evidence of Wooden Construction Uncovered](https://www.scientificamerican.com/article/earliest-evidence-of-wooden-construction-uncovered/)
+_20-Sep-2023_
 
-Breaking down &ldquo;toxic masculinity&rdquo; is complicated, especially amid fears of a masculinity crisis. Just look at one video game&rsquo;s attempt
+Researchers say the discovery of the earliest known wooden construction expands their knowledge of the woodworking skills of early humans that existed before<em>Homo sapiens</em>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Can You Decode an Alien Message?](https://www.scientificamerican.com/article/can-you-decode-an-alien-message/)*
-_03-Aug-2023_
+### [A Newly Discovered Brain Signal Marks Recovery from Depression](https://www.scientificamerican.com/article/a-newly-discovered-brain-signal-marks-recovery-from-depression/)
+_20-Sep-2023_
 
-An artist, a programmer and a scientist have created a simulation of extraterrestrial communication to test Earthlings&rsquo; ability to understand it
+Implanted electrodes pick up a pattern of brain waves that can signal the presence or absence of depression and perhaps predict its relapse
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[California Waves Have Grown a Foot Taller because of Climate Change](https://www.scientificamerican.com/article/california-waves-have-grown-a-foot-taller-because-of-climate-change/)*
-_02-Aug-2023_
+### [It's Time to Engineer the Sky](https://www.scientificamerican.com/article/its-time-to-engineer-the-sky/)
+_20-Sep-2023_
 
-The number of extreme wave events&mdash;when crests are taller than 13 feet&mdash;have doubled along California since the mid-20th century
+Global warming is so rampant that some scientists say we should begin altering the stratosphere to block incoming sunlight, even if it jeopardizes rain and crops
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Bizarre-Looking Colossus Whale May Have Been Heaviest Animal Ever (Sorry, Blue Whales)](https://www.scientificamerican.com/article/bizarre-looking-colossus-whale-may-have-been-heaviest-animal-ever-sorry-blue-whales/)*
-_02-Aug-2023_
+### [Should You Get a Blood Test For Alzheimer's?](https://www.scientificamerican.com/podcast/episode/should-you-get-a-blood-test-for-alzheimers/)
+_20-Sep-2023_
 
-&ldquo;I&rsquo;ve never seen anything like it,&rdquo; says a paleontologist not involved in the discovery of a 40-million-year-old fossilized whale
+Consumers can now get easy tests for Alzheimer&rsquo;s. But these tests may not really help patients that much&ndash;yet.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Science, Destroyer of Worlds--And Movie Scripts](https://www.scientificamerican.com/article/science-destroyer-of-worlds-and-movie-scripts/)*
-_02-Aug-2023_
+### [After 'Absurdly Long' 100-Day Freeze, Rat Kidneys Were Successfully Transplanted](https://www.scientificamerican.com/article/after-absurdly-long-100-day-freeze-rat-kidneys-were-successfully-transplanted/)
+_20-Sep-2023_
 
-<em>Oppenheimer</em> won&rsquo;t bomb in the box office, but despite its director&rsquo;s best efforts, the science in the film is a bit of a fizzle
+Nanoparticles can allow long-term freezing of transplant organs
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Social Media Is Rewriting the Banking Playbook](https://www.scientificamerican.com/article/social-media-is-rewriting-the-banking-playbook/)*
-_02-Aug-2023_
+### [Scientists Find a New Spin on Winning the 'Bottle Flip' Challenge](https://www.scientificamerican.com/article/scientists-find-a-new-spin-on-winning-the-bottle-flip-challenge/)
+_20-Sep-2023_
 
-Our financial systems need to be overhauled to avoid the kind of social-media-fueled bank run that killed Silicon Valley Bank
+Do try this at home
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Yes, AI Models Can Get Worse over Time](https://www.scientificamerican.com/article/yes-ai-models-can-get-worse-over-time/)*
-_02-Aug-2023_
+### [Biodiversity Flourishes in Historic Lawn Turned Wildflower Meadow](https://www.scientificamerican.com/article/biodiversity-flourishes-in-historic-lawn-turned-wildflower-meadow/)
+_20-Sep-2023_
 
-More training and more data can have unintended consequences for machine-learning models such as GPT-4
+An experiment at the University of Cambridge highlights the environmental cost of a well-manicured lawn
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Could Weight-Loss Drugs Curb Addiction? Your Health, Quickly, Episode 12](https://www.scientificamerican.com/podcast/episode/could-weight-loss-drugs-curb-addiction-your-health-quickly-episode-12/)*
-_02-Aug-2023_
+### [Possible New Human Species Found through 300,000-Year-Old Jawbone Fossil](https://www.scientificamerican.com/article/possible-new-human-species-found-through-300-000-year-old-jawbone-fossil/)
+_19-Sep-2023_
 
-Drugs such as Wegovy and Ozempic might help people tackle substance abuse as well as shed pounds.
+A jawbone from eastern China that displays both modern and archaic features could represent a new branch of the human family tree
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *['Virgin Birth' Engineered into Female Animals for First Time](https://www.scientificamerican.com/article/virgin-birth-engineered-into-female-animals-for-first-time/)*
-_01-Aug-2023_
+### [Behind the Scenes of Scientific American's Redesign](https://www.scientificamerican.com/article/announcing-scientific-americans-new-redesign/)
+_19-Sep-2023_
 
-Scientists altered the genomes of female fruit flies, allowing them to reproduce without any contribution from a male
+Today we introduce to the world <em>Scientific American</em>&rsquo;s redesign, which we hope will nod to our rich history while also look forward to the everchanging landscape of publishing
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[NASA Detects 'Heartbeat' from Voyager 2 Spacecraft after Losing Contact](https://www.scientificamerican.com/article/nasa-detects-heartbeat-from-voyager-2-spacecraft-after-losing-contact/)*
-_01-Aug-2023_
+### [How to Address 'Medical Gaslighting'](https://www.scientificamerican.com/article/how-to-address-medical-gaslighting1/)
+_19-Sep-2023_
 
-A glitch may have silenced NASA&rsquo;s Voyager 2 spacecraft until mid-October&mdash;but a &ldquo;heartbeat&rdquo; signal offers hope for reestablishing contact earlier
+When doctors tell a patient &ldquo;It&rsquo;s all in your head,&rdquo; that&rsquo;s medical gaslighting. Here&rsquo;s how to address an issue that disproportionately impacts the health of women, LGBTQ individuals and the elderly
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A Sun Shield over Earth? Catch an Asteroid, and It Might Work](https://www.scientificamerican.com/article/a-sun-shield-over-earth-catch-an-asteroid-and-it-might-work/)*
-_01-Aug-2023_
+### [Pink Diamonds Erupted to Earth's Surface after Early Supercontinent's Breakup](https://www.scientificamerican.com/article/pink-diamonds-erupted-to-earths-surface-after-early-supercontinents-breakup/)
+_19-Sep-2023_
 
-A resurfaced idea for solar geoengineering imagines a sunlight-blocking space shield tethered to an asteroid
+Western Australia&rsquo;s Argyle Mine is famous for its rare pink diamonds, and scientists now think they know how these formed: a tectonic collision followed by the breakup of a supercontinent
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Science Corrects Itself, Right? A Scandal at Stanford Says It Doesn't](https://www.scientificamerican.com/article/science-corrects-itself-right-a-scandal-at-stanford-says-it-doesnt/)*
-_01-Aug-2023_
+### [How Climate Change Made Libya's Flooding Even More Devastating](https://www.scientificamerican.com/article/how-climate-change-made-libyas-flooding-even-more-devastating/)
+_19-Sep-2023_
 
-What does it take to correct the scientific record? And who&mdash;and what&mdash;stands in the way? The answer to both questions is: everyone
+Climate change, civil war and international sanctions all contributed to the devastation caused by some of Libya&rsquo;s worst flooding ever, researchers say
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Space Debris Will Block Space Exploration unless We Start Acting Sustainably](https://www.scientificamerican.com/article/space-debris-will-block-space-exploration-unless-we-start-acting-sustainably/)*
-_01-Aug-2023_
+### [The Father of Environmental Justice Reflects on the Movement He Helped to Start](https://www.scientificamerican.com/video/the-father-of-environmental-justice-reflects-on-the-movement-he-started/)
+_19-Sep-2023_
 
-We need satellites and rocket bodies designed with an end-of-life plan to keep space uncluttered and navigable
+Four decades into his activism, Robert Bullard looks back on his legacy and the work ahead.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The Ukraine War Is an Environmental Catastrophe with Global Consequences](https://www.scientificamerican.com/article/the-ukraine-war-is-an-environmental-catastrophe-with-global-consequences/)*
-_01-Aug-2023_
+### [Introducing Scientific American's Redesign, Newsletter and Podcasts](https://www.scientificamerican.com/article/introducing-scientific-americans-redesign-newsletter-and-podcasts/)
+_19-Sep-2023_
 
-When it&rsquo;s time to rebuild, we must prioritize more sustainable and resilient infrastructure in Ukraine
+Geoengineering is happening, AI wants to talk with animals, and why we aren&rsquo;t going to live in space
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Your Genes May Influence What You Like to Eat](https://www.scientificamerican.com/article/your-genes-may-influence-what-you-like-to-eat/)*
-_01-Aug-2023_
+### [Why We'll Never Live in Space](https://www.scientificamerican.com/article/why-well-never-live-in-space/)
+_19-Sep-2023_
 
-New research identifies genome areas linked to dietary patterns and our taste for things such as tea, tobacco and grapes
+Medical, financial and ethical hurdles stand in the way of the dream to settle in space
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Unregulated AI Will Worsen Inequality, Warns Nobel-Winning Economist Joseph Stiglitz](https://www.scientificamerican.com/article/unregulated-ai-will-worsen-inequality-warns-nobel-winning-economist-joseph-stiglitz/)*
-_01-Aug-2023_
+### [AI Could Smuggle Secret Messages in Memes](https://www.scientificamerican.com/article/ai-could-smuggle-secret-messages-in-memes/)
+_19-Sep-2023_
 
-A Nobel laureate in economics explains how artificial intelligence will affect inequality&mdash;and how solutions such as a shorter work week might mitigate its negative effects
+A new technique for sending hidden messages is mathematically proven to escape detection
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[U.S. Looks to Mongolia, Wedged between China and Russia, for Critical Minerals](https://www.scientificamerican.com/article/u-s-looks-to-mongolia-wedged-between-china-and-russia-for-critical-minerals/)*
-_31-Jul-2023_
+### [How Warren Buffett Rigged a Dice Game with Bill Gates](https://www.scientificamerican.com/article/how-warren-buffett-rigged-a-dice-game-with-bill-gates/)
+_19-Sep-2023_
 
-All routes out of the landlocked country touch China or Russia, presenting diplomatic and physical challenges
+Weird math can explain why Warren Buffett had the advantage in a dice game against Bill Gates
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How to Roll a Joint Perfectly, according to Science](https://www.scientificamerican.com/podcast/episode/how-to-roll-a-joint-perfectly-according-to-science/)*
-_31-Jul-2023_
+### [UFO Research Is Only Harmed by Antigovernment Rhetoric](https://www.scientificamerican.com/article/ufo-research-is-only-harmed-by-antigovernment-rhetoric/)
+_19-Sep-2023_
 
-Scientists used a smoking machine&mdash;complete with a 3-D-printed mouthpiece&mdash;to figureout how to get the most cannabinoid per puff.
+Conspiracy theories and, relatedly, antigovernment sentiment could prove toxic to any factual and scientific discussion of unidentified anomalous phenomena
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Does Barbie Affect Body Image? What the Science Shows](https://www.scientificamerican.com/article/does-barbie-affect-body-image-what-the-science-shows/)*
-_31-Jul-2023_
+### [A Beautiful Newfound Fungus Mummifies Its Spider Prey](https://www.scientificamerican.com/article/a-beautiful-newfound-fungus-mummifies-its-spider-prey/)
+_19-Sep-2023_
 
-A clinical health psychologist talks about Barbie&rsquo;s influence on how women and girls view theirbody
+A striking purple species is one piece of the fungal kingdom&rsquo;s uncharted diversity
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[These Salamanders Steal Genes and Can Have up to Five Extra Sets of Chromosomes](https://www.scientificamerican.com/video/these-salamanders-steal-genes-and-can-have-up-to-five-extra-sets-of-chromosomes/)*
-_31-Jul-2023_
+### [Artificial Womb Trials in Humans Could Start Soon](https://www.scientificamerican.com/article/artificial-womb-trials-in-humans-could-start-soon/)
+_18-Sep-2023_
 
-Unisexual salamanders in the genus <em>Ambystoma</em> appear to be the only creatures in theworld that reproduce the way they do. Researchers know how, but the why is still being figured out.
+U.S. regulators will consider clinical trials of a system that mimics the womb, which could reduce deaths and disability for babies born extremely preterm
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Art May Be in the Body of the Beholder](https://www.scientificamerican.com/article/art-may-be-in-the-body-of-the-beholder/)*
-_31-Jul-2023_
+### [Massive Sun Outburst Smacks NASA Spacecraft](https://www.scientificamerican.com/article/massive-sun-outburst-smacks-nasa-spacecraft/)
+_18-Sep-2023_
 
-A study suggests a complex interplay between bodily feeling, emotion and art
+If it had hit Earth, this coronal mass ejection could have caused continent-scale blackouts, scientists say
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Did Earth's Water Come from Meteorites?](https://www.scientificamerican.com/article/did-earths-water-come-from-meteorites/)*
-_31-Jul-2023_
+### [Working Remotely Can More Than Halve an Office Employee's Carbon Footprint](https://www.scientificamerican.com/article/working-remotely-can-more-than-halve-an-office-employees-carbon-footprint/)
+_18-Sep-2023_
 
-At least some of our planet&rsquo;s water was carried here by hydrogen-rich space rocks, but it&rsquo;s not yet clear how much
+By not going into the office, an at-home workercan cut greenhouse emissions in excess of 50 percent if they take energy-conservation steps
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-## *[Science news](https://www.sciencenews.org/)*
-### *[Climate change puts children’s health at risk now and in the future](https://www.sciencenews.org/article/climate-change-children-health-risk)*
-_03-Aug-2023_
+## [Science news](https://www.sciencenews.org/)
+### [For the first time, researchers decoded the RNA of an extinct animal](https://www.sciencenews.org/article/first-time-decode-rna-extinct-animal-tasmanian)
+_19-Sep-2023_
 
-Heat waves, wildfires and other climate-related effects on the environment are particularly hard on children’s physical and mental health.
+The Tasmanian tiger, or thylacine, was hunted nearly to extinction. Now RNA extracted from a museum specimen reveals how its cells functioned.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The thymus withers away after puberty. But it may be important for adults](https://www.sciencenews.org/article/thymus-puberty-important-adults-cancer)*
-_02-Aug-2023_
+### [To form pink diamonds, build and destroy a supercontinent](https://www.sciencenews.org/article/pink-diamonds-build-destroy-supercontinent)
+_19-Sep-2023_
 
-The thymus is considered somewhat unnecessary in adults. But a new study finds that its removal is associated with heightened risks of death and cancer.
+The Argyle deposit in Australia formed about 1.3 billion years ago, a study shows, along a rift zone that sundered the supercontinent Nuna.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A child’s ornate necklace highlights ancient farmers’ social complexity](https://www.sciencenews.org/article/child-necklace-ancient-farmer-social)*
-_02-Aug-2023_
+### [Clara Sousa-Silva seeks molecular signatures of life in alien atmospheres](https://www.sciencenews.org/article/clara-sousa-silva-exoplanets-biosignatures)
+_19-Sep-2023_
 
-The intricate necklace, reconstructed by researchers, was found on the remains of a child buried about 9,000 years ago in a Middle Eastern village.
+Quantum astrochemist Clara Sousa-Silva studies how molecules in space interact with light, offering clues to what distant objects are made of.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A colossal ancient whale could be the heaviest animal ever known](https://www.sciencenews.org/article/colossal-ancient-whale-heaviest-animal)*
-_02-Aug-2023_
+### [A catalog of all human cells reveals a mathematical pattern](https://www.sciencenews.org/article/catalog-human-cells-math-pattern)
+_18-Sep-2023_
 
-<em>Perucetus colossus</em> may have tipped the scales at up to 340 metric tons, but some scientists are skeptical it could have sustained that mass.
+Smaller cells occur in larger numbers in the human body, and cells of different size classes contribute equally to our overall mass.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[July 2023 nailed an unfortunate world record: hottest month ever recorded](https://www.sciencenews.org/article/july-2023-just-unfortunate-world-record-hot)*
-_02-Aug-2023_
+### [A laser gyroscope measured tiny variations in the lengths of days on Earth](https://www.sciencenews.org/article/laser-gyroscope-length-day-earth-physics)
+_18-Sep-2023_
 
-Roughly 6.5 billion people, or 4 out of 5 humans, felt the touch of climate change via hotter temperatures during July.
+An underground gyroscope known as ‘G’ uses laser beams traveling in opposite directions to precisely measure Earth’s rotation.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The newfound Los Angeles thread millipede is ready for its close-up](https://www.sciencenews.org/article/new-los-angeles-thread-millipede)*
-_01-Aug-2023_
+### [Some cannibal pirate spiders trick their cousins into ‘walking the plank’](https://www.sciencenews.org/article/cannibal-pirate-spiders-web-arachnid)
+_18-Sep-2023_
 
-Found in Southern California, <em>Illacme socal</em> is the third of its genus found in North America, with the rest of its relatives scattered around the world.
+A pirate spider in Costa Rica uses a never-before-seen hunting strategy that exploits the way other spiders build webs.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[50 years ago, scientists thought they had found Earth’s oldest rocks](https://www.sciencenews.org/article/50-years-ago-earth-oldest-rocks)*
-_31-Jul-2023_
+### [Scientists have two ways to spot gravitational waves. Here are some other ideas](https://www.sciencenews.org/article/gravitational-waves-detection-lasers-atoms)
+_15-Sep-2023_
 
-Even older rocks and minerals continue fueling debates over Earth’s crust, plate tectonics and even when life arose.
+From lasers in space to falling atoms on Earth, researchers are cooking up ways to sense gravitational waves that current methods can’t detect.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[‘Blight’ warns that a future pandemic could start with a fungus](https://www.sciencenews.org/article/blight-future-pandemic-fungus-book)*
-_30-Jul-2023_
+### [‘The Deepest Map’ explores the thrills — and dangers — of charting the ocean](https://www.sciencenews.org/article/deepest-map-chart-ocean-earth)
+_15-Sep-2023_
 
-‘The Last of Us’ is fiction, but the health dangers posed by fungi are real, a new book explains.
+A new book follows the race to map the seafloor, documenting how it’s done, why and what a clear view of the deep sea could mean for Earth’s future.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Playful behavior in rats is controlled by a specific area of their brains](https://www.sciencenews.org/article/playful-behavior-rats-area-brain)*
-_28-Jul-2023_
+### [Birds with more complex vocal skills are better problem-solvers](https://www.sciencenews.org/article/birds-complex-vocal-skills-problem-solvers)
+_14-Sep-2023_
 
-Cells in a brain region called the periaqueductal gray are activated by chasing and tickling, a study finds. Blocking their activity reduces play in rats.
+Evidence for a relationship between bird vocal learning and cognitive prowess has been mixed. Now, a massive new study confirms they are linked. (
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Cow poop emits climate-warming methane. Adding red algae may help](https://www.sciencenews.org/article/cow-poop-climate-warming-methane-red-algae)*
-_28-Jul-2023_
+### [Scientists finally detected oxygen-28. Its instability surprised them](https://www.sciencenews.org/article/oxygen-28-instability-surprise-physics)
+_14-Sep-2023_
 
-Adding a type of methane-inhibiting red algae directly to cow feces cut down methane emission from the poop by about 44 percent, researchers report.
+The elusive isotope was predicted to be very stable, thanks to “magic” numbers of neutrons and protons. It fell apart almost immediately.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How geometry solves architectural problems for bees and wasps](https://www.sciencenews.org/article/geometry-architectural-problem-bee-wasp)*
-_27-Jul-2023_
+### [Doctors found a live python parasite in a woman’s brain](https://www.sciencenews.org/article/doctors-live-python-parasite-brain)
+_14-Sep-2023_
 
-Adding five - and seven - sided cells in pairs during nest building helps the colonyfit together differently sized hexa
-gonal cells
-, a new study shows.
+The infection is the first known case of the worm <em>Ophidascaris robertsi</em> in a person. It’s not the only type of worm that can infect human brains.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The oldest known horseback riding saddle was found in a grave in China](https://www.sciencenews.org/article/oldest-saddle-horseback-riding-china-grave)*
-_27-Jul-2023_
+### [What’s driving an increasing number of hurricanes to rapidly intensify?](https://www.sciencenews.org/article/increasing-number-hurricane-rapidly-intensify)
+_13-Sep-2023_
 
-The well-used saddle, dated to more than 2,400 years ago, displays skilled leather- and needlework. Its placement suggests its owner was on a final ride.
+Hurricane Lee is just the latest storm to explode in power in only hours. The phenomenon is linked to a warming world.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Many sports supplements have no trace of their key ingredients](https://www.sciencenews.org/article/sport-supplements-ingredients-dietary)*
-_26-Jul-2023_
+### [A little snake’s big gulp may put all other snakes to shame](https://www.sciencenews.org/article/snakes-big-gulp-gans-egg-eater)
+_13-Sep-2023_
 
-A chemical analysis of 57 supplements found that 40 percent had undetectable amounts of key ingredients. Only 11 percent had accurate amounts.
+The humble Gans’ egg-eater can wrap its mouth around bigger prey than any other snake of its size.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The most intense sunlight on Earth can be found in the Atacama Desert](https://www.sciencenews.org/article/most-intense-sunlight-earth-atacama-desert)*
-_26-Jul-2023_
+### [Wild male palm cockatoos rock out with custom drumsticks](https://www.sciencenews.org/article/wild-male-palm-cockatoos-drumsticks)
+_12-Sep-2023_
 
-On the Chilean Altiplano plateau, every square meter of the ground receives, on average, more solar power than Mount Everest and occasionally almost as much as Venus.
+Along with flashy dances and distinctive drumbeats, these birds craft their own signature drumsticks to win over mates.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Some African birds follow nomadic ants to their next meal](https://www.sciencenews.org/article/birds-driver-ants-africa-ecology)*
-_25-Jul-2023_
+### [Filipino math teacher Emma Rotor helped develop crucial WWII weapons tech](https://www.sciencenews.org/article/emma-rotor-filipino-math-teacher-wwii-weapons-fuse)
+_12-Sep-2023_
 
-Specialized interactions between birds and driver ants in Africa could help explain why the birds are especially sensitive to forest disturbances.
+Devoted wife of a famed Filipino writer, Emma Unson Rotor worked on the proximity fuze at a U.S. agency in the 1940s.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Here’s how much climate change increases the odds of brutally hot summers](https://www.sciencenews.org/article/climate-change-heat-wave-summer)*
-_25-Jul-2023_
+### [The world’s highest-dwelling mammal isn’t the only rodent at extreme elevation](https://www.sciencenews.org/article/highest-elevation-mammal-mouse-rodent)
+_11-Sep-2023_
 
-Climate change made 2023’s record-breaking heat waves in the United States, Mexico, China and southern Europe much more likely, new simulations show.
+After discovering a mouse living nearly 7,000 meters above sea level, scientists scoured other extreme environments to make sure the find wasn’t a fluke.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The James Webb telescope may have spotted stars powered by dark matter](https://www.sciencenews.org/article/james-webb-telescope-stars-dark-matter)*
-_24-Jul-2023_
+### [Flashes in Venus’ atmosphere might be meteors, not lightning](https://www.sciencenews.org/article/venus-atmosphere-meteor-lightning-space)
+_11-Sep-2023_
 
-Three objects in the distant universe bear signs of hypothesized “dark stars,” researchers claim, though others say more definitive data are needed.
+With upcoming missions planned for Venus, scientists are eager to figure out the origin of the mysterious flashes.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Human embryo replicas have gotten more complex. Here’s what you need to know](https://www.sciencenews.org/article/human-embryo-replica-complex-advanced)*
-_24-Jul-2023_
+### [‘Crossings’ explores the science of road ecology](https://www.sciencenews.org/article/crossings-book-science-road-ecology-goldfarb)
+_08-Sep-2023_
 
-Lab-engineered human embryo models created from stem cells provide a look at development beyond the first week. But they raise ethical questions.
+Ben Goldfarb talks about his new book, which looks at the science that’s helping to prevent animals from becoming roadkill.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How an ancient solar flare illuminated the start of the Viking Age](https://www.sciencenews.org/article/viking-age-ancient-solar-flare-trade-archaeology)*
-_23-Jul-2023_
+### [Here’s why mathematicians are so interested in cake cutting](https://www.sciencenews.org/article/cake-cutting-math-problem-fairness-envy)
+_08-Sep-2023_
 
-Improved radiocarbon dating aided by a solar flare in the year 775 sheds light on the early days of Vikings and global trading in medieval times.
+The question of how to fairly divide resources attracts game theorists, computer scientists, economists, legal experts and more.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[NASA’s DART mission lofted a swarm of boulders into space](https://www.sciencenews.org/article/nasa-dart-mission-boulder-asteroid-space)*
-_21-Jul-2023_
+### [Scientists grow humanized kidneys in pig embryos](https://www.sciencenews.org/article/grow-human-kidney-pig-embryo)
+_07-Sep-2023_
 
-Hubble telescope images of the asteroid Dimorphos reveal a halo of 37 dim, newfound objects — most likely boulders shaken loose from the surface.
+The work represents an important advance in the methods needed to grow humanized kidneys, hearts, and pancreases in animals.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
 # Tech
-## *[Hacker news](https://news.ycombinator.com/)*
-### *[Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)*
-_4-Aug-2023_
+## [Hacker news](https://news.ycombinator.com/)
+### [Terry Tao's generals (2012)](https://web.math.princeton.edu/generals/tao_terence)
+_21-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36994214">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37591652">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Zig 0.11](https://ziglang.org/download/0.11.0/release-notes.html)*
-_4-Aug-2023_
+### [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
+_21-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36995735">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37593459">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[If you have first-hand knowledge of the FDA’s torpor, get in touch](https://jakeseliger.com/2023/08/02/if-youre-involved-in-drug-development-and-have-first-hand-knowledge-of-the-fdas-torpor-get-in-touch/)*
-_2-Aug-2023_
+### [Introduction to Linux interfaces for virtual networking (2018)](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36973736">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37582632">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Nuked-MD-FPGA – Emulating Sega Mega Drive chipset using decapped chips photos](https://github.com/nukeykt/Nuked-MD-FPGA)*
-_3-Aug-2023_
+### [UK Parliament undermined the privacy, security, freedom of all internet users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
+_21-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36992335">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37592699">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[PicoLisp Tutorials](https://picolisp-explored.com)*
-_4-Aug-2023_
+### [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36995944">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37584399">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Color-Diffusion: using diffusion models to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion)*
-_3-Aug-2023_
+### [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
+_21-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36991293">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37592934">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The worlds largest Online Toaster Exhibition](http://toastermuseum.com)*
-_3-Aug-2023_
+### [Toyota Research claims breakthrough in teaching robots new behaviors](https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36992802">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37586264">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[What does the “pipe” value mean in the output of “ping”? (2009)](http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/)*
-_3-Aug-2023_
+### [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36983841">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37588526">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Unicorn – A full-stack web framework for Django](https://www.django-unicorn.com/)*
-_3-Aug-2023_
+### [XML is better than YAML – Hear me out](https://changelog.com/posts/xml-better-than-yaml)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36982245">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37586580">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[AWS to begin charging for public IPv4 addresses](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)*
-_3-Aug-2023_
+### [Grouping digits in SQL](http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36989798">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37580981">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Magic123: One Image to High-Quality 3D Object Generation](https://guochengqian.github.io/project/magic123/)*
-_3-Aug-2023_
+### [Cache headers could probably be more aggressive](https://www.macarthur.me/posts/more-aggressive-cache-headers)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36991434">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37581646">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How the World’s Most Famous Scream Was Recovered](https://www.youtube.com/watch?v=6x0xmMcaWRI)*
-_3-Aug-2023_
+### [One change could take India to the football World Cup](https://www.theguardian.com/football/2023/sep/12/india-can-aid-attempt-to-reach-world-cup-picking-overseas-born-players)
+_19-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36983599">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37577284">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Why early modern books are so beautiful](https://resobscura.substack.com/p/why-early-modern-books-are-so-beautiful)*
-_3-Aug-2023_
+### [NASA’s New Shortcut to Fusion Power (2022)](https://spectrum.ieee.org/lattice-confinement-fusion)
+_21-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36988039">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37592801">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Hackers manage to unlock Tesla software-locked features](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/)*
-_3-Aug-2023_
+### [Fine-grained caching strategies of dynamic queries](https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36988262">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37587233">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Pegasus Mail](https://www.pmail.com/)*
-_3-Aug-2023_
+### [Archaeologists discover oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36988047">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37587791">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A collection of quant riddles with answers](https://puzzles.nigelcoldwell.co.uk/)*
-_2-Aug-2023_
+### [Show HN: Booklet – Async forums as an alternative to chat](https://www.booklet.group/)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36968925">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37585869">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Launch HN: Sweep (YC S23) – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)*
-_3-Aug-2023_
+### [How to evaluate a product roadmap, for engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
+_19-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36987454">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37576079">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Chrultrabook – Modify a Chromebook to Run Windows/Linux/macOS](https://chrultrabook.github.io/docs/)*
-_3-Aug-2023_
+### [Strada – Create fully native controls, driven by your web app](https://strada.hotwired.dev/)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36989569">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37587506">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Everyone Is Beautiful and No One Is Horny](https://bloodknife.com/everyone-beautiful-no-one-horny/)*
-_3-Aug-2023_
+### [Tesla buys German railway line, now hosting passenger trains](https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/)
+_21-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36990215">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37593950">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Storing dead people at -196°C [video]](https://www.youtube.com/watch?v=85BykUan6pw)*
-_4-Aug-2023_
+### [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36994023">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37590881">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Peruvian fossil challenges blue whales for size](https://www.bbc.co.uk/news/science-environment-66384632)*
-_3-Aug-2023_
+### [Health risks of travel in early-modern Britain](https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36985232">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37580498">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Some remarks on possible superconductivity of composition Pb9CuP6O25](https://arxiv.org/abs/2308.01723)*
-_4-Aug-2023_
+### [Total cholesterol and mortality by sex and age:study of 12.8M adults](https://www.nature.com/articles/s41598-018-38461-y)
+_21-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36994122">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37593497">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Cognitive AI for ADHD](https://www.comigo.ai)*
-_3-Aug-2023_
+### [Show HN: Mana Pool – Market for Magic Cards](https://manapool.com/)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36990615">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37586681">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)*
-_3-Aug-2023_
+### [Clang-expand: Expand function invocations into current scope](https://github.com/goldsborough/clang-expand)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36983704">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37586518">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[On the link between Lyme disease and bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)*
-_3-Aug-2023_
+### [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36982067">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37591050">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Commercial quantum computer identifies molecular candidate for better solar cell](https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more)*
-_3-Aug-2023_
+### [Organic Maps: An open-source maps app that doesn't suck](https://hardfault.life/p/organic-maps-review)
+_21-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36990162">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37592712">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Linux surpasses the Mac among Steam gamers](https://arstechnica.com/gadgets/2023/08/linux-surpasses-the-mac-among-steam-gamers/)*
-_4-Aug-2023_
+### [Creating a fake Indian cricket league](https://www.si.com/betting/2023/09/15/fake-indian-cricket-league-daily-cover)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36993968">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37580599">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Pick-and-place machine](https://en.wikipedia.org/wiki/Pick-and-place_machine)*
-_3-Aug-2023_
+### [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36984260">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37588286">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Debugging the C++ standard library on macOS (2022)](https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html)*
-_3-Aug-2023_
+### [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36982459">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37584049">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)*
-_3-Aug-2023_
+### [New study disproves Leonardo da Vinci's 'rule of trees'](https://phys.org/news/2023-09-leonardo-da-vinci-trees.html)
+_20-Sep-2023_
 
-<a href="https://news.ycombinator.com/item?id=36989845">Comments</a>
+<a href="https://news.ycombinator.com/item?id=37579337">Comments</a>
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-## *[Wired](https://www.wired.com/)*
-### *[Urban Company Lured Women Into the Gig Economy—Then Pushed Them Out](https://www.wired.com/story/urban-company-women-gig-economy-pushed-them-out/)*
-_04-Aug-2023_
+## [Wired](https://www.wired.com/)
+### [4 Best Early Prime Day TV Deals (October 2023)](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023/)
+_20-Sep-2023_
 
-Home services platform Urban Company helped Indian women get into the gig economy. Now they say it’s setting impossible targets and then abandoning them.
+Amazon is throwing another Prime Day in October but you can score TV deals now.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[37 Best Back-to-School Deals (2023): Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023/)*
-_03-Aug-2023_
+### [The Gruesome Story of How Neuralink’s Monkeys Actually Died](https://www.wired.com/story/elon-musk-pcrm-neuralink-monkey-deaths/)
+_20-Sep-2023_
 
-Everyone can benefit from these back-to-school deals ahead of the new semester.
+Elon Musk says no primates died as a result of Neuralink’s implants. A WIRED investigation now reveals the grisly specifics of their deaths as US authorities have been asked to investigate Musk’s claims.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Free Airline Miles, Hotel Points, and User Data Put at Risk by Flaws in Points Platform](https://www.wired.com/story/points-travel-rewards-platform-flaws/)*
-_03-Aug-2023_
+### [What an AI-Generated Medieval Village Means for the Future of Art](https://www.wired.com/story/artificial-intelligence-medieval-village/)
+_20-Sep-2023_
 
-Flaws in the Points.com platform, which is used to manage dozens of major travel rewards programs, exposed user data—and could have let an attacker snag some extra perks.
+Spiral Town, which has jumped from Reddit to X to everywhere, is helping to usher in a hopeful but increasingly dangerous era of artificiality.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The 26 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)*
-_03-Aug-2023_
+### [Amazon Hardware Event 2023: Alexa, Echo Hub, Echo Frames, Eero, Fire TV](https://www.wired.com/story/amazon-hardware-event-2023-everything-announced/)
+_20-Sep-2023_
 
-What We Do in the Shadows and the Futurama reboot are just two of the shows you won’t want to miss on this streaming service.
+The company debuted an array of gadgets and services at its annual product release event, including new Echo devices, new smart home tools, and a more grown-up Alexa.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The Dream of Geothermal Energy Is Alive in Utah](https://www.wired.com/story/fast-forward-enhanced-geothermal-systems/)*
-_03-Aug-2023_
+### [The UK Is Burning Climate Pledges to Fuel a Culture War](https://www.wired.com/story/uk-net-zero-climate-pledges-weakened-rishi-sunak/)
+_20-Sep-2023_
 
-A new drilling technology promises to unlock a wealth of energy—without a fossil fuel in sight. Will Knight sits down with WIRED senior writer Gregory Barber to find out more.
+Faced with an election he is likely to lose, Prime Minister Rishi Sunak is taking the unusual step of scrapping key climate policies.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[15 Best Laptop Totes and Purses (2023): Sustainable, Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)*
-_03-Aug-2023_
+### [OpenAI’s Dall-E 3 Is an Art Generator Powered by ChatGPT](https://www.wired.com/story/dall-e-3-open-ai-chat-gpt/)
+_20-Sep-2023_
 
-We filled these bags to the brim with our tech, wallets, and water bottles. They held up to the test.
+OpenAI has launched Dall-E 3, which uses ChatGPT to take the pain out of prompting. Now you can modify artwork by simply talking to the chatbot.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[What Meta’s New Studies Do—and Don’t—Reveal About Social Media and Polarization](https://www.wired.com/story/meta-social-media-polarization/)*
-_03-Aug-2023_
+### [Amazon Eero Max 7 Wi-Fi 7 Mesh Router: Specs, Features, Price](https://www.wired.com/story/amazon-eero-max-7/)
+_20-Sep-2023_
 
-The papers are neither proof that Facebook divides us nor a vindication of social media. They’re a starting point.
+This mesh system adds Wi-Fi 7 support and can theoretically download a 4K movie in 10 seconds, but it'll be a few years before you can truly take advantage of those speeds.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[13 Best Office Chairs (2023): Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)*
-_03-Aug-2023_
+### [Amazon Upgrades Alexa for the ChatGPT Era](https://www.wired.com/story/amazon-upgrades-alexa-for-the-chatgpt-era/)
+_20-Sep-2023_
 
-Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.
+A sweeping upgrade to Amazon’s Alexa taps AI technology like that behind ChatGPT and also allows the virtual assistant to attempt to read body language.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A New Wave of Peer-to-Peer Apps Heralds a Farm-to-Table Internet](https://www.wired.com/story/gadget-lab-podcast-607/)*
-_03-Aug-2023_
+### [Apple Watch Series 9 Review: New Chip and New WatchOS 10 Health Updates](https://www.wired.com/review/apple-watch-series-9/)
+_20-Sep-2023_
 
-This week, we discuss the local-first computing movement and its push to reduce our reliance on the corporate-owned, cloud-based software tools we use every day.
+Apple's latest wearable has a new chip, new interactions, and some serious OS updates to help you log your mental health.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[OnePlus Keyboard 81 Pro Review: Heavy, Customizable, and Powerful](https://www.wired.com/review/oneplus-keyboard-81-pro/)*
-_03-Aug-2023_
+### [Apple Watch Ultra 2 Review: You’ll Still Need to Keep Your iPhone Handy](https://www.wired.com/review/apple-watch-ultra-2/)
+_20-Sep-2023_
 
-The first collaboration between OnePlus and Keychron is a heavy, customizable keyboard with a soft typing experience—if you're into that kind of thing.
+The new version of Apple's rugged sports watch has many helpful enhancements, but it's a bit quirky to use—and still too dependent on your iPhone for some key features.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Covid's Summer Wave Is Rising—Again](https://www.wired.com/story/covids-summer-wave-is-rising-again/)*
-_03-Aug-2023_
+### [Why Do Video Games Want Me to Be a War Criminal?](https://www.wired.com/story/why-do-video-games-want-me-to-be-a-war-criminal/)
+_20-Sep-2023_
 
-Covid-19 cases are slowly increasing across the US for the fourth summer in a row.
+I’ve recently come to terms with the fact that I enjoy killing people and eating them (in Stellaris).
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/)*
-_03-Aug-2023_
+### [A Pair of Sun Probes Just Got Closer to Solving a Solar Enigma](https://www.wired.com/story/a-pair-of-sun-probes-just-got-closer-to-solving-a-solar-enigma/)
+_20-Sep-2023_
 
-Tired of relying on Big Tech to enable collaboration, peer-to-peer enthusiasts are creating a new model that cuts out the middleman. (That’s you, Google.)
+The solar corona is hotter than expected, and scientists are using European Space Agency and NASA spacecraft to figure out why.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[India's Internet Shutdown Means Manipur Is Burning in the Dark](https://www.wired.com/story/internet-shutdown-manipur-burning-in-the-dark/)*
-_03-Aug-2023_
+### [14 Best Apple 3-in-1 Wireless Chargers (2023): For iPhone, AirPods, Apple Watch](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
+_20-Sep-2023_
 
-Since May 4, the Indian government has shut off the internet in Manipur, giving cover to murders, rapes, and arson.
+Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Norway Took On Meta’s Surveillance Ads and Won](https://www.wired.com/story/meta-behavioral-ads-eu-norway/)*
-_03-Aug-2023_
+### [The Mysterious 'Warming Hole' in the Middle of the US](https://www.wired.com/story/the-mysterious-warming-hole-in-the-middle-of-the-us/)
+_20-Sep-2023_
 
-Meta has long fought Europe's demands that it get people's consent before using their data for targeted ads. Then a Norwegian regulator threatened fines of $100,000 per day.
+The world is rapidly heating. So why has the central US been weirdly cool compared to the rest of the country?
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Extreme Heat Threatens the Health of Unborn Babies](https://www.wired.com/story/extreme-heat-threatens-the-health-of-unborn-babies/)*
-_02-Aug-2023_
+### [How to Get Free Ebooks on ‘Stuff Your E-Reader’ Day (2023)](https://www.wired.com/story/stuff-your-e-reader-day-september-2023/)
+_20-Sep-2023_
 
-Exposure to excessive heat during pregnancy has been linked to everything from preterm labor to low birth weight, and those risks are rising as the world warms.
+No matter what device you read ebooks on, there are thousands of free romance titles available this week.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *['Another Crab’s Treasure' Does What 'Elden Ring' Won’t](https://www.wired.com/story/another-crabs-treasure-accessibility-aggro-crab-elden-ring/)*
-_02-Aug-2023_
+### [The Kids Don’t Want to Go to College Anymore, and Why Would They?](https://www.wired.com/story/have-a-nice-future-podcast-22/)
+_20-Sep-2023_
 
-Developer Aggro Crab is taking other developers (like From Software) to accessibility school, and it’s making games better for everyone.
+Journalist and author Paul Tough tells us about what’s driving rising tuition fees, lower enrollment, and the myth of college as an equalizer in the US.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[LK-99 Is Fueling a DIY Superconductivity Race](https://www.wired.com/story/inside-the-diy-race-to-replicate-lk-99/)*
-_02-Aug-2023_
+### [How a ‘Digital Peeping Tom’ Unmasked Porn Actors](https://www.wired.com/story/kashmir-hill-privacy-surveillance-facial-recognition/)
+_20-Sep-2023_
 
-Experts doubt claims that LK-99 is a room-temperature superconductor set to open up a future of levitating trains and quantum tech. Andrew McCalip wants to see for himself.
+“It’s like the secret identity of Batman or Superman. You’re not supposed to know who this person is, they didn’t want you to know, and somehow you found out.”
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[One of Gaming’s Biggest YouTubers Wants to Replace Himself With AI](https://www.wired.com/story/kwebbelkop-youtube-ai-clone/)*
-_02-Aug-2023_
+### [Jeep Avenger EV 2023: Specs, Prices, Performance, Range](https://www.wired.com/review/review-jeep-avenger-ev/)
+_20-Sep-2023_
 
-Jordi Van Den Bussche, aka Kwebbelkop, opens up about his new video that uses an AI model to reproduce his physical presence. But will fans still watch an AI clone?
+Jeep’s first electric car is fun to drive, practical, good-looking and already award-winning. So why isn’t it coming to the US?
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[It’s Time to Rethink Digital Ownership](https://www.wired.com/story/have-a-nice-future-podcast-16/)*
-_02-Aug-2023_
+### [The Biggest Revelations From the Microsoft Xbox Leaks](https://www.wired.com/story/ftc-microsoft-leaks-xbox/)
+_19-Sep-2023_
 
-In his quest to watch every Nicolas Cage movie in chronological order, law professor and author Aaron Perzanowski confirmed that he owns nothing—and that you probably don’t, either.
+Microsoft has traditionally been very tight-lipped about its Xbox and gaming plans. A new leak just opened the floodgates.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[This Heat Is Shaking the Very Foundation of the Ocean Food Web](https://www.wired.com/story/this-heat-is-shaking-the-very-foundation-of-the-ocean-food-web/)*
-_02-Aug-2023_
+### [Everything We Know About Neuralink's Brain Implant Trial](https://www.wired.com/story/everything-we-know-about-neuralinks-brain-implant-trial/)
+_19-Sep-2023_
 
-Yes, save the corals. But warming seas also imperil innumerable plankton, which power the oceanic ecosystem.
+Elon Musk’s neurotech startup announced that it is now seeking patients with paralysis to test a brain-computer interface.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Google’s Search Box Changed the Meaning of Information](https://www.wired.com/story/google-answer-box-information-search/)*
-_02-Aug-2023_
+### [The 40 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
+_19-Sep-2023_
 
-Web search promised to resolve questions. Instead, it brought on a soft apocalypse of truth.
+From Ahsoka to The Wonder Years, here’s everything you should be watching on Disney+.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[WhatsApp Made a Movie About Afghan Women's Soccer](https://www.wired.com/story/whatsapp-encryption-afghanistan-women-soccer-movie/)*
-_02-Aug-2023_
+### [High Blood Pressure Is the World’s Biggest Killer. Now There’s a Plan to Tackle It](https://www.wired.com/story/high-blood-pressure-is-the-worlds-biggest-killer-now-theres-a-plan-to-tackle-it/)
+_19-Sep-2023_
 
-As the UK pushes for a law that threatens end-to-end encryption, WhatsApp has given itself a starring role in a doc about a girls’ soccer team fleeing the Taliban.
+Once considered a disease of the affluent, hypertension now affects a third of all adults. The WHO wants nations to get organized to combat it.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The 20 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)*
-_01-Aug-2023_
+### [DeepMind’s New AI Can Predict Genetic Diseases](https://www.wired.com/story/deepmind-ai-alphamissense-genetics-rare-diseases/)
+_19-Sep-2023_
 
-From Alien to Die Hard, these are the movies you need to watch on the streaming service right now.
+AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The Best Period Underwear, Cups, Pads, and Products (2023)](https://www.wired.com/story/best-menstrual-products/)*
-_01-Aug-2023_
+### [6 Best Water Leak Detectors (2023): Smart Water, Temperature, and Humidity Sensors](https://www.wired.com/gallery/best-water-leak-detectors/)
+_19-Sep-2023_
 
-Aunt Flo doesn’t have to suck (that much). These menstrual cups, absorbent underwear, and reusable pads are ecofriendly and comfortable.
+Don’t let busted pipes or an overflowing washing machine dampen your day. These WIRED-tested smart water sensors can help you catch problems quicker.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[8 Best Language Learning Apps (2023): Online Courses and a Pocket Translator](https://www.wired.com/gallery/best-language-learning-apps/)*
-_01-Aug-2023_
+### [Chinese Spies Infected Dozens of Networks With Thumb Drive Malware](https://www.wired.com/story/china-usb-sogu-malware/)
+_19-Sep-2023_
 
-Learning a new tongue? It’s a worthy pursuit, and these WIRED-tested services can help.
+Security researchers found USB-based Sogu espionage malware spreading within African operations of European and US firms.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The First Pill for Postpartum Depression Is Almost Here](https://www.wired.com/story/the-first-pill-for-postpartum-depression-is-almost-here/)*
-_01-Aug-2023_
+### [‘What the Fuck Was This?’: Behind the 1984 ‘Dune’ Promotional Tour](https://www.wired.com/story/masterpiece-in-disarray-david-lynchs-dune-an-oral-history-excerpt/)
+_19-Sep-2023_
 
-Current treatments for depression after giving birth are either slow to work or hard to get. The FDA is considering a new tablet that relieves symptoms within days.
+Four gala premieres, a very excited cast, and David Lynch at the White House with the Reagans—Dune had a lot going for it. And a lot working against it.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[4 Tools That Make It Easy to Write and Work Remotely](https://www.wired.com/story/4-tools-tips-easy-write-work-remotely/)*
-_01-Aug-2023_
+### [Apple iPhone 15 Pro and iPhone 15 Pro Max Review: Befit the Name](https://www.wired.com/review/apple-iphone-15-pro-and-iphone-15-pro-max/)
+_19-Sep-2023_
 
-Whether you’re typing emails, marketing copy, or the next great novel, these tech tools and tips can help you spread the word.
+If you're choosing between Apple's two premier handsets, we say go big or go home.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Chronic Illness TikTok Through the Eyes of a Doctor](https://www.wired.com/story/chronic-illness-tiktok-medicine/)*
-_01-Aug-2023_
+### [Apple iPhone 15 and iPhone 15 Plus Review: It’s OK Not to Love Your Phone](https://www.wired.com/review/apple-iphone-15/)
+_19-Sep-2023_
 
-People are using TikTok to change the narrative around invisible illness. So what can a medical professional learn by lurking?
+With a new USB-C port and some helpful enhancements over last year's model, we like the iPhone 15 just fine.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Fellow Opus Conical Burr Grinder Review: Quiet, Versatile, Affordable](https://www.wired.com/review/fellow-opus-conical-burr-grinder/)*
-_01-Aug-2023_
+### [9 Best Electric Toothbrushes (2023): Cheap, Smart, Kids, and Alternatives](https://www.wired.com/gallery/best-electric-toothbrushes/)
+_19-Sep-2023_
 
-This silent machine outperforms more expensive rivals, despite its plasticky body.
+These rechargeable and battery-powered models put better oral hygiene within easy reach.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A New Attack Impacts ChatGPT—and No One Knows How to Stop It](https://www.wired.com/story/ai-adversarial-attacks/)*
-_01-Aug-2023_
+### [How to Make Reddit Suck Less on Your Phone](https://www.wired.com/story/how-to-make-reddit-suck-less-on-your-phone/)
+_19-Sep-2023_
 
-Researchers found a simple way to make ChatGPT, Bard, and other chatbots misbehave, proving that AI is hard to tame.
+Remember when browsing Reddit on the go was easy? Those options are gone, but here's what you can do instead.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[This Prosthetic Limb Actually Attaches to the Wearer’s Nerves](https://www.wired.com/story/this-prosthetic-limb-actually-attaches-to-the-wearers-nerves/)*
-_01-Aug-2023_
+### [Get Ready for ChatGPT-Style AI Chatbots That Do Your Boring Chores](https://www.wired.com/story/ai-chatbots-chatgpt-boring-chores/)
+_19-Sep-2023_
 
-A prosthetic arm that connects directly to the nervous system gives the user fine control over the motions of individual fingers—just by thinking and trying to move.
+Move over, Siri. Startups are using the technology behind ChatGPT to build more capable AI agents that can control your computer and access the web to get things done—with sometimes chaotic results.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How AI May Be Used to Create Custom Disinformation Ahead of 2024](https://www.wired.com/story/generative-ai-custom-disinformation/)*
-_01-Aug-2023_
+### [The Fall of Babylon Is a Warning for AI Unicorns](https://www.wired.com/story/babylon-health-warning-ai-unicorns/)
+_19-Sep-2023_
 
-Generative AI won't just flood the internet with more lies—it may also create convincing disinformation that's targeted at groups or even individuals.
+When it went public in 2021, Babylon Health was valued at over $4 billion. Now it has declared bankruptcy. Insiders say it could never live up to its hype.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Uber’s CEO Says He’ll Always Find a Reason to Say His Company Sucks](https://www.wired.com/story/uber-ceo-will-always-say-his-company-sucks/)*
-_01-Aug-2023_
+### [TikTok Shop Has a Snail Slime Problem](https://www.wired.com/story/tiktok-shop-fake-scam-products/)
+_19-Sep-2023_
 
-Dara Khosrowshahi swooped in to tame a beastly work culture and try to make the on-demand giant profitable. Now he’s expanding into trucks and boats, but he still sees Uber as a fixer-upper.
+TikTok Shop, which launched in the US last week, is littered with impossibly cheap—and fake—products. Snail slime is just the beginning.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Specialized Globe Haul ST Review: This Cargo Ebike Is an All-Around Winner](https://www.wired.com/review/specialized-globe-haul-st/)*
-_31-Jul-2023_
+### [Here Come the Glow-in-the-Dark Houseplants](https://www.wired.com/story/here-come-the-glow-in-the-dark-houseplants/)
+_19-Sep-2023_
 
-Specialized’s light utility ebike is more than ready to make up for the loss of VanMoof.
+Startup Light Bio has created a bioluminescent petunia using mushroom genes and plans to start shipping the plants next spring.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Fisker Ocean 2023 EV First Drive: Not Ready Yet](https://www.wired.com/story/first-drive-fiskers-ocean-ev-is-just-not-ready-yet/)*
-_31-Jul-2023_
+### [Crispr Pioneer Jennifer Doudna Has the Guts to Take On the Microbiome](https://www.wired.com/story/crispr-jennifer-doudna-microbiome/)
+_19-Sep-2023_
 
-California Mode is outstanding, and the EV’s design is a clear win—but too many features are missing or “coming soon,” making this SUV a jumble of hits and misses.
+The world-famous biochemist is ready to tackle everything from immune disorders and mental illness to climate change—all by altering microbes in the digestive tract.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[TCL Q6 Review: Best Overall](https://www.wired.com/review/tcl-q6-2023/)*
-_31-Jul-2023_
+### [There’s an Alternative to the Infinite Scroll](https://www.wired.com/story/lexicon-scroll-doomscrolling-mindfulness-linguistics/)
+_19-Sep-2023_
 
-It’s bright, affordable, looks great, and is easy to mount and use. What’s not to like?
+It’s easy to feel like there’s no escape from doomscrolling. The classical Chinese handscroll suggests otherwise.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[My Tips for a Killer Product Launch](https://www.wired.com/story/my-tips-for-a-killer-product-launch/)*
-_31-Jul-2023_
+### [Universal Music Declares War on Streaming Noise](https://www.wired.com/story/universal-music-deezer-war-on-streaming-noise/)
+_19-Sep-2023_
 
-Be sure to blow up any criticism or misunderstanding of your app, no matter how small, into a flat-out organizational panic.
+The world’s largest record label has struck a deal in France to demonetize “functional music” like AI sludge and noise tracks and give more money to artists.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[HP Envy 16 (2023) Review: Almost Everything You Need in a Laptop](https://www.wired.com/review/hp-envy-16-2023/)*
-_31-Jul-2023_
+### [The Dark Economics of Russell Brand](https://www.wired.com/story/dark-economics-russell-brand/)
+_18-Sep-2023_
 
-This powerhouse of a machine comes very close to delivering everything you need in a laptop.
+Russell Brand has built a massive following on YouTube and Rumble with conspiracy-laden videos. He says the mainstream is out to get him—but is it all just a grift?
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[For the Love of God, Stop Microwaving Plastic](https://www.wired.com/story/for-the-love-of-god-stop-microwaving-plastic/)*
-_31-Jul-2023_
+### [Explore the Ancient Aztec Capital in This Lifelike 3D Rendering](https://www.wired.com/story/explore-tenochtitlan-ancient-aztec-capital-3d-render-thomas-kole/)
+_18-Sep-2023_
 
-A study of baby-food containers shows that microwaving plastic releases millions upon millions of polymer bits.
+We spoke with Thomas Kole, a digital artist who re-created the capital of the Aztec Empire in such detail that it looks like a living metropolis.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Someone Has to Deliver Your Packages in This Scorching Heat](https://www.wired.com/story/someone-has-to-deliver-your-packages-in-this-scorching-heat/)*
-_31-Jul-2023_
+### [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
+_18-Sep-2023_
 
-As white-collar workers surf the web in air-conditioned comfort, delivery drivers are moving ecommerce packages through record temperatures.
+Apple's latest operating systems are here. We break down all the new features and how to install them on your iPhone and iPad.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Apple iOS, Google Android Patch Zero-Days in July Security Updates](https://www.wired.com/story/apple-google-microsoft-zero-day-fix-july-2023/)*
-_31-Jul-2023_
+### [Sonos Move 2 Review: Powerful and Punchy Portable Speaker](https://www.wired.com/review/review-sonos-move-2/)
+_18-Sep-2023_
 
-Plus: Mozilla fixes two high-severity bugs in Firefox, Citrix fixes a flaw that was used to attack a US-based critical infrastructure organization, and Oracle patches over 500 vulnerabilities.
+The outdoor offering from the multiroom system king has had a big revamp for detailed tunes with more power, but it's not an unqualified success.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[TikTok’s Berberine Fad Is About More Than ‘Nature's Ozempic’](https://www.wired.com/story/berberine-social-media-trend/)*
-_31-Jul-2023_
+### [40 Best Couch Co-Op Games (2023): PS4/5, Xbox, PC, Switch](https://www.wired.com/gallery/best-local-couch-co-op-games/)
+_18-Sep-2023_
 
-Berberine went viral as a weight loss wonder pill. Its success on social media shows how broken the supplement industry is.
+Settle in for some bonding time. These are our favorite cooperative titles for two to eight players, all playable on a single TV.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[9 Best Smart Speakers (2023): Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)*
-_30-Jul-2023_
+### [X Challenger Pebble Thinks AI-Generated Posts Can Help Lure Users Away From Elon Musk](https://www.wired.com/story/x-challenger-pebble-thinks-ai-generated-posts-can-lure-users-elon-musk/)
+_18-Sep-2023_
 
-Chatty assistants from Amazon, Apple, and Google are popular. But which one is right for you?
+To encourage conversation, Twitter-like platform Pebble—formerly T2—now suggests AI-generated updates for users to edit or post. It's also opening sign-ups to anyone with an account on X.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The 17 Best Games on PlayStation Plus (August 2023)](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)*
-_30-Jul-2023_
+### [Xiaomi Mix Fold 3 Review: The Slimmest Folding Phone Yet](https://www.wired.com/review/xiaomi-mix-fold-3/)
+_18-Sep-2023_
 
-What are you playing next? From Slay the Spire to Humanity, Sony’s subscription service has so many great options for your PS5 or PS4.
+With a svelte design, gorgeous screens, and plenty of stamina, it’s a shame Xiaomi’s Mix Fold 3 is only available in China.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How a Microbial Evolutionary Accident Changed Earth's Atmosphere](https://www.wired.com/story/how-a-microbial-evolutionary-accident-changed-earths-atmosphere/)*
-_30-Jul-2023_
+### [Ski Resorts Are Giving Up on Snow](https://www.wired.com/story/ski-adaptations-climate-change-paganella-italy/)
+_18-Sep-2023_
 
-An extra membrane that once had digestive functions let marine microbes boost their yield from photosynthesis. Today, they're responsible for locking carbon in the ocean and putting oxygen in the air.
+With natural snow becoming scarcer and artificial powder woefully unsustainable, Europe’s mountain resorts are starting to look at life beyond downhill skiing.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How to Switch Browsers Without Losing Your Bookmarks and Passwords](https://www.wired.com/story/switch-browsers-without-losing-bookmarks-passwords/)*
-_30-Jul-2023_
+### [The Squelchy, Messy Art of Video Game Sound Effects](https://www.wired.com/story/obsessed-joanna-fang-god-of-war-sound-effects/)
+_18-Sep-2023_
 
-Jumping between Chrome and Safari, or Firefox and Edge? Here’s how to keep your precious data with you.
+Foley artist Joanna Fang powers up video games with her eclectic arsenal of sound-simulating weapons.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Should You Buy an Active Chair? I Tested Some—and Talked to the Experts](https://www.wired.com/story/should-you-buy-an-active-chair/)*
-_30-Jul-2023_
+### [Pay Transparency Is Sweeping Across the US](https://www.wired.com/story/pay-transparency-is-sweeping-across-us/)
+_18-Sep-2023_
 
-Active chairs promise to improve your posture and introduce movement in a long day of sitting. Kinesiologists think you might want to take a walk instead.
+New York joined a wave of states that require pay transparency in job ads. New data suggests most US postings now include a salary range, but they are sometimes laughably vague.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[What Isaac Asimov’s Robbie Teaches About AI and How Minds 'Work'](https://www.wired.com/story/artificial-intelligence-minds-science-fiction/)*
-_30-Jul-2023_
+### [This Treaty Could Stop Plastic Pollution—or Doom the Earth to Drown in It](https://www.wired.com/story/this-treaty-could-stop-plastic-pollution-or-doom-the-earth-to-drown-in-it/)
+_18-Sep-2023_
 
-When humans didn't know what moved the ocean and the sun, they granted those objects mental states. Something similar can happen with artificial intelligence.
+The UN has released a draft of what might become a landmark agreement to protect human health and the environment. Emphasis on might.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The 12 Best Games on Xbox Game Pass (August 2023)](https://www.wired.com/gallery/best-xbox-game-pass-games/)*
-_29-Jul-2023_
+### [18 Best Portable Battery Chargers (2023): For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+_17-Sep-2023_
 
-Microsoft’s subscription service includes a bounty of fun games for console and PC, from Exoprimal to The Bookwalker: Thief of Tales.
+Keep your phone, tablet, laptop, and other electronics running with these handheld power banks.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[‘Call of Duty: Modern Warfare 2’ Players Hit With Worm Malware](https://www.wired.com/story/call-of-duty-modern-warfare-2-malware/)*
-_29-Jul-2023_
+### [A New Proof Moves the Needle on a Sticky Geometry Problem](https://www.wired.com/story/a-new-proof-moves-the-needle-on-a-sticky-geometry-problem/)
+_17-Sep-2023_
 
-Plus: Russia tightens social media censorship, new cyberattack reporting rules for US companies, and Google Street View returns to Germany.
+A deceptively simple math proposition known as the Kakeya conjecture underpins a tower of other questions in physics, number theory, and harmonic analysis.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
 # World
-## *[Ansa cronaca](https://www.ansa.it/sito/notizie/cronaca/cronaca.shtml)*
-### *[Confcommercio, ad agosto 16,4 milioni di italiani in vacanza](https://www.ansa.it/sito/notizie/cronaca/2023/08/04/confcommercio-ad-agosto-164-milioni-di-italiani-in-vacanza_175471eb-5d47-40b4-b8e7-b6e12f3019f5.html)*
-_4-Aug-2023_
+## [Ansa cronaca](https://www.ansa.it/sito/notizie/cronaca/cronaca.shtml)
+### [Estradato dalla Svizzera un ricercato per violenze su un 11enne](https://www.ansa.it/sito/notizie/cronaca/2023/09/21/estradato-dalla-svizzera-un-ricercato-per-violenze-su-un-11enne_697d733f-9e6d-4516-9c90-56be9461fbda.html)
+_21-Sep-2023_
 
-Spesa messa a budget di 14 miliardi. Ma rallentano i flussi
+Era stato condannato a Bari, deve scontare 3 anni e 7 mesi
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Truffa al Servizio sanitario, indagati 6 medici e un farmacista](https://www.ansa.it/sito/notizie/cronaca/2023/08/04/truffa-al-servizio-sanitario-indagati-6-medici-e-un-farmacista_cf9e20d2-efe4-4b0a-a816-f9335c693f3e.html)*
-_4-Aug-2023_
+### [Non fa accarezzare il cane, al padrone staccano orecchio a morsi](https://www.ansa.it/sito/notizie/cronaca/2023/09/21/non-fa-accarezzare-il-cane-al-padrone-staccano-orecchio-a-morsi_ac48bef6-9473-4774-b7cd-bad5b741d9b3.html)
+_21-Sep-2023_
 
-Farmaci per ignari pazienti trovati su greto fiume nel Reggino
+A Monza denunciato un 20enne per lesioni aggravate
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Chiedeva soldi per esame a stranieri](https://www.ansa.it/sito/notizie/cronaca/2023/08/04/chiedeva-soldi-per-esame-a-stranieri_c292b757-4870-45e8-bf29-a4517845dbff.html)*
-_4-Aug-2023_
+### [Cassino, celebrati i funerali del diciottenne morto in moto](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/cassino-celebrati-i-funerali-del-diciottenne-morto-in-moto_e7fd8575-7fe6-48d0-946a-1d0f2d876aa8.html)
+_20-Sep-2023_
 
-Per facilitare la prova per il permesso di soggiorno lungo
+Accompagnato dagli amici bikers e dalla sua banda musicale
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[L'intervista al Papa: 'Le transessuali sono figlie di Dio'](https://www.ansa.it/sito/notizie/cronaca/2023/08/04/lintervista-al-papa-le-transessuali-sono-figlie-di-dio_4a69ac67-4e72-4cb8-a972-88e1ffb82ec2.html)*
-_4-Aug-2023_
+### [Il narcos a giustizia italiana,'gip mi ha scarcerato,liberatemi'](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/il-narcos-a-giustizia-italianagip-mi-ha-scarceratoliberatemi_0d81c00a-83d0-4edd-87c1-617199bf884d.html)
+_20-Sep-2023_
 
-Le dichiarazioni alla rivista cattolica Vida Nueva: 'Zuppi andrà a Pechino, prosegue l'offensiva di pace'
+Esposto dei legali di Angel Quiroz Martinez detenuto in Colombia
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *['Frontiera Ventimiglia, tanti migranti vulnerabili respinti'](https://www.ansa.it/sito/notizie/cronaca/2023/08/04/frontiera-ventimiglia-tanti-migranti-vulnerabili-respinti_932b48e9-295e-4af3-abb1-d417e2ffe5a3.html)*
-_4-Aug-2023_
+### [Regeni, la Consulta decide sul processo agli 007 egiziani](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/regeni-la-consulta-decide-sul-processo-agli-007-egiziani_dd35c3a1-3c47-4735-af39-993b328d592f.html)
+_20-Sep-2023_
 
-Rapporto Msf,'anche un terzo minori'.Italia e Francia nel mirino
+Sentenza nei prossimi giorni, Flick '3 le strade possibili'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Venti sbarchi in nottata a Lampedusa, approdati 791 migranti](https://www.ansa.it/sito/notizie/cronaca/2023/08/04/venti-sbarchi-in-nottata-a-lampedusa-approdati-791-migranti_bb52f61b-15ca-4762-98a9-b2e9da6cbb49.html)*
-_4-Aug-2023_
+### [Operaio muore travolto da un palo nel Modenese](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/operaio-muore-travolto-da-un-palo-nel-modenese_489d2a73-a214-4e73-8d0f-0e63a57aa0a4.html)
+_20-Sep-2023_
 
-Ieri erano stati 38 con l'arrivo di 1.377 persone
+L'incidente sul lavoro a Montecreto, la vittima aveva 61 anni
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Esami di riparazione, è boom per le ripetizioni estive](https://www.ansa.it/sito/notizie/cronaca/2023/08/04/esami-di-riparazione-e-boom-per-le-ripetizioni-estive_8bdc5164-394a-4fd1-8220-f3df57aa888a.html)*
-_4-Aug-2023_
+### [Riduzione del seno di 9 chili, l'intervento a Lodi](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/riduzione-del-seno-di-9-chili-lintervento-a-lodi_f32c1c68-375f-4b02-9375-7883606bae18.html)
+_20-Sep-2023_
 
-Oltre 6 studenti su 10, 300 euro la spesa media
+La paziente faticava a camminare e aveva problemi alla schiena
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Esodo per le vacanze, bollino nero il 5 agosto](https://www.ansa.it/sito/notizie/cronaca/2023/08/04/esodo-per-le-vacanze-bollino-nero-il-5-agosto_cac989ee-6149-486c-8bd1-dc871a1bf6ec.html)*
-_4-Aug-2023_
+### [Cade per 70 metri lungo un sentiero, un morto in Friuli](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/cade-per-70-metri-lungo-un-sentiero-un-morto-in-friuli_94dbe019-76f8-4417-9819-561b6a1dfb75.html)
+_20-Sep-2023_
 
-Campagna di Autostrade per l'Italia e della polizia per la guida sicura
+Escursionista austriaco scivolato forse per un malore
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Maltempo: allerta regionale per rovesci e temporali](https://www.ansa.it/sito/notizie/cronaca/2023/08/04/maltempo-allerta-regionale-per-rovesci-e-temporali_eaa0d4e6-762f-4948-b85a-7f0aab60dd3d.html)*
-_4-Aug-2023_
+### [Conte visita l'hotspot di Lampedusa](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/conte-visita-lhotspot-di-lampedusa_7aa2e469-cfa0-4bb5-8e6d-a1c3863b5330.html)
+_20-Sep-2023_
 
-Da stasera peggioramento, piogge più diffuse ma abbondanti
+Incontra Francesca Basile, responsabile migrazioni della CRI
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Maltempo: in Fvg vento forte, alberi sradicati e allagamenti](https://www.ansa.it/sito/notizie/cronaca/2023/08/04/maltempo-in-fvg-vento-forte-alberi-sradicati-e-allagamenti_9c677813-1527-4193-8381-5c2a764b2332.html)*
-_4-Aug-2023_
+### ['Dopo Mahsa è nato il nuovo iraniano, non ci piegano'](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/dopo-mahsa-e-nato-il-nuovo-iraniano-non-ci-piegano_c945cc40-5db8-453d-b5ff-60d56e714b63.html)
+_20-Sep-2023_
 
-Il Pordenonese la zona più colpita
+Attivista,c'è grande cambiamento mentale,ma Raisi accolto da Onu
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scontro tra imbarcazioni, turista inglese morta in Campania](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/scontro-tra-imbarcazioni-turista-inglese-morta-in-campania_8f53553b-6f67-459e-962a-c89146786a22.html)*
-_3-Aug-2023_
+### [Lucano, 'posso aver commesso errori ma per aiutare i deboli'](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/lucano-posso-aver-commesso-errori-ma-per-aiutare-i-deboli_1b64301c-b88a-4736-b04e-5c23826dabf6.html)
+_20-Sep-2023_
 
-Era su un motoscafo che ha urtato un veliero per gite di gruppo
+Lettera dell'ex sindaco ai giudici d'appello e li invita a Riace
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scuola, oltre 62mila assunzioni a tempo indeterminato](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/scuola-oltre-62mila-assunzioni-a-tempo-indeterminato_5f551ab4-568a-44c8-b04f-010f8983a3c1.html)*
-_3-Aug-2023_
+### [Valditara a San Luca, 'lo Stato c'è ed è vicino ai cittadini'](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/valditara-a-san-luca-lo-stato-ce-ed-e-vicino-ai-cittadini_cfb6e29c-0e00-4ccb-b801-29875724ea19.html)
+_20-Sep-2023_
 
-Via libera dal Cdm, in ruolo oltre 50 mila docenti
+'Investire in istruzione per dare futuro ai giovani'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scuola, oltre 62mila assunzioni a tempo indeterminato](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/scuola-oltre-62mila-assunzioni-a-tempo-indeterminato_34f64e3a-a437-4856-9a8b-489a27ceba83.html)*
-_4-Aug-2023_
+### [Uccisa di botte in casa, marito a giudizio per omicidio](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/uccisa-di-botte-in-casa-marito-a-giudizio-per-omicidio_83c7f1fe-2e3d-47ed-a721-7b4745c8e378.html)
+_20-Sep-2023_
 
-Via libera dal Cdm, in ruolo oltre 50 mila docenti
+Il delitto a Osimo un anno fa. Processo ad Ancona il 19 dicembre
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Arrestato l'uomo che ha investito il 14enne nel veronese](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/arrestato-luomo-che-ha-investito-il-14enne-nel-veronese_57ae62bd-196f-4bbe-a632-5fa5597c04a3.html)*
-_3-Aug-2023_
+### [Politecnico Milano nella top 50 migliori atenei europei](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/politecnico-milano-nella-top-50-migliori-atenei-europei_00b88b0b-e86f-4533-b397-6f942d60d279.html)
+_20-Sep-2023_
 
-Carabinieri lo hanno posto ai domiciliari su ordinanza del gip
+Oxford guida classifica,tra prime 100 Sapienza, Bologna, Padova
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Arrestato l'uomo che ha investito il 14enne nel veronese](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/arrestato-luomo-che-ha-investito-il-14enne-nel-veronese_3bc37232-a6f8-4841-b10c-00936195111b.html)*
-_3-Aug-2023_
+### [Due condizioni per tenere migrante fino a 18 mesi in Cpr](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/due-condizioni-per-tenere-migrante-fino-a-18-mesi-in-cpr_21231393-b40c-47a7-881d-93243ba956d6.html)
+_20-Sep-2023_
 
-Carabinieri lo hanno posto ai domiciliari su ordinanza del gip
+Dl in G.U.:se non collabora o se ritardi nell'ottenere documenti
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Omicidio di Sofia, l'autopsia conferma il racconto del killer](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/omicidio-di-sofia-lautopsia-conferma-il-racconto-del-killer_32650953-7418-4e65-9320-629cc8fca4af.html)*
-_3-Aug-2023_
+### [I pm Milano chiedono il fallimento di Ki Group-Bioera](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/i-pm-milano-chiedono-il-fallimento-di-ki-group-bioera_eae6db55-f148-4d78-98dc-a83fbf2705ff.html)
+_20-Sep-2023_
 
-Colpita nel sonno, forse lei tentò una debole reazione
+'No al concordato' per società di cui ha avuto quote Santanché
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Disabile varesotto senza aiuti economici per una firma mancante](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/disabile-varesotto-senza-aiuti-economici-per-una-firma-mancante_165ccd8c-224b-47c3-a32a-7536774f7c33.html)*
-_3-Aug-2023_
+### [Finte vaccinazioni: non ci farà 'rinnovazione' della consulenza](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/finte-vaccinazioni-non-ci-fara-rinnovazione-della-consulenza_8e8a6045-2b0e-40e4-bf9f-d3e305946001.html)
+_20-Sep-2023_
 
-Interrogazione Ferrazzi (Lombardia migliore) a giunta Fontana
+Sentenza d'appello attesa per il 27 novembre
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Crosetto, si voleva condizionare la formazione del Governo](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/crosetto-si-voleva-condizionare-la-formazione-del-governo_d04b4ecc-5424-4892-9a17-b7a3cd95ccfe.html)*
-_3-Aug-2023_
+### [Al via il processo per omicidio Fabozzi a Malnate, 43 testi](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/al-via-il-processo-per-omicidio-fabozzi-a-malnate-43-testi_460efa0a-b20b-4f79-a1a3-a0d8aa3292c5.html)
+_20-Sep-2023_
 
-Inchiesta Perugia, 'attendo gli accertamenti della magistratura'
+L'imputato Sergio Domenichini in aula rigetta ogni accusa
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Carcere di Lanciano, bloccata droga nascosta nelle salsicce](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/carcere-di-lanciano-bloccata-droga-nascosta-nelle-salsicce_b5117afd-6c42-41d3-8953-57222b1ed5e8.html)*
-_3-Aug-2023_
+### [Scienziati da cinque continenti a Torino per misurare il clima](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/scienziati-da-cinque-continenti-a-torino-per-misurare-il-clima_86577e4e-a7a1-45b0-8190-ccdc5e83e1d0.html)
+_20-Sep-2023_
 
-Agenti scoprono 80 involucri da 1 grammo in pacco per detenuto
+Inaugura la prima Stazione climatologica di riferimento italiana
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Gualtieri, bonifica ex discarica Malagrotta al via a inizio 2024](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/gualtieri-bonifica-ex-discarica-malagrotta-al-via-a-inizio-2024_456f5e0c-36fd-4728-8ded-57a03b1416bf.html)*
-_3-Aug-2023_
+### [Blitz interforze a Napoli, un arresto e decine di perquisizioni](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/blitz-interforze-a-napoli-un-arresto-e-decine-di-perquisizioni_3755944d-5a71-49aa-8f2e-80000e6ef684.html)
+_20-Sep-2023_
 
-Sindaco presenta bando,intervento imponente su ferita drammatica
+Scoperte tre piazze di spaccio nel centro storico
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Strangolato nel B&b, arrestato 'non pensavo di averlo ucciso'](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/strangolato-nel-bb-arrestato-non-pensavo-di-averlo-ucciso_ec1d57e1-13b2-4ad9-b1bb-fd45a5399769.html)*
-_3-Aug-2023_
+### [Truffano anziana e le prendono lingotti d'oro, arrestata coppia](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/truffano-anziana-e-le-prendono-lingotti-doro-arrestata-coppia_756ad25c-c6a9-4e7f-ac62-9f406453e510.html)
+_20-Sep-2023_
 
-Il giovane ha risposto al gip di Cagliari, resta in carcere
+Il raggiro a Grosseto, i due bloccati per un controllo a Cassino
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Maltempo, Milano vieta accesso ad aree verdi e chiude i cimiteri](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/maltempo-milano-vieta-accesso-ad-aree-verdi-e-chiude-i-cimiteri_a0c43bf2-ed3d-42c0-85d1-8b027cab437b.html)*
-_3-Aug-2023_
+### [Bimba scomparsa, ispezione consulente famiglia in ex Astor](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/bimba-scomparsa-ispezione-consulente-famiglia-in-ex-astor_fe10a482-deb4-4c6e-bb9b-24ff0ade577f.html)
+_20-Sep-2023_
 
-Venerdì allerta meteo arancione, 'evitare cantieri e dehors'
+Presenti i genitori di Kata, con i legali e Luciano Garofano
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Occhiuto incontra testimone di giustizia De Masi, 'lo ammiro'](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/occhiuto-incontra-testimone-di-giustizia-de-masi-lo-ammiro_ad0a2c04-cff4-4748-9763-e57167f8ae96.html)*
-_3-Aug-2023_
+### [Politecnico Milano nella top 50 migliori atenei europei](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/politecnico-milano-nella-top-50-migliori-atenei-europei-_08660e90-942f-4c39-a168-59b52ef00c25.html)
+_20-Sep-2023_
 
-Governatore: 'imprenditore diventato, suo malgrado, un simbolo'
+Oxford guida classifica, tra le prime 100 anche la Sapienza, Bologna e Padova
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Circolare Prefetto su accessi a Cala Luna, niente numero chiuso](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/circolare-prefetto-su-accessi-a-cala-luna-niente-numero-chiuso_17fbf913-06db-4858-a1ba-3b81a826aa35.html)*
-_3-Aug-2023_
+### [Peste suina, sgomberato rifugio Pavese per abbattere i maiali](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/peste-suina-sgomberato-rifugio-pavese-per-abbattere-i-maiali_97ccca45-e3f7-4de6-97ad-3a76e851c81f.html)
+_20-Sep-2023_
 
-C'è la delega ai sindaci di Dorgali e Baunei per regolamento
+Attivisti erano in presidio da giorni per difendere gli animali
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Sala: 'Riprendiamo la trascrizione dei figli di due papà'](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/sala-riprendiamo-la-trascrizione-dei-figli-di-due-papa_6e0acb1c-e7f2-4085-bdd6-ea7be434ff2d.html)*
-_3-Aug-2023_
+### [Controlli serrati dei migranti al Silos di Trieste](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/controlli-serrati-dei-migranti-al-silos-di-trieste_9306c1d4-9820-4774-b3b2-468c3b7c8772.html)
+_20-Sep-2023_
 
-'Anche se con la sola indicazione del genitore biologico'
+Analizzate le posizioni di un centinaio di persone
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Morto travolto da un'auto a Milano, indagati i due autisti](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/morto-travolto-da-unauto-a-milano-indagati-i-due-autisti_94818cfb-c3a6-4be7-a397-b9b066f26b89.html)*
-_3-Aug-2023_
+### [Giudice, una colonia felina non può essere spostata](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/giudice-una-colonia-felina-non-puo-essere-spostata_cf6da18c-f313-4a44-87b1-496e750eed00.html)
+_20-Sep-2023_
 
-La donna per manovra vietata, l'uomo per la velocità
+Tribunale Catania, non va recato pregiudizio ad esseri viventi
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Maltempo: allerta arancione domani su Lombardia e Marche](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/maltempo-allerta-arancione-domani-su-lombardia-e-marche_6fb7eabe-46b7-4c5c-8716-68a2cbe30205.html)*
-_3-Aug-2023_
+### [Spenti due incendi nel nord Barese, bruciati 300 ettari](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/spenti-due-incendi-nel-nord-barese-bruciati-300-ettari_3790f797-7a1e-42cd-a818-b85790c0043e.html)
+_20-Sep-2023_
 
-Sensibile calo delle temperature e temporali intensi
+Ancora al lavoro vigili del fuoco e Arif per monitorare le aree
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Arriva il taxi gratis all'uscita delle discoteche per chi ha bevuto](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/arriva-il-taxi-gratis-alluscita-delle-discoteche_de3ceea9-355c-425f-ad84-3e8d753ea9ec.html)*
-_3-Aug-2023_
+### [Nuova notte scosse, anche 3.2, scuole di nuovo chiuse a Marradi](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/nuova-notte-scosse-anche-3.2-scuole-di-nuovo-chiuse-a-marradi_a71fcd2a-2daf-4721-ba84-124a1f4c2abf.html)
+_20-Sep-2023_
 
-Accordo al Mit, fondi per dare il via a un progetto sperimentale
+Sindaco Palazzuolo: 'Siamo tesi, più gente dormito fuori'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Sci, Cervinia promette 'la stagione più lunga di sempre'](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/sci-cervinia-promette-la-stagione-piu-lunga-di-sempre_510e58a7-7e73-4b0c-a192-0fcc72af9b16.html)*
-_3-Aug-2023_
+### [Doppia perturbazione in arrivo, poi crollo termico](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/doppia-perturbazione-in-arrivo-poi-crollo-termico_b33719cd-09ee-46a7-b742-4ac45f15ed32.html)
+_20-Sep-2023_
 
-'Grazie alla nuova funivia nessuna pausa tra inverno e estate'
+Entro il weekend termometri giù di 7-8 gradi e piogge battenti
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A Taormina raddoppia tutto, sposarsi costerà 1.600 euro](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/a-taormina-raddoppia-tutto-sposarsi-costera-1.600-euro_bba2936e-ce07-47c0-b004-2ff9be8890ec.html)*
-_3-Aug-2023_
+### [Riciclavano il reddito di cittadinanza, 600 denunciati a Milano](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/riciclavano-il-reddito-di-cittadinanza-600-denunciati-a-milano_9bbb95cc-c4a2-467d-a89c-7b4b78bae9e1.html)
+_20-Sep-2023_
 
-De Luca: 'evitiamo secondo dissesto'. Ex sindaco: 'demenziale'
+Versavano somme della carta in tre negozi in cambio di contante
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Lo studio: i soccorsi in mare non favoriscono l'immigrazione](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/lo-studio-i-soccorsi-in-mare-non-favoriscono-limmigrazione_f189a95d-892f-4625-81cd-2049b4e06b9b.html)*
-_4-Aug-2023_
+### [Rapina di un Rolex a Sanremo, tre fermati a Milano](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/rapina-di-un-rolex-a-sanremo-tre-fermati-a-milano_ffe7592f-6a6d-4b31-b88c-b7d580c4ab7e.html)
+_20-Sep-2023_
 
-La ricerca è basata su 10 anni di traversate del Mediterraneo
+Sono stati controllati dalla Polizia nel quadrilatero della moda
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scuola: Cub verso sciopero generale, 'gli aumenti sono finti'](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/scuola-cub-verso-sciopero-generale-gli-aumenti-sono-finti_747044c7-aefc-4d12-8070-31363d050e33.html)*
-_3-Aug-2023_
+### [Sfruttamento del lavoro nero, cinque arresti a Cagliari](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/sfruttamento-del-lavoro-nero-cinque-arresti-a-cagliari_14e7801a-2daf-4677-aa59-746d79788f14.html)
+_20-Sep-2023_
 
-'I 124 euro lordi comprendono gli incrementi già dati nel 2022'
+Polizia sgomina associazione a delinquere di stranieri
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ambrosi (Fdi) e Dornauer (Spoe), un amore oltre ogni confine](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/ambrosi-fdi-e-dornauer-spoe-un-amore-oltre-ogni-confine_4efac7a5-b833-44a7-bc29-bbd5d8a5deed.html)*
-_3-Aug-2023_
+### [Corpo carbonizzato di un'anziana ritrovato nel Brindisino](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/corpo-carbonizzato-di-unanziana-ritrovato-nel-brindisino_932b7976-e7d0-477d-abf6-46979536ba12.html)
+_20-Sep-2023_
 
-La deputata rende pubblica la relazione con il socialdemocratico
+Interrogato il figlio 47enne della donna
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Acqua alta d'agosto fa il bis a Venezia, ma sotto il metro](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/acqua-alta-dagosto-fa-il-bis-a-venezia-ma-sotto-il-metro_0d3ccdaa-bf63-401a-8a2d-bab489c6a76c.html)*
-_3-Aug-2023_
+### [Nuovo blitz interforze a Napoli, in campo 300 uomini](https://www.ansa.it/sito/notizie/cronaca/2023/09/20/nuovo-blitz-interforze-a-napoli-in-campo-300-uomini_5286922e-6695-41bf-9258-fe5a5bef7b43.html)
+_20-Sep-2023_
 
-Una punta di 95 centimetri, allagato solo 3% del centro storico
+Operazione nei quartieri San Lorenzo-Vicaria
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Controlli su diplomifici, focus su Campania, Lazio, Sicilia](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/controlli-su-diplomifici-focus-su-campania-lazio-sicilia_d15cb8ff-0941-44f2-8d2c-2248c71cabae.html)*
-_3-Aug-2023_
+### [Migranti: 13 sbarchi in neanche un'ora, è caos a Lampedusa](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/migranti-13-sbarchi-in-neanche-unora-e-caos-a-lampedusa_2e4488e9-a847-4977-82ca-cb3509a105dd.html)
+_19-Sep-2023_
 
-Mim: 'Elaborare interventi e predisporre soluzioni'
+Sul molo Favarolo è ancora in corso il conteggio dei profughi
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Emergenza sangue in Sardegna, -10mila sacche rispetto al 2022](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/emergenza-sangue-in-sardegna-10mila-sacche-rispetto-al-2022_e9bb63da-e31f-46dd-8cc7-c65526cc05eb.html)*
-_3-Aug-2023_
+### [Malore mentre nuota, turista 84enne muore ad Alghero](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/malore-mentre-nuota-turista-84enne-muore-ad-alghero_c846e06d-5f8a-41d8-a578-1fb3b46c31d3.html)
+_19-Sep-2023_
 
-Appello Avis alla donazione, 'ospedali non chiudono d'estate'
+Vittima una donna tedesca residente in provincia di Como
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Maltempo: a Milano un fondo per ripiantare gli alberi caduti](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/maltempo-a-milano-un-fondo-per-ripiantare-gli-alberi-caduti_ba854420-927c-4269-8203-68ce188d78e5.html)*
-_3-Aug-2023_
+### [Acs, prosegue opera di distruzione, vicini alla comunità armena](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/acs-prosegue-opera-di-distruzione-vicini-alla-comunita-armena_0eef5dfa-0ac8-443c-b299-39b7b00e822b.html)
+_19-Sep-2023_
 
-Obiettivo è ripristinare tutto il verde con donazioni di privati
+Monteduro, occorre un tempestivo intervento internazionale
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Rigettata la richiesta di confisca dei beni per gli Iaquinta](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/rigettata-la-richiesta-di-confisca-dei-beni-per-gli-iaquinta_2f818f56-1929-48c6-b8de-cfab5f408a49.html)*
-_3-Aug-2023_
+### [Due mesi per il piano sui nuovi Cpr, poi via ai lavori](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/due-mesi-per-il-piano-sui-nuovi-cpr-poi-via-ai-lavori_97ac39ca-1ec9-41e9-b31c-8f66557d5028.html)
+_19-Sep-2023_
 
-Il calciatore: 'E' emersa la piena legittimità dei miei redditi'
+Saranno considerati siti di interesse nazionale per la sicurezza
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Dopo l'omicidio di Mahmoud i killer andarono a svagarsi](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/dopo-lomicidio-di-mahmoud-i-killer-andarono-a-svagarsi_ff1f273a-ad41-4173-ba19-71111e25a21f.html)*
-_3-Aug-2023_
+### [Barattolo con cannabis e prezzo di acquisto sul bancone del bar](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/barattolo-con-cannabis-e-prezzo-di-acquisto-sul-bancone-del-bar_c1608f25-85e4-4d1c-9a59-9e42fa442a3b.html)
+_19-Sep-2023_
 
-Gip, erano senza pensieri e con atteggiamento leggero
+Arrestato dai carabinieri di Soverato il gestore del locale
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A Olbia niente palloncini alle feste, divieto del sindaco](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/a-olbia-niente-palloncini-alle-feste-divieto-del-sindaco_4e760959-dbbc-4493-94a4-2b3cc808f612.html)*
-_3-Aug-2023_
+### [Velisti disabili a Salone Nautico Genova dopo 45 approdi](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/velisti-disabili-a-salone-nautico-genova-dopo-45-approdi_bdfa5445-f69c-4b9a-8c5a-4731b3045dfb.html)
+_19-Sep-2023_
 
-Nizzi: 'L'ordinanza ha lo scopo di tutelare l'ambiente'
+Oltre 1.700 miglia e 99 giorni in mare per testare accesso porti
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Sfondano muro e si riprendono stanza 'rubata'dal vicino,indagati](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/sfondano-muro-e-si-riprendono-stanza-rubatadal-vicinoindagati_1fb0657d-a071-4ad2-89be-5091857a09f0.html)*
-_3-Aug-2023_
+### [Non paga mantenimento alla moglie, arrestato dopo 23 anni](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/non-paga-mantenimento-alla-moglie-arrestato-dopo-23-anni_5c0ea232-2b23-47e4-b0ef-f62d60324747.html)
+_19-Sep-2023_
 
-Porto Rotondo, nei guai una donna di Roma e un uomo di Marino
+Deve scontare ai domiciliari i prossimi cinque mesi
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Open arms,autorità Italia ci hanno mandato a fare altri soccorsi](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/open-armsautorita-italia-ci-hanno-mandato-a-fare-altri-soccorsi_48a05730-fc93-459c-b968-f57be944a2bc.html)*
-_3-Aug-2023_
+### [Droga in carcere, c'era chi si faceva arrestare per portarla](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/droga-in-carcere-cera-chi-si-faceva-arrestare-per-portarla_beebbbd7-c7bb-40a2-a2f5-93879f8f7c95.html)
+_19-Sep-2023_
 
-'Tantissime imbarcazioni alla deriva in mare'
+Procura di Aosta, anche lanci con la fionda per superare le mura
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Numero chiuso a Cala Luna, esultano gli ambientalisti](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/numero-chiuso-a-cala-luna-esultano-gli-ambientalisti_1abd3b46-0b08-4e15-88d0-5e693db88b8f.html)*
-_3-Aug-2023_
+### [Falsa notizia su Fedez e J-Ax, indagato citato in giudizio](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/falsa-notizia-su-fedez-e-j-ax-indagato-citato-in-giudizio_8521a019-556b-42f1-a509-703223e76f66.html)
+_19-Sep-2023_
 
-Grig: 'Regione incapace e imprenditori miopi, bene il prefetto'
+Il processo per 40enne umbro disposto dalla procura di Milano
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Giovane trovato morto in un agriturismo in Salento](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/giovane-trovato-morto-in-un-agriturismo-in-salento_84b841d2-8186-45b5-85dd-f265a1df026a.html)*
-_3-Aug-2023_
+### [Knox non sarà in Italia per nuovo procedimento in Cassazione](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/knox-non-sara-in-italia-per-nuovo-procedimento-in-cassazione_4735505f-3540-4578-bb2e-13ffee100397.html)
+_19-Sep-2023_
 
-Il 26enne sarebbe annegato, indagano i carabinieri
+Legale, ha voluto lei il ricorso contro la condanna
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Il Papa a Lisbona incontra un gruppo di giovani ucraini](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/il-papa-a-lisbona-incontra-un-gruppo-di-giovani-ucraini_01cd0354-b044-448f-8fb5-a4b47f809f75.html)*
-_3-Aug-2023_
+### [Aveva 700 video pedopornografici, arrestato dai carabinieri](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/aveva-700-video-pedopornografici-arrestato-dai-carabinieri_92b6f596-14f1-4839-bc58-8995ab7ebc07.html)
+_19-Sep-2023_
 
-Ha espresso la sua vicinanza "dolorosa e di preghiera
+Le sue chat ora sono analizzate dagli investigatori
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[In bici si scontra con un'auto, sbalzato di dieci metri](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/in-bici-si-scontra-con-unauto-sbalzato-di-dieci-metri_d371ca20-3f76-4e2a-8ec0-0c63833f203b.html)*
-_3-Aug-2023_
+### [Cpr nelle Regioni, la protesta dei governatori](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/cpr-nelle-regioni-la-protesta-dei-governatori_ed55b934-43ff-47a4-b3e5-9167a4bcc316.html)
+_19-Sep-2023_
 
-Giovane ferito gravemente nel Goriziano
+Fedriga: nei Cpr tutti i migranti hanno precedenti penali
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[No Tav: perquisiti i presidi, negli assalti usati ordigni a gas](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/no-tav-perquisiti-i-presidi-negli-assalti-usati-ordigni-a-gas_e414af5b-2df0-4596-a022-135e77cbc160.html)*
-_3-Aug-2023_
+### [Palamara patteggia a Perugia per traffico d'influenze](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/palamara-patteggia-a-perugia-per-traffico-dinfluenze_d41e2dc1-b6d4-4097-9984-bd6fb4553c1a.html)
+_19-Sep-2023_
 
-Operazione della Digos dopo i disordini di domenica scorsa
+Per l'ex magistrato quattro mesi per il filone con imprenditori
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Il Ciclone Circe sull'Italia, tre giorni di maltempo da Nord a Sud. Previsti violenti nubifragi](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/e-allerta-meteo-dal-nord-al-sud-3-giorni-di-maltempo_9a6eff9e-d9b2-42ff-95fa-f1beb36b6286.html)*
-_3-Aug-2023_
+### [Kompatscher, Cpr in Alto Adige per esigenze locali](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/kompatscher-cpr-in-alto-adige-per-esigenze-locali_9f49b62b-ad53-422f-928e-2327cd0c1060.html)
+_19-Sep-2023_
 
-Previsti violenti nubifragi, freddo e vento
+"Non ci saranno trasferimenti da altre regioni"
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[E' morta Madre Elvira, fondatrice della Comunità Cenacolo](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/e-morta-madre-elvira-fondatrice-della-comunita-cenacolo_61fa4eac-bfb4-43c7-a90b-f8136ebd49c3.html)*
-_3-Aug-2023_
+### [Sisma Marradi: oltre un centinaio famiglie sfollate a Tredozio](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/sisma-marradi-oltre-un-centinaio-famiglie-sfollate-a-tredozio_d01ee3fd-3413-40ae-8180-a5a2304c3394.html)
+_19-Sep-2023_
 
-Rita Agnese Petrozzi. Aprì 70 comunità nel mondo
+Sopralluogo del presidente Bonaccini, municipio inagibile
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Soldi all'estero e affitti, Gdf trova 39 furbetti del Rdc](https://www.ansa.it/sito/notizie/cronaca/2023/08/03/soldi-allestero-e-affitti-gdf-trova-39-furbetti-del-rdc_5776b33b-cb45-49ca-9bdb-fb210534fc93.html)*
-_3-Aug-2023_
+### [Trovato morto l'escursionista disperso in Garfagnana](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/trovato-morto-lescursionista-disperso-in-garfagnana_7493fbcb-b848-42e3-b12f-d06f0336d6f2.html)
+_19-Sep-2023_
 
-Percepiti 456mila euro, stavano per essere erogati altri 120mila
+Trentenne svizzero individuato in fondo a uno strapiombo
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Volo Milano-New York colpito dalla grandine, aperta un'inchiesta](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/volo-milano-new-york-colpito-dalla-grandine-aperta-uninchiesta_804a28b5-b58f-47b9-b4a1-683e27268219.html)*
-_2-Aug-2023_
+### [Geo Barents a Brindisi con 471 migranti, 173 sono minori soli](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/geo-barents-a-brindisi-con-471-migranti-173-sono-minori-soli_b16e267e-e512-4c2a-a3ef-3c602a64c58c.html)
+_19-Sep-2023_
 
-Ansv, l'evento del 24 luglio classificato come 'incidente'
+Saranno trasferiti anche in Lombardia, Piemonte, Emilia Romagna
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Valditara, firmato il Dpcm sulla formazione dei docenti](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/valditara-firmato-il-dpcm-sulla-formazione-dei-docenti_a68c42bb-e79f-4148-a03f-79ba01454563.html)*
-_2-Aug-2023_
+### [Knox chiede di annullare la condanna per calunnia](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/knox-chiede-di-annullare-la-condanna-per-calunnia_ae46a803-1815-477d-8999-18a3e29efaa7.html)
+_19-Sep-2023_
 
-'Riforma attesa da un anno, ci sarà nuova generazione prof'
+Ricorso in Cassazione ma Lumumba si oppone
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Valditara: 'Firmato Dpcm sulla formazione dei docenti'](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/valditara-firmato-dpcm-sulla-formazione-dei-docenti_cbda7a40-5825-4158-861f-a10c39429945.html)*
-_2-Aug-2023_
+### [Bimbi ustionati all'asilo, papà che versò alcol chiede scusa](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/bimbi-ustionati-allasilo-papa-che-verso-alcol-chiede-scusa_510acc9f-4a9f-4463-989a-b012b3fdc8e4.html)
+_19-Sep-2023_
 
-'Riforma attesa da un anno, ci sarà una nuova generazione di professori'
+Oggi a margine del processo che lo vede imputato per lesioni
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Pitone in un prato di Livorno catturato dai pompieri](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/pitone-in-un-prato-di-livorno-catturato-dai-pompieri_4c6fd64d-db38-4c15-af35-20e2eb74334a.html)*
-_2-Aug-2023_
+### [Alle 12 squillo dei cellulari in Lombardia per test It-Alert](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/alle-12-squillo-dei-cellulari-in-lombardia-per-test-it-alert_bccfa1ea-a452-45c7-add1-da172ea9a718.html)
+_19-Sep-2023_
 
-Avvistamento in un giardino pubblico dell'esemplare esotico
+Arrivato il messaggio test per comunicare emergenze
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scambia hashish per cioccolato, bimba si sente male](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/scambia-hashish-per-cioccolato-bimba-si-sente-male_afac4101-4c11-402b-b07f-c8edcd4e8223.html)*
-_2-Aug-2023_
+### [Roma, pulizia 'acrobatica' per Ponte Sant'Angelo](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/roma-pulizia-acrobatica-per-ponte-santangelo_efb9beb1-18f1-4f52-a207-ce629d27476f.html)
+_19-Sep-2023_
 
-Il padre denunciato per detenzione di droga e lesioni colpose
+Manutenzione e rimozione degli arbusti, è costata 35 mila euro
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Sofia, il killer ha cambiato coltello e l'ha colpita nel sonno](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/sofia-il-killer-ha-cambiato-coltello-e-lha-colpita-nel-sonno_fd086220-7f84-4fb1-beee-5a75314f12df.html)*
-_2-Aug-2023_
+### [Sgomberato ex cinema a Milano occupato contro caro affitti](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/sgomberato-ex-cinema-a-milano-occupato-contro-caro-affitti_88e359c8-a6cb-4f90-8c93-e54ad0ff2d0f.html)
+_19-Sep-2023_
 
-Il medico legale ha riscontrato ferite al viso e al collo
+Presenti una decina di studenti. Nessuna tensione
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Autopsia sul 43enne ucciso nel B&b, morto per strangolamento](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/autopsia-sul-43enne-ucciso-nel-bb-morto-per-strangolamento_c099b231-363e-43e0-9467-c2a442990214.html)*
-_2-Aug-2023_
+### [Si è sciolto il sangue di San Gennaro, applausi dei fedeli](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/si-e-sciolto-il-sangue-di-san-gennaro-applausi-dei-fedeli_a623ad30-d472-4a6a-97b4-42d668675cc1.html)
+_19-Sep-2023_
 
-Cagliari, sul corpo ferite riconducibili a lotta con assassino
+Cattedrale affollata a Napoli per il prodigio della liquefazione
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Omicidio di Sofia, il gip dispone il carcere per l'ex fidanzato](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/omicidio-di-sofia-il-gip-dispone-il-carcere-per-lex-fidanzato_ebbc00de-685a-4619-bb81-b8701d18045e.html)*
-_2-Aug-2023_
+### [Si è sciolto il sangue di San Gennaro, applausi dei fedeli](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/si-e-sciolto-il-sangue-di-san-gennaro-applausi-dei-fedeli_5bfecd21-ccdb-49f9-ae60-e55b838b0824.html)
+_19-Sep-2023_
 
-Riconosciute la premeditazione e i futili motivi
+Cattedrale affollata a Napoli per il prodigio della liquefazione
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Urso all'Enac: 'Lavori all'aeroporto di Catania attesi da 11 anni'](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/urso-allenac-lavori-allaeroporto-di-catania-attesi-da-11-anni_32265dc8-f6e1-4cb2-9fe2-912e292aef76.html)*
-_2-Aug-2023_
+### [Bonus edilizi, 3,5 milioni sequestrati dalla Finanza in Irpinia](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/bonus-edilizi-35-milioni-sequestrati-dalla-finanza-in-irpinia_faf7aa64-02ca-4ad5-9539-2484f5b5afd7.html)
+_19-Sep-2023_
 
-'Verificare rispetto degli impegni da parte del concessionario'
+30 persone coinvolte,anche pregiudicati con Reddito cittadinanza
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Il gipeto Ali spicca il volo sulle Alpi](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/il-gipeto-ali-spicca-il-volo-sulle-alpi_dfd71d59-2447-40ed-92c0-643962dcce20.html)*
-_2-Aug-2023_
+### [Allarme da Carabinieri Napoli, dilaga traffico illecito di armi](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/allarme-da-carabinieri-napoli-dilaga-traffico-illecito-di-armi_6e55055f-f595-4218-a2b1-41c9c831fdb2.html)
+_19-Sep-2023_
 
-Dopo la reintroduzione della specie trent'anni fa
+Intensificate le operazioni di controllo e sequestro
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Gabbiano reale con un amo nel becco salvato nel Ragusano](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/gabbiano-reale-con-un-amo-nel-becco-salvato-nel-ragusano_88b94c9f-c2c7-4917-aa70-b5cf919aacc6.html)*
-_2-Aug-2023_
+### [Italia divisa in due, sembra autunno al Nord ed estate al Sud](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/italia-divisa-in-due-sembra-autunno-al-nord-ed-estate-al-sud_6cacc4ad-8f35-4737-bcf1-caf99e4d1fcd.html)
+_19-Sep-2023_
 
-A Donnalucata, rischiava la morte. Dopo mezz'ora è volato via
+Piogge anche intense e calo delle temperature nel settentrione
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Alluvione Marche: Regione, prorogare termine per richieste danni](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/alluvione-marche-regione-prorogare-termine-per-richieste-danni_b8888fbf-aeec-48b3-bfa2-4d81f73fe646.html)*
-_2-Aug-2023_
+### [Maxirissa a Pordenone, il bilancio dei feriti sale a sei](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/maxirissa-a-pordenone-il-bilancio-dei-feriti-sale-a-sei_c8c7fd31-0899-4ea6-82ba-409b19fb8ab9.html)
+_19-Sep-2023_
 
-Istanza a Protezione Civile, dal 10 agosto al 31 ottobre 2023
+Soltanto uno in gravi condizioni
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[L'omicidio di Mahmoud, arrestati avevano comprato mannaia](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/lomicidio-di-mahmoud-arrestati-avevano-comprato-mannaia_0741ccd2-6640-40f0-9093-8cbd251c01b7.html)*
-_2-Aug-2023_
+### [Sisma Marradi, sindaco 'in tanti dormito fuori casa'](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/sisma-marradi-sindaco-in-tanti-dormito-fuori-casa_8e677204-baa5-4e7f-ac11-31629ac914e4.html)
+_19-Sep-2023_
 
-Rischiano l'accusa di omicidio premeditato. Muti davanti al gip
+'Prosegue sciame, anche scossa magnitudo 3, si vive in allerta'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[La Open Arms soccorre 23 migranti,si dirige verso altre 2 barche](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/la-open-arms-soccorre-23-migrantisi-dirige-verso-altre-2-barche_ec189b5d-ec66-45fb-8add-996575fbd8e2.html)*
-_2-Aug-2023_
+### [Escursionista disperso in Garfagnana,finora senza esito ricerche](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/escursionista-disperso-in-garfagnanafinora-senza-esito-ricerche_65a797f9-eb57-4a70-9828-403cf6a59626.html)
+_19-Sep-2023_
 
-'Sono in difficoltà ed hanno cento persone a bordo'
+E' 30enne svizzero, allarme dopo mancato rientro in agriturismo
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[L'Istituto Mario Negri: sale l'uso di ketamina a Milano, Bologna e Firenze](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/listituto-mario-negri-sale-luso-di-ketamina-a-milano-bologna-e-firenze_82963a44-7282-4bed-8d0e-cade5fe8d526.html)*
-_2-Aug-2023_
+### [Sequestrati 328 milioni di falsi crediti per Bonus facciate](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/sequestrati-328-milioni-di-falsi-crediti-per-bonus-facciate_254c804a-2ff4-4027-af1d-116701d168d4.html)
+_19-Sep-2023_
 
-La mappa di nuove e vecchie droghe dai dati delle acque reflue
+Indagine della Guardia di Finanza, capofila un'azienda bresciana
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Le Regioni contro i tagli al Pnrr: 'Così si bloccano i cantieri'](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/le-regioni-senza-finanziamenti-si-rischia-il-blocco-cantieri_dc421802-f461-42b9-9bdf-d75546b4bef5.html)*
-_3-Aug-2023_
+### [Si oppone a rapina scooter, 16enne accoltellato nel Napoletano](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/si-oppone-a-rapina-scooter-16enne-accoltellato-nel-napoletano_611d7ff1-a16d-426c-8a0a-723a52255ee0.html)
+_19-Sep-2023_
 
-'Il governo assicuri le coperture'. A rischio i piani urbani
+Ricoverato in ospedale, indagini dei Carabinieri
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Il Papa a Lisbona: 'Mancano rotte coraggiose di pace'](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/il-papa-a-lisbona-mancano-rotte-coraggiose-di-pace_fea603de-24f2-4030-907c-64e01cb47d10.html)*
-_3-Aug-2023_
+### [Portati da Lampedusa a Porto Empedocle barchini di migranti](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/portati-da-lampedusa-a-porto-empedocle-barchini-di-migranti_cd2ed7c8-2997-4e84-b586-9f2915ba510f.html)
+_19-Sep-2023_
 
-Francesco: 'Abbiamo bisogno del ruolo di pontiere e di paciere dell'Europa'
+Caricati su tre rimorchi resti natanti in legno e in metallo
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Corteo a Napoli in difesa del reddito di cittadinanza](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/corteo-a-napoli-in-difesa-del-reddito-di-cittadinanza_f06d91de-430e-4fad-9545-70ef49ffce95.html)*
-_2-Aug-2023_
+### [Migranti: ripresi trasferimenti da Lampedusa a Porto Empedocle](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/migranti-ripresi-trasferimenti-da-lampedusa-a-porto-empedocle_9b5c7248-3eb5-4085-af7d-5c38f68ace25.html)
+_19-Sep-2023_
 
-Cori contro Meloni, un presidio anche a Pisa. Calderone: 'Qualcuno soffia sul disagio sociale'
+Ancora sbarchi nell'isola delle Pelagie, 1.544 ospti in hotspot
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *['Aereo rattoppato con nastro adesivo', denuncia ex deputato](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/aereo-rattoppato-con-nastro-adesivo-denuncia-ex-deputato_18a14fb4-a29a-4e1f-8e12-03d2f6094a17.html)*
-_2-Aug-2023_
+### [Scontro frontale tra auto nel sud Sardegna, due morti](https://www.ansa.it/sito/notizie/cronaca/2023/09/19/scontro-frontale-tra-auto-nel-sud-sardegna-due-morti_19633f68-d9c3-43c0-99e5-7e749f701f5f.html)
+_19-Sep-2023_
 
-Mauro Pili su Fb: 'Voli per Sardegna da terzo mondo'
+Incidente sulla strada provinciale 2 a Portoscuso, nel Sulcis
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Sbarco di migranti nel sud Sardegna, arrestati tre scafisti](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/sbarco-di-migranti-nel-sud-sardegna-arrestati-tre-scafisti_6620a519-4687-46e4-98b9-65fbc0248696.html)*
-_2-Aug-2023_
+### [Furto nel ristorante della moglie dell'interista Martinez](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/furto-nel-ristorante-della-moglie-dellinterista-martinez_fbf7bfe0-26a3-4ceb-9cf0-021f1fdb6739.html)
+_18-Sep-2023_
 
-Erano pronti a tornare in Tunisia ma il motore si è inceppato
+Nel pieno centro di Milano, indaga la Polizia
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Investito 14enne: in corso valutazione arresto 'pirata'](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/investito-14enne-in-corso-valutazione-arresto-pirata_c7e73b4e-58b7-4946-a551-a982b20171ab.html)*
-_2-Aug-2023_
+### [Gelo dei sindaci: 'Ma faremo la nostra parte'](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/gelo-dei-sindaci-ma-faremo-la-nostra-parte_9a258209-0905-4a6c-a202-c56d524e5d23.html)
+_18-Sep-2023_
 
-Famiglia attende restituzione della salma
+Anci chiede norme più precise sui minori e incontro al Viminale
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Massimo 500 persone sulla spiaggia di Cala Luna](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/massimo-500-persone-sulla-spiaggia-di-cala-luna_af6576ea-44f3-4833-a86a-ecaaecc27905.html)*
-_2-Aug-2023_
+### [Terremoto 4.9 sull'Appennino, paura nelle zone alluvionate](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/terremoto-4.9-sullappennino-paura-nelle-zone-alluvionate_80c72ea1-69c6-446b-9008-fbf60ce2f72e.html)
+_19-Sep-2023_
 
-Il prefetto di Nuoro trova una mediazione dopo stop a ordinanza
+Curcio, lievi danni. Alcuni stabili lesionati. Scuole chiuse
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Tornano grandine e vento, a Venezia acqua alta d'agosto](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/venezia-sorpresa-dallacqua-alta-dagosto-picco-di-un-metro_a794f115-02f5-4098-ad6d-3f89e9d239b9.html)*
-_2-Aug-2023_
+### [Mussolini 85 anni fa annunciò a Trieste le leggi razziali](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/mussolini-85-anni-fa-annuncio-a-trieste-le-leggi-razziali_eff205ac-7f3c-4316-ab4b-a8bcdabddf7e.html)
+_18-Sep-2023_
 
-Ultime ore di temperature torride poi una parentesi autunnale
+Anticipate da Manifesto della razza, e dagli attacchi agli slavi
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Morto 18enne travolto sul marciapiede](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/morto-18enne-travolto-sul-marciapiede_ca4f3c80-a1e6-4276-8b8e-2fee34968f9b.html)*
-_2-Aug-2023_
+### [Gioia e Nicole, sveglia alle 4.30 per andare a scuola](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/gioia-e-nicole-sveglia-alle-4.30-per-andare-a-scuola_005c47f0-b583-4687-b73d-8f761071e29f.html)
+_18-Sep-2023_
 
-Era stato schiacciato contro un palo, sotto shock i genitori
+Due 14enni, viaggio in auto e due pullman per essere in orario
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Picchi di 39 gradi al sud poi crollo delle minime, quasi autunnali](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/picchi-di-39c-al-sud-poi-crollo-delle-minime-a-simil-autunnali_f9705661-4cae-446c-b280-5ff26c9195b1.html)*
-_2-Aug-2023_
+### ['Ndrangheta: assolto in appello l'ex senatore Marco Siclari (Fi)](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/ndrangheta-assolto-in-appello-lex-senatore-marco-siclari-fi_f54aa1c1-3ce4-4fb6-adc8-e3ef6e55b9a1.html)
+_18-Sep-2023_
 
-Cala il vento e aumenta l'umidità
+A Reggio Calabria. Accusato scambio elettorale politico-mafioso
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Attacchi hacker 'massivi', Polizia postale interviene](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/attacchi-hacker-massivi-polizia-postale-interviene_b3fcac4f-ab29-4cad-8914-177e9c4ab15d.html)*
-_2-Aug-2023_
+### [A Milano chiusa per sciopero la metro 2, limitata la M1](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/a-milano-chiusa-per-sciopero-la-metro-2-limitata-la-m1_219e0d0f-f679-4dd2-8fe4-c46df715ad4c.html)
+_18-Sep-2023_
 
-Non solo banche nel mirino
+Possibili rallentamenti di tram e bus anche per la pioggia
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Attacchi hacker 'massivi', la Polizia postale interviene](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/attacchi-hacker-massivi-polizia-postale-interviene_61b879af-3e56-453e-a8a2-b70f311dba51.html)*
-_2-Aug-2023_
+### [Scuola, voto in condotta e bulli in aula, stretta del Governo](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/scuola-voto-in-condotta-e-bulli-in-aula-stretta-del-governo_e5bc8acf-6132-460c-a0d3-9a7731ac31db.html)
+_18-Sep-2023_
 
-Non solo banche nel mirino dei gruppi filorussi attivi sulla rete
+Il ministro Valditara: con la riforma, istruzione tecnica finalmente di serie A
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Distruggono un'opera di Butti per fare un video, denunciati](https://www.ansa.it/sito/notizie/cronaca/2023/08/02/distruggono-unopera-di-butti-per-fare-un-video-denunciati_f362e837-804d-4155-8d03-f586d6bdee31.html)*
-_2-Aug-2023_
+### [I Pm chiedono di archiviare Cappato su 2 casi suicidio assistito](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/i-pm-chiedono-di-archiviare-cappato-su-2-casi-suicidio-assistito_1bd86446-9a31-4d1a-86cf-1e4a4bca957d.html)
+_18-Sep-2023_
 
-Nel Varesotto in 6 dentro una fontana, uno é influencer tedesco
+Accusato di aiuto al suicidio per i casi di Elena e Romano
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Angelo Aliquò è il nuovo direttore generale dello Spallanzani](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/angelo-aliquo-e-il-nuovo-direttore-generale-dello-spallanzani_7735eb39-0ad7-438d-892a-6ef8a74d99b9.html)*
-_1-Aug-2023_
+### [Sbarcano 41 migranti in Calabria, bloccati dai carabinieri](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/sbarcano-41-migranti-in-calabria-bloccati-dai-carabinieri_a0ab3c86-ee9d-435c-ab08-632b0bcadefc.html)
+_18-Sep-2023_
 
-Lascia guida asl di Frosinone,prende il posto del professor Vaia
+Arrivati con barca a vela. Avevano tentato di allontanarsi
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Centro sociale sgomberato, corteo di protesta a Monza](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/centro-sociale-sgomberato-corteo-di-protesta-a-monza_0743f18c-8a9f-4281-8c2a-082c334c09ec.html)*
-_1-Aug-2023_
+### [Stupra e fotografa le vittime, arrestato netturbino a Roma](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/stupra-e-fotografa-le-vittime-arrestato-netturbino-a-roma-_97503b51-d03c-4643-b235-e30d906bc28d.html)
+_19-Sep-2023_
 
-Circa 300 sfilano per la città, agenti schierati
+Bloccato dalla polizia. Almeno tre le vittime, sono state drogate
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Attacco degli hacker russi ai siti di sei banche italiane](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/attacco-degli-hacker-russi-ai-siti-di-sei-banche-italiane_19c36392-4158-4541-a1f9-9e30ae8c2d3c.html)*
-_1-Aug-2023_
+### [Dal Governo ok a riforma professionali e voto in condotta](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/dal-governo-ok-a-riforma-professionali-e-voto-in-condotta_a54c70f7-2e82-450c-9576-217a671957dc.html)
+_18-Sep-2023_
 
-Alcuni siti irraggiungibili per pochi minuti. Agenzia cyber, non hanno intaccato i sistemi
+Via libera dal Consiglio dei ministri
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Maltempo, 100 milioni di euro di danni in provincia di Varese](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/maltempo-100-milioni-di-euro-di-danni-in-provincia-di-varese_3f2622d4-9ae1-4d20-a1bb-85e9ba9695b1.html)*
-_1-Aug-2023_
+### [Meloni, governo seguirà con attenzione impegni Ue sui migranti](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/meloni-governo-seguira-con-attenzione-impegni-ue-sui-migranti_fba668a0-a743-4de5-a04e-6926688992c9.html)
+_18-Sep-2023_
 
-Sopralluogo di Regione Lombardia a Saronno e Gerenzano
+A partire dallo sblocco in tempi rapidi dei fondi per la Tunisia
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Sofia, la famiglia vuole la verità sugli ultimi attimi di vita](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/sofia-la-famiglia-vuole-la-verita-sugli-ultimi-attimi-di-vita_34b1eb96-a0f6-498d-a06a-209a65335882.html)*
-_1-Aug-2023_
+### [Meloni: 'Con la riforma del voto in condotta torna il rispetto a scuola'](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/meloni-con-la-riforma-del-voto-in-condotta-torna-il-rispetto-a-scuola_4bf25e7f-1a80-40c0-964e-5feb2aac3e0b.html)
+_18-Sep-2023_
 
-'Attendiamo esiti degli accertamenti, ora è tempo del silenzio'
+'Svolta molto attesa dalla società italiana'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Medico sospeso per false certificazioni malattia ad insegnante](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/medico-sospeso-per-false-certificazioni-malattia-ad-insegnante_854b5c25-c303-4559-9b6d-23edb568e42a.html)*
-_1-Aug-2023_
+### [Meloni, Borrell? Le forze italiane ed europee remano contro](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/meloni-borrell-le-forze-italiane-ed-europee-remano-contro_a4f73ef6-b061-4aca-aafc-1ae85a5c9c5e.html)
+_18-Sep-2023_
 
-Provvedimento emesso dal Gip di Como su richiesta della Procura
+'La sinistra vuole rendere ineluttabile immigrazione di massa'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Sala: 'A Milano stima dei danni del nubifragio è di 50 milioni'](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/sala-a-milano-stima-dei-danni-del-nubifragio-e-di-50-milioni_b20581f1-7721-494a-9221-8f2eafc76adb.html)*
-_1-Aug-2023_
+### [Uccise barista a martellate, confermato l'ergastolo](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/uccise-barista-a-martellate-confermato-lergastolo_96ad6da2-d49c-413d-9e6b-a7480848bbd8.html)
+_18-Sep-2023_
 
-Il sindaco: 'Insieme a Fontana chiesta emergenza ambientale'
+Sassari, 25enne condannato anche in appello
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Individuato l'investitore del 14enne,è un operaio 39enne](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/individuato-linvestitore-del-14ennee-un-operaio-39enne_05e53787-88b7-4985-9f8b-3e03c117cff7.html)*
-_1-Aug-2023_
+### [Migranti, più Centri rimpatri in zone sicure. Il piano del Governo](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/consiglio-dei-ministri-varate-misure-sui-migranti_18579bf1-60d2-4458-94b6-461517c6ec61.html)
+_18-Sep-2023_
 
-Medici, ragazzo poteva essere salvato se soccorso
+Meloni: 'Il centrodestra ha visione comune. Soddisfatta per la compattezza e il grande lavoro di squadra'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Rapinato e strangolato in un B&b, domani autopsia su vittima](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/rapinato-e-strangolato-in-un-bb-domani-autopsia-su-vittima_a59dd922-5beb-4d27-bf80-4140324c2b9d.html)*
-_1-Aug-2023_
+### [Schianto Freccia: Del Dò è rientrato in Fvg](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/schianto-freccia-del-do-e-rientrato-in-fvg_9741fb78-03dc-42a5-bb57-1028c0220819.html)
+_18-Sep-2023_
 
-Cagliari, giovedì interrogatorio 20enne arrestato per il delitto
+E' in buone condizioni ma molto turbato
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Viola: 'In Lombardia c'è la colonizzazione della 'ndrangheta'](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/viola-in-lombardia-ce-la-colonizzazione-della-ndrangheta_b63f9b83-e2d2-42d2-8f23-13c0384d662a.html)*
-_1-Aug-2023_
+### [Ad Ancona Aldilapp, tombe geolocalizzate e bacheca virtuale](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/ad-ancona-aldilapp-tombe-geolocalizzate-e-bacheca-virtuale_2375f19b-614b-44a3-9e26-2e6de05980e6.html)
+_18-Sep-2023_
 
-Procuratore di Milano: 'Molte inchieste per reati economici'
+App Agevola visite a 90mila loculi, consegne di fiori e servizi
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Bezos a Procida, pranzo alla Corricella per il magnate Usa](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/bezos-a-procida-pranzo-alla-corricella-per-il-magnate-usa_05d8ea35-905d-4e8d-b0a7-8fc9286e8e13.html)*
-_1-Aug-2023_
+### [Accoltellò 6 persone ad Assago, condannato a oltre 19 anni](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/accoltello-6-persone-ad-assago-condannato-a-oltre-19-anni_058eecaa-d356-48b7-b4e5-5a783531909a.html)
+_18-Sep-2023_
 
-Con il fondatore di Amazon anche Kris Jenner
+Decisione gup di Milano in processo con rito abbreviato
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Omicidio di Sofia, il killer interrogato per quasi cinque ore](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/omicidio-di-sofia-il-killer-interrogato-per-quasi-cinque-ore_f76263e5-e520-460d-a697-c0ba8cf461a0.html)*
-_1-Aug-2023_
+### [Accoltellò 6 persone ad Assago, condannato a oltre 19 anni](https://www.ansa.it/sito/notizie/flash/2023/09/18/-accoltello-6-persone-ad-assago-condannato-a-oltre-19-anni-_4034655d-cfd0-4ce1-acf2-190d247e3cde.html)
+_18-Sep-2023_
 
-Ha risposto alle domande, ora è attesa la convalida
+Decisione gup di Milano in processo con rito abbreviato
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Yutuber 93enne testimonial della campagna antitruffe ad anziani](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/yutuber-93enne-testimonial-della-campagna-antitruffe-ad-anziani_9f15635f-7191-4283-af5f-735efda7c182.html)*
-_1-Aug-2023_
+### [E' morta in ospedale la donna investita da un mezzo Amsa](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/e-morta-in-ospedale-la-donna-investita-da-un-mezzo-amsa_823206bb-2e43-43cc-97e0-02e13f2cb7d4.html)
+_18-Sep-2023_
 
-A Viterbo, si chiama Licia Fertz e ha oltre 200mila follower
+Aveva 75 anni, l'incidente stamattina in via Trasimeno
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Scontro fra auto a Milano, grave un passante travolto](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/scontro-fra-auto-a-milano-grave-un-passante-travolto_a675aee9-92e4-4398-9b5d-3e39e1330dea.html)*
-_1-Aug-2023_
+### [Arcivescovo Palermo, 'non c'è alcuna invasione di migranti'](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/arcivescovo-palermo-non-ce-alcuna-invasione-di-migranti_7b1f85b9-180c-4f1f-9b5e-e10cb02a37d6.html)
+_18-Sep-2023_
 
-Feriti anche i conducenti delle vetture
+Appello mons. Lorefice, "Don Pino Puglisi li accoglierebbe"
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Dopo un anno di ricovero chiede di rivedere il suo cane Buk](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/dopo-un-anno-di-ricovero-chiede-di-rivedere-il-suo-cane-buk_7441a532-0c67-4fda-abe0-45b81df9f588.html)*
-_1-Aug-2023_
+### [Meteo: previsto maltempo al Nord, sole e caldo al Centrosud](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/meteo-previsto-maltempo-al-nord-sole-e-caldo-al-centrosud_04c0a28e-cfea-4a72-8b66-a3f7639a8407.html)
+_18-Sep-2023_
 
-L'ospedale Niguarda di Milano esaudisce il desiderio di Roberto
+Due perturbazioni al settentrione in prima parte della settimana
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[14enne muore investito da auto pirata nel veronese](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/14enne-muore-investito-da-auto-pirata-nel-veronese_3a935f6f-c3d1-4bc3-8579-039319435df6.html)*
-_1-Aug-2023_
+### [Incubo terremoto sulle frane, controlli in corso su case](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/incubo-terremoto-sulle-frane-controlli-in-corso-su-case-_126dfeed-e357-4abc-8b82-18b219d1b3dd.html)
+_18-Sep-2023_
 
-Incidente verso mezzanotte, deceduto in ospedale
+Tende in giardino in attesa della verifica sull'agibilità
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Salta ordinanza sul numero chiuso a Cala Luna, sarà dal 2024](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/salta-ordinanza-sul-numero-chiuso-a-cala-luna-sara-dal-2024_ebcdc2e1-25b6-4114-9f1d-d1417bf8f794.html)*
-_1-Aug-2023_
+### [Investita da un camion dei rifiuti, muore una donna di 75 anni](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/donna-investita-da-un-mezzo-amsa-gravissima_51914d6c-22b9-4a81-9350-c81cf71ce060.html)
+_18-Sep-2023_
 
-Dietrofront sindaca di Dorgali dopo incontro col prefetto
+Ciclista investita da autobus, trauma alla gamba
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Totem ricorda 'Vite interrotte il 2 agosto 1980' a Bologna](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/totem-ricorda-vite-interrotte-il-2-agosto-1980-a-bologna_c80e7917-3604-4a93-9a0b-5dd5e783bdd8.html)*
-_1-Aug-2023_
+### [Da Venezia a Castel Volturno, Mamadou ricorda strage dei ghanesi](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/da-venezia-a-castel-volturno-mamadou-ricorda-strage-dei-ghanesi_b9e543f4-eb80-481f-9252-508c9516f07f.html)
+_18-Sep-2023_
 
-Chi erano le 85 vittime nei racconti e voci di studenti e attori
+Per anniversario parla con studenti."No a Cpr,ora flussi legali"
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Esorcismi su bambino di 9 anni, indagati padre e nonna](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/esorcismi-su-bambino-di-9-anni-indagati-padre-e-nonna_4f7ec762-f524-438f-b38b-90b12b60b0a4.html)*
-_1-Aug-2023_
+### [Donna investita da un mezzo Amsa a Milano, gravissima](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/donna-investita-da-un-mezzo-amsa-a-milano-gravissima_9db96ebd-039a-4ffa-8352-921201671974.html)
+_18-Sep-2023_
 
-Inchiesta Procura di Tempio Pausania, tolta la custodia ai due
+Settantenne portata in arresto cardiaco al San Raffaele
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Apre a Chioggia la mostra dell'Uomo della Sindone](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/apre-a-chioggia-la-mostra-delluomo-della-sindone_e7f60fa1-d76d-4b31-a666-a57148db02d7.html)*
-_1-Aug-2023_
+### [Accoltellò sei persone ad Assago, pm chiede condanna a 20 anni](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/accoltello-sei-persone-ad-assago-pm-chiede-condanna-a-20-anni_20608391-9cfc-47bb-a2ce-eaeb4276c258.html)
+_18-Sep-2023_
 
-Dopo l'esposizione in Spagna la prima tappa in Italia
+Tombolini al giudice: "Chiedo scusa, non so cosa mi sia preso"
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Code al traforo Monte Bianco, due ore di attesa in Francia](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/code-al-traforo-monte-bianco-due-ore-di-attesa-in-francia_5df50cc1-5779-4ecc-9190-a075d5838bf8.html)*
-_1-Aug-2023_
+### [++ Pm, '7 anni e mezzo per ex assistente Gina Lollobrigida' ++](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/-pm-7-anni-e-mezzo-per-ex-assistente-gina-lollobrigida-_a2648eea-ddd6-47ce-8846-27696fe28e60.html)
+_18-Sep-2023_
 
-Con l'esodo estivo traffico in aumento anche in Italia
+Piazzolla è accusato a Roma di circonvenzione di incapace
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Autonomia: Zaia,Governo vada avanti, è impegno con cittadini](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/autonomia-zaiagoverno-vada-avanti-e-impegno-con-cittadini_abf30d96-7184-407a-8457-39a6eb42981d.html)*
-_1-Aug-2023_
+### [Pm, '7 anni e mezzo per ex assistente Gina Lollobrigida'](https://www.ansa.it/sito/notizie/flash/2023/09/18/-pm-7-anni-e-mezzo-per-ex-assistente-gina-lollobrigida-_321b4afd-6f35-41ee-86c8-634087078270.html)
+_18-Sep-2023_
 
-'Non approvarla sarebbe un fallimento"
+Piazzolla è accusato a Roma di circonvenzione di incapace
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Uccide la ex: oggi il killer sarà interrogato in carcere a Monza](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/uccide-la-ex-oggi-il-killer-sara-interrogato-in-carcere-a-monza_a345ca50-15ab-4729-b5f1-0846a782a8d7.html)*
-_1-Aug-2023_
+### [Maxi sequestro di farmaci dopanti, due personal trainer nei guai](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/maxi-sequestro-di-farmaci-dopanti-due-personal-trainer-nei-guai_9750d1f1-f992-42ac-aac1-d0a1f31a6c03.html)
+_18-Sep-2023_
 
-Ha già confessato di aver ammazzato la ragazza a coltellate
+Denunciati dai finanzieri nel Napoletano: a casa più 95mila dosi
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *['Ndrangheta, 18 arresti e sequestro di beni per 12 milioni](https://www.ansa.it/sito/notizie/cronaca/2023/08/01/ndrangheta-18-arresti-e-sequestro-di-beni-per-12-milioni_37a0971a-8e53-4dc0-af24-0aa26f50e807.html)*
-_1-Aug-2023_
+### [Ok Ue a 20,9 milioni aiuti all'Italia per alluvioni Marche](https://www.ansa.it/sito/notizie/flash/2023/09/18/-ok-ue-a-209-milioni-aiuti-allitalia-per-alluvioni-marche-_ac305096-6f6f-4975-a543-8624c39ab255.html)
+_18-Sep-2023_
 
-Confermati i sigilli a villaggio turistico del Vibonese
+L'assistenza sarà erogata dal Fondo di solidarietà europeo
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-## *[Ansa politica](https://www.ansa.it/sito/notizie/politica/politica.shtml)*
-### *[Dal Cdm arriva l'obbligo di assicurazione per i monopattini](https://www.ansa.it/sito/notizie/politica/2023/08/03/dal-cdm-arriva-lobbligo-di-assicurazione-per-i-monopattini_e592f7e9-228b-428e-a6b6-d034d0f81a38.html)*
-_3-Aug-2023_
+### [Arrestato corriere della droga, trasportava 40 chili di hascisc](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/arrestato-corriere-della-droga-trasportava-40-chili-di-hascisc_7afe603c-4eee-4de8-8a43-307ee48f4fdb.html)
+_18-Sep-2023_
 
-Approvato in via preliminare lo schema di decreto legislativo
+Bloccato dalla Finanza agli imbarcaderi di Villa S.Giovanni
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Dl caldo: via libera dell'Aula del Senato con 86 sì](https://www.ansa.it/sito/notizie/politica/2023/08/03/dl-caldo-via-libera-dellaula-del-senato-con-86-si_63ba7f16-df0a-49f6-a76f-d18b5007a0dd.html)*
-_3-Aug-2023_
+### [Terremoto sull'Appennino, scossa 4.9 al confine tra Toscana ed Emilia-Romagna](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/terremoto-di-magnitudo-4.8-in-provincia-di-firenze_e7f3c91b-8892-4bea-a1f9-d75ae927fc34.html)
+_18-Sep-2023_
 
-Il provvedimento passa all'esame della Camera
+Nel Forlivese 'temiamo centinaia di sfollati'. Al lavoro per trovare soluzioni per chi è rimasto fuori casa
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Le opposizioni, ora raccolta firme per il salario minimo](https://www.ansa.it/sito/notizie/politica/2023/08/03/le-opposizioni-ora-raccolta-firme-per-il-salario-minimo_e09d4a9e-b661-434f-9a5c-f33bea90555d.html)*
-_3-Aug-2023_
+### [Recuperati in nottata due escursionisti rimasti bloccati](https://www.ansa.it/sito/notizie/cronaca/2023/09/18/recuperati-in-nottata-due-escursionisti-rimasti-bloccati_10124060-4f5b-4309-9ac2-625f5e041c6f.html)
+_18-Sep-2023_
 
-L'iniziativa lanciata dopo lo stop alla Camera
+Nel pordenonese. Erano privi di torcia, il buio li ha fermati
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Camera: addio al cicalino 'non stop' in Transatlantico](https://www.ansa.it/sito/notizie/politica/2023/08/03/camera-addio-al-cicalino-non-stop-in-transatlantico_8f515a18-7998-4232-a604-6760af37b063.html)*
-_3-Aug-2023_
+## [Ansa politica](https://www.ansa.it/sito/notizie/politica/politica.shtml)
+### [Migranti, appello della Meloni all'Onu: lotta globale ai trafficanti](https://www.ansa.it/sito/notizie/politica/2023/09/21/migranti-meloni-lonu-non-puo-voltarsi-dallaltra-parte_07a281c9-52c1-4a96-8cd2-f94207e89a67.html)
+_21-Sep-2023_
 
-'Sirena' attiva solo per i dieci minuti successivi a inizio voto
+"Le Nazioni Unite non si voltino dall'altra parte. Riforma per un Consiglio di sicurezza equo ed efficace"
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Vitalizi: Fassino, fatta operazione verità ma sono stato ingenuo](https://www.ansa.it/sito/notizie/politica/2023/08/03/vitalizi-fassino-fatta-operazione-verita-ma-sono-stato-ingenuo_8abaeb23-21be-4694-8766-b3416cfac81a.html)*
-_3-Aug-2023_
+### [Conte a Lampedusa, ferri corti col Pd sui migranti](https://www.ansa.it/sito/notizie/politica/2023/09/20/conte-a-lampedusa-ferri-corti-col-pd-sui-migranti_d91e354a-3158-4576-b64e-2634d0d3f757.html)
+_21-Sep-2023_
 
-In questo Paese è diventato ormai difficile ragionare
+Majorino, fa polemiche inutili. Leader M5s, dal governo bluff
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Fonti P.Chigi, non ci sarà una patrimoniale](https://www.ansa.it/sito/notizie/politica/2023/08/03/fonti-p.chigi-non-ci-sara-una-patrimoniale_d146187e-d26c-4cdd-b170-98bb70352877.html)*
-_3-Aug-2023_
+### [Per Meloni cena italiana con lo staff a New York, non parla al Consiglio di sicurezza dell'Onu](https://www.ansa.it/sito/notizie/politica/2023/09/20/per-meloni-cena-italiana-con-lo-staff-a-new-york_f96b5d7c-8be0-41d1-a21f-ccf27f4a4820.html)
+_20-Sep-2023_
 
-Valutata come chiesto proposta Fratoianni, non le daremo seguito
+Non va alla cena di Biden, serata in pizzeria. Appello sui migranti: 'Serve l'aiuto di tutti'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Meloni vede i capigruppo, punto sui principali dossier e sulla manovra](https://www.ansa.it/sito/notizie/politica/2023/08/03/meloni-vede-i-capigruppo-punto-su-principali-dossier-e-manovra_302c20d3-294b-49aa-bdc4-ee4c6bfc31f0.html)*
-_3-Aug-2023_
+### [Cpr: Crosetto, controllati da forze dell'ordine non da esercito](https://www.ansa.it/sito/notizie/politica/2023/09/20/cpr-crosetto-controllati-da-forze-dellordine-non-da-esercito_ef06f5db-7ba5-48f3-b1e2-9b827ae7bfc6.html)
+_20-Sep-2023_
 
-Pranzo insieme a Tajani e Salvini per fare i punto sui lavori alla ripresa
+Ministro della Difesa ripsonde a giornalisti alla Camera
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Schlein, buona notizia per il Paese l'ok sull'oblio oncologico](https://www.ansa.it/sito/notizie/politica/2023/08/03/schlein-buona-notizia-per-il-paese-lok-sulloblio-oncologico_72c8bef6-86ec-4e82-be2d-9c244cd1368b.html)*
-_3-Aug-2023_
+### [L'osservatorio permanente giovani editori ospita il fondatore e ceo di snapchat Evan Spiegel](https://www.ansa.it/sito/notizie/politica/2023/09/20/losservatorio-permanente-giovani-editori-ospita-il-fondatore-e-ceo-di-snapchat-evan-spiegel_bcc03ffe-d99f-4ee9-84c9-10414c45de11.html)
+_20-Sep-2023_
 
-"È stata approvata una legge di civiltà"
+Intervento il 26 ottobre a un appuntamento del ciclo sul dialogo internazionale per connettere i giovani al futuro
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Fonti governo, dispersione scolastica priorità ma no nuove tasse](https://www.ansa.it/sito/notizie/politica/2023/08/03/fonti-governo-dispersione-scolastica-priorita-ma-no-nuove-tasse_4779960b-f552-4d96-8b08-90c32d5012d8.html)*
-_3-Aug-2023_
+### [Mattarella a Steinmeier: 'Le regole di bilancio Ue non siano ottuse'](https://www.ansa.it/sito/notizie/politica/2023/09/20/mattarella-a-steinmeier-le-regole-di-bilancio-ue-non-siano-ottuse_197d92bf-f571-4aba-a32b-8e345102a397.html)
+_20-Sep-2023_
 
-Ministero dell'Istruzione precisa, puntiamo a incremento risorse
+Il capo dello Stato: 'Con la Germania relazioni straordinarie'.  Colloquio ad Ortigia
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mattarella con 5 Capi di Stato, crisi clima a livelli esplosivi](https://www.ansa.it/sito/notizie/politica/2023/08/03/mattarella-con-5-capi-di-stato-crisi-clima-a-livelli-esplosivi_f635db13-05ed-4a60-8e69-12751864bd15.html)*
-_3-Aug-2023_
+### [Salvini: "Von der Leyen pontifica, non fa nulla sul Brennero"](https://www.ansa.it/sito/notizie/politica/2023/09/20/salvini-von-der-leyen-pontifica-non-fa-nulla-sul-brennero_ee9d9f1a-7266-4bb7-b394-075a0b05298e.html)
+_20-Sep-2023_
 
-"Non c'è più tempo da perdere, è imperativo agire"
+"Chiede accoglienza a Lampedusa e blinda il confine con l'Austria"
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[La Camera approva la legge sul diritto all'oblio oncologico](https://www.ansa.it/sito/notizie/politica/2023/08/03/la-camera-approva-la-legge-sul-diritto-alloblio-oncologico_926cf2f7-7de6-4071-96dd-3bfea10eec11.html)*
-_3-Aug-2023_
+### [Migranti: Lo Russo, 'a Torino la situazione è al limite'](https://www.ansa.it/sito/notizie/politica/2023/09/20/migranti-lo-russo-a-torino-la-situazione-e-al-limite_72e5a74a-0d77-4590-9f3f-b4d69222e96d.html)
+_20-Sep-2023_
 
-Ok unanime al testo, che ora passa al Senato. Passa anche la legge sull'introduzione delle competenze non cognitive a scuola
+Sindaco: 'Serve un'iniziativa forte del governo'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Tassa patrimoniale, alla Camera passa odg di Sinistra Italiana](https://www.ansa.it/sito/notizie/politica/2023/08/03/tassa-patrimoniale-alla-camera-passa-odg-di-sinistra-italiana_93b6efc7-f49d-4d3e-baff-8404de23f7a4.html)*
-_3-Aug-2023_
+### [Lo sport entra in Costituzione, ok definitivo della Camera](https://www.ansa.it/sito/notizie/politica/2023/09/20/lo-sport-entra-in-costituzione-ok-definitivo-della-camera_4c75ead3-523d-4ab1-a646-4d7e5e50741d.html)
+_20-Sep-2023_
 
-Ok del governo: 'Reperire fondi contro la dispersione scolastica'
+La proposta approvata all'unanimità con 312 sì
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Il Papa a Cascais, inaugura il murale più grande del mondo](https://www.ansa.it/sito/notizie/politica/2023/08/03/il-papa-a-cascais-inaugura-il-murale-piu-grande-del-mondo_6d2eb575-5630-49b4-a37b-afb8fc4b7560.html)*
-_3-Aug-2023_
+### [Lunedì la cabina sul Pnrr per la terza, quarta e quinta rata](https://www.ansa.it/sito/notizie/politica/2023/09/20/lunedi-la-cabina-sul-pnrr-per-la-terza-quarta-e-quinta-rata_6942fa2d-83ce-4e01-8b82-1fda0d407e57.html)
+_20-Sep-2023_
 
-Lungo 3,5 chilometri. Francesco, "E' come una Cappella Sistina"
+Ci saranno Meloni con i ministri, Regioni, Province e Comuni
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mattarella non molla sul clima, appello con 5 capi di Stato](https://www.ansa.it/sito/notizie/politica/2023/08/03/mattarella-e-altri-5-capi-di-stato-lanciano-un-appello-per-il-clima_a292118a-fba7-42f8-aafc-533ce6f8e8f7.html)*
-_4-Aug-2023_
+### [Lo sport entra in Costituzione, ok definitivo alla proposta di legge](https://www.ansa.it/sito/notizie/politica/2023/09/20/ok-definitivo-alla-pdl-per-tutela-sport-in-costituzione-_74ac0ac4-1750-4605-ad36-52b32b2c2356.html)
+_20-Sep-2023_
 
-'Tutti i Paesi del Mediterraneo devono coordinarsi e reagire'. Il Papa ai giovani: "Potete vincere la sfida"
+Abodi: 'Ora nobilitare e attuare riforma'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Tajani convocherà il congresso di Forza Italia il 24 e 25 febbraio](https://www.ansa.it/sito/notizie/politica/2023/08/03/tajani-propone-il-congresso-di-forza-italia-per-il-24-e-25-febbraio_b49898b5-4922-40ad-9998-ae8d4bf4bc6f.html)*
-_3-Aug-2023_
+### [Lunedì cabina per il Pnrr con Meloni, su terza, quarta e quinta rata](https://www.ansa.it/sito/notizie/politica/2023/09/20/lunedi-cabina-per-il-pnrr-con-meloni-su-terza-quarta-e-quinta-rata_c7fdb457-7113-42cc-b2b2-970b10d665a8.html)
+_20-Sep-2023_
 
-Votata all'unanimità anche la candidatura di Galliani a Monza
+Convocata da Fitto, con ministri, Regioni, Province e Comuni
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Fi vota a unanimità congresso 24 e 25 febbraio a Roma](https://www.ansa.it/sito/notizie/politica/2023/08/03/fi-vota-a-unanimita-congresso-24-e-25-febbraio-a-roma_64806c7f-9545-47a4-b535-555f7ddd3e44.html)*
-_3-Aug-2023_
+### [Segre in Senato per il via alla commissione anti-odio](https://www.ansa.it/sito/notizie/politica/2023/09/20/segre-in-senato-per-il-via-alla-commissione-anti-odio-_a6865014-ea4e-41d0-8ec8-ff335945b864.html)
+_20-Sep-2023_
 
-Voto unanime segreteria anche su Galliani a suppletive Monza
+La senatrice a vita ha incontrato anche il presidente La Russa
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Dl pa2: ministro Ciriani pone la fiducia al Senato](https://www.ansa.it/sito/notizie/politica/2023/08/03/dl-pa2-ministro-ciriani-pone-la-fiducia-al-senato_de391682-21a3-4e7b-a499-9123ae306305.html)*
-_3-Aug-2023_
+### [La Camera approva pdl che introduce l'omicidio nautico, è legge](https://www.ansa.it/sito/notizie/politica/2023/09/20/la-camera-approva-pdl-che-introduce-lomicidio-nautico-e-legge_ee21745e-6608-4d95-93cf-8e433f876dea.html)
+_20-Sep-2023_
 
-Sono iniziate le dichiarazioni di voto
+Voti a favore 268, un solo no
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ok della Camera alla sospensiva sul salario minimo, l'opposizione: 'Vergogna"](https://www.ansa.it/sito/notizie/politica/2023/08/03/ok-della-camera-alla-sospensiva-sul-salario-minimo-lopposizione-vergogna_745a679e-e15a-48c3-9165-4fd79b27eb60.html)*
-_3-Aug-2023_
+### [Due condizioni per tenere il migrante fino a 18 mesi in Cpr](https://www.ansa.it/sito/notizie/politica/2023/09/20/due-condizioni-per-tenere-il-migrante-fino-a-18-mesi-in-cpr_bdb00d8f-2431-4bf3-ac93-236166ff41a4.html)
+_20-Sep-2023_
 
-Schlein: 'La maggioranza fugge'. Conte: 'Dialogo con Meloni? Solo parole'
+Dl in Gazzetta Ufficiale: se non collabora o se ritardi nell'ottenere documenti
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Rinviati i lavori sull'Autonomia, un emendamento di Fdi riscrive il testo sui Lep](https://www.ansa.it/sito/notizie/politica/2023/08/03/autonomia-rimandato-a-settembre-il-voto-sugli-emendamenti_eb7a278e-0c7a-447d-a102-b915faadf2a7.html)*
-_3-Aug-2023_
+### [Schlein, finalmente il diritto allo sport entra in Costituzione](https://www.ansa.it/sito/notizie/politica/2023/09/20/schlein-finalmente-il-diritto-allo-sport-entra-in-costituzione_9216aee7-0763-4e28-9315-f00e7e283ae6.html)
+_20-Sep-2023_
 
-L'esame in commissione Affari costituzionali del Senato
+Grazie ad un forte lavoro del Pd
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-## *[Ansa mondo](https://www.ansa.it/sito/notizie/mondo/mondo.shtml)*
-### *[Cisgiordania, palestinese ucciso in scontri con l'esercito](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/04/cisgiordania-palestinese-ucciso-in-scontri-con-lesercito_72615488-4918-40fb-87db-cabebd64c151.html)*
-_4-Aug-2023_
+### [Dall'Ue stop alle etichette generiche come 'ecologico' e 'naturale'](https://www.ansa.it/sito/notizie/politica/2023/09/20/dallue-stop-alle-etichette-generiche-come-ecologico-e-naturale_34aca619-f4f4-43a2-8f6f-23d6f4849089.html)
+_20-Sep-2023_
 
-Radio militare: Tulkarem, violenti disordini e spari su soldati
+Accordo Pe-Consiglio contro dichiarazioni ambientali ingannevoli
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mosca, 'sventato attacco in Crimea, distrutti 13 droni'](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/04/mosca-sventato-attacco-in-crimea-distrutti-13-droni_1fea2e89-f3af-4f6a-adeb-7d9043730363.html)*
-_4-Aug-2023_
+### [Migranti, scontro sui Cpr.  Piantedosi: 'Dialogo, ma imporremo la linea'](https://www.ansa.it/sito/notizie/politica/2023/09/20/migranti-bonaccini-quelle-sui-cpr-sono-parole-al-vento_c81f9e95-0aab-4a5b-bca7-ebad9b9ff399.html)
+_20-Sep-2023_
 
-Difesa: '10 abbattuti e 3 neutralizzati da sistemi elettronici'
+In Alto Adige c'è già accordo su luogo, poi ipotesi Ventimiglia
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Un palestinese ucciso in scontri con l'esercito in Cisgiordania](https://www.ansa.it/sito/notizie/mondo/2023/08/04/un-palestinese-ucciso-in-scontri-con-lesercito-in-cisgiordania_96b7535b-8da6-4927-99e5-e0eb170661d0.html)*
-_4-Aug-2023_
+## [Ansa mondo](https://www.ansa.it/sito/notizie/mondo/mondo.shtml)
+### [Iran, normalizzazione Riad-Israele tradimento palestinesi](https://www.ansa.it/sito/notizie/mondo/mediooriente/2023/09/21/iran-normalizzazione-riad-israele-tradimento-palestinesi_6adbad51-04a3-4735-9118-d129d319dccc.html)
+_21-Sep-2023_
 
-Colpito a morte nel campo profughi di Nur Shams
+Il presidente Raisi a margine dell'Assemblea generale dell'Onu
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mosca, 'distrutti due droni a Novoriossijsk'](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/04/mosca-distrutti-due-droni-a-novoriossijsk_a4f3ff47-0f36-420c-a406-9d237eac873a.html)*
-_4-Aug-2023_
+### [Bombardamenti russi sull'Ucraina, 2 morti e 5 feriti a Kherson](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/21/bombardamenti-russi-sullucraina-3-morti-e-5-feriti-a-kherson_5c4eb00e-0fe3-4a6f-9985-7756eef32ecb.html)
+_21-Sep-2023_
 
-Difesa: 'Hanno tentato di attaccare la base navale'
+Almeno 7 feriti a Kiev e 5 a Cherkasy. Mosca: abbattuti 19 droni sul Mar Nero e sulla Crimea
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mosca, Shoigu visita i soldati russi sul fronte ucraino](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/04/mosca-shoigu-visita-i-soldati-russi-sul-fronte-ucraino_066f7c06-b452-4ac6-aadc-afee25e70912.html)*
-_4-Aug-2023_
+### [Xi ad apertura dei Giochi asiatici di Hangzhou, vedrà Assad](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/21/xi-ad-apertura-dei-giochi-asiatici-di-hangzhou-vedra-assad_d8fc83dd-22f6-45ed-9330-b7ce3e3b9638.html)
+_21-Sep-2023_
 
-Ministro della Difesa russo ringrazia ufficiali in zona Lyman
+In programma sabato 23 settembre
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Spiavano per la Cina, arrestati due marinai Usa](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/04/spiavano-per-la-cina-arrestati-due-marinai-usa_38f58a49-a360-45d2-936f-4011a53abdc1.html)*
-_4-Aug-2023_
+### [La Polonia si smarca, 'non daremo più armi a Kiev'](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/21/la-polonia-si-smarca-non-daremo-piu-armi-a-kiev_051bd646-a45d-4ed4-b575-9612e0782bfc.html)
+_21-Sep-2023_
 
-'Hanno trasmesso informazioni sulla difesa classificate'
+L'annuncio di Morawiecki dopo le tensioni sull'embargo al grano
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mosca, sventati attacchi Kiev su Crimea e base navale in Russia](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/04/mosca-sventati-attacchi-kiev-su-crimea-e-base-navale-in-russia_533ba906-90a7-4799-a912-13af2af689b0.html)*
-_4-Aug-2023_
+### [Tajani all'Onu,'l'Italia è con Kiev, Vogliamo pace giusta'](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/21/tajani-allonulitalia-e-con-kiev-vogliamo-pace-giusta_4c3432a0-623f-45c9-b9d1-c0f76242d8ea.html)
+_21-Sep-2023_
 
-Difesa: 'Distrutti 13 droni aerei e due droni marini
+'Saremo in prima linea nella ricostruzione dell'Ucraina'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mosca, sventati attacchi ucraini sulla Crimea e una base navale in Russia](https://www.ansa.it/sito/notizie/mondo/2023/08/04/mosca-sventati-attacchi-ucraini-su-crimea-e-base-navale-in-russia_40fe5743-9f15-43c0-9243-614795675059.html)*
-_4-Aug-2023_
+### [Il presidente siriano Assad è arrivato in Cina](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/21/il-presidente-siriano-assad-e-arrivato-in-cina_ac58cab6-9516-4eb5-a530-95d1cd4840fd.html)
+_21-Sep-2023_
 
-La Difesa: 'Distrutti 13 droni aerei e due droni marini'
+Parteciperà all'apertura dei Giochi asiatici e vedrà Xi Jinping
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Presidente Niger, 'da golpe possibile effetto devastante'](https://www.ansa.it/sito/notizie/mondo/africa/2023/08/04/presidente-niger-da-golpe-possibile-effetto-devastante_e4a494d8-135e-4616-956a-72734ee3f3c6.html)*
-_4-Aug-2023_
+### [Haiti: gang minacciano di cacciare il governo e la forza Onu](https://www.ansa.it/sito/notizie/mondo/americalatina/2023/09/21/haiti-gang-minacciano-di-cacciare-il-governo-e-la-forza-onu_b4f655cb-6a4a-4b61-8405-67e35e4efef8.html)
+_21-Sep-2023_
 
-Bazoum: 'Rischio influenza di Mosca su Regione del Sahel'
+Il loro principale boss è sceso in piazza con vari uomini armati
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Serial killer giustiziato con un'iniezione letale in Florida](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/04/serial-killer-giustiziato-con-uniniezione-letale-in-florida_bf6a765a-0d51-406c-a0f0-ac6e9fa5ecab.html)*
-_4-Aug-2023_
+### [Ucraina: secondo attacco russo su Kherson, uccisa anziana](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/21/ucraina-secondo-attacco-russo-su-kherson-uccisa-anziana_7f4a8622-7e4c-4f5a-8c61-4cbac9a5d6de.html)
+_21-Sep-2023_
 
-Aveva ucciso la moglie e altre tre persone
+Kiev, abbattuti 36 missili da crociera su 43
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Niger: giunta, 'risponderemo a qualsiasi aggressione'](https://www.ansa.it/sito/notizie/mondo/africa/2023/08/04/niger-giunta-risponderemo-a-qualsiasi-aggressione_257154d6-05df-4b59-9623-517db68ed1ef.html)*
-_4-Aug-2023_
+### [Lula dopo l'incontro con Zelensky, 'una bella conversazione'](https://www.ansa.it/sito/notizie/mondo/americalatina/2023/09/21/lula-dopo-lincontro-con-zelensky-una-bella-conversazione_79b97223-196e-490b-897d-95d18de67b91.html)
+_21-Sep-2023_
 
-Da parte dei Paesi dell'Africa occidentale
+Primo faccia a faccia tra i due leader a New York
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[I golpisti nel Niger, 'Risponderemo a qualsiasi aggressione'](https://www.ansa.it/sito/notizie/mondo/2023/08/04/i-golpisti-nel-niger-risponderemo-a-qualsiasi-aggressione_f6f0be86-a8f4-4818-babb-120130fc053c.html)*
-_4-Aug-2023_
+### [Iran: normalizzazione Arabia-Israele è tradimento palestinesi](https://www.ansa.it/sito/notizie/mondo/mediooriente/2023/09/21/iran-normalizzazione-arabia-israele-e-tradimento-palestinesi_621e8b54-1677-47f6-a749-052c34347ff8.html)
+_21-Sep-2023_
 
-Duro monito ai paesi dell'Ecowas. E Bazoum si appella agli Usa e la comunità internazionale
+Raisi all'Onu: sarebbe un colpo alle spalle
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Trump, 'sono stato arrestato da Biden perché sono in testa'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/04/trump-sono-stato-arrestato-da-biden-perche-sono-in-testa_3f7ce19c-b2da-4d1b-bacd-dfc80ff86018.html)*
-_4-Aug-2023_
+### [Biden: probabile nuovo scontro con Trump in 2024, posso batterlo](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/09/21/biden-probabile-nuovo-scontro-con-trump-in-2024-posso-batterlo_2f2bc30f-7d45-4953-bd75-50e2178e7100.html)
+_21-Sep-2023_
 
-'Washington sporca e pericolosa, ma è stata una buona giornata'
+Il presidente Usa: in gioco al voto c'è la democrazia
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Putin e leader africani, via gli ostacoli a esportazioni russe](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/04/putin-e-leader-africani-via-gli-ostacoli-a-esportazioni-russe_3b898360-a9fb-40bf-abc9-cc54eda65adf.html)*
-_4-Aug-2023_
+### [Imbarchi senza passaporto all'aeroporto di Singapore dal 2024](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/20/imbarchi-senza-passaporto-allaeroporto-di-singapore-dal-2024_db0370c0-4b08-4dc1-8d58-4ab538b5a5fe.html)
+_20-Sep-2023_
 
-'Avanti con dialogo su iniziativa di pace'
+Cnn: 'Saranno usati dati biometrici ed altri sistemi software'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *['Un uomo ha lanciato una granata in un'auto nel centro di Mosca'](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/04/un-uomo-ha-lanciato-una-granata-in-unauto-nel-centro-di-mosca_40e92e5d-06d8-464d-a75b-763ad6836f7b.html)*
-_4-Aug-2023_
+### [Attacco ucraino in Crimea, sospeso il traffico sul ponte](https://www.ansa.it/sito/notizie/mondo/africa/2023/09/20/attacco-ucraino-in-crimea-sospeso-il-traffico-sul-ponte_c8ae4e0d-d76e-4506-ae20-5bceb540999f.html)
+_20-Sep-2023_
 
-Lo riportano media russi
+Fumo vicino alla base militare russa nella Penisola occupata
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Stoccolma, 55 feriti e circa 150 arresti a festival eritreo](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/04/stoccolma-55-feriti-e-circa-150-arresti-a-festival-eritreo_36c43f06-19fe-4e71-8ea4-90d69e516f56.html)*
-_4-Aug-2023_
+### [Polizia, il bimbo morto in asilo nido a Ny ucciso da fentanyl](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/09/20/polizia-il-bimbo-morto-in-asilo-nido-a-ny-ucciso-da-fentanyl_0bedc063-c29a-41dc-ab16-c665b2527fa6.html)
+_20-Sep-2023_
 
-Scontri tra manifestanti pro e contro il regime e con la polizia
+La droga nascosta sotto il materassino sul quale dormiva
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Trump si dichiara non colpevole, 'giorno triste per gli Usa'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/03/trump-si-dichiara-non-colpevole-giorno-triste-per-gli-usa_fb941dd9-cbe9-4eac-81a8-41e782774160.html)*
-_3-Aug-2023_
+### ['Biden annuncerà nuovo pacchetto aiuti domani a Zelensky'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/09/20/biden-annuncera-nuovo-pacchetto-aiuti-domani-a-zelensky_2a05cb44-de7c-435b-b648-c62f077d3d11.html)
+_20-Sep-2023_
 
-La prossima udienza fissata per il 28 agosto
+Lo annunciano fonti dell'amministrazione Usa
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Lula non esclude l'esplorazione petrolifera in Amazzonia](https://www.ansa.it/sito/notizie/mondo/americalatina/2023/08/03/lula-non-esclude-lesplorazione-petrolifera-in-amazzonia_be03b705-c4e3-44aa-9ce7-4a5d643a4379.html)*
-_3-Aug-2023_
+### [Clima: Guterres ai leader, 'il futuro è nelle vostre mani'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/09/20/clima-guterres-ai-leader-il-futuro-e-nelle-vostre-mani_61ea9986-453b-47f4-8760-d200c6352c7f.html)
+_20-Sep-2023_
 
-"Il divieto ambientale non è definitivo", ha detto il presidente
+'Aperte le porte dell'inferno, trasformare i piani in azione'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Disagi e disordini per sciopero dei minibus a Città del Capo](https://www.ansa.it/sito/notizie/mondo/africa/2023/08/03/disagi-e-disordini-per-sciopero-dei-minibus-a-citta-del-capo_29cacd4e-37b7-42dc-af71-8092e36b0635.html)*
-_3-Aug-2023_
+### ['Dress code fascista', in Austria una scuola espelle 12enne](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/20/dress-code-fascista-in-austria-una-scuola-espelle-12enne_8ac99b81-04f8-4457-82f9-16b994743af3.html)
+_20-Sep-2023_
 
-Protesta contro normativa che impone targhe e patente
+Linea dura dell'istituto cattolico dopo le accuse della madre
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Niger, bloccato il segnale di France 24 e radio Rfi](https://www.ansa.it/sito/notizie/mondo/africa/2023/08/03/niger-bloccato-il-segnale-di-france-24-e-radio-rfi_6bb42e7a-71f4-4f32-ada1-635c3abea768.html)*
-_3-Aug-2023_
+### [Taiwan lancia il primo sottomarino anti Cina](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/20/taiwan-lancia-il-primo-sottomarino-anti-cina_ed308426-1472-4e1f-a5af-fa4a83f440f1.html)
+_20-Sep-2023_
 
-France Média Monde denuncia interruzione trasmissioni nel Paese
+A ottobre il varo, piano per 8 unità di fabbricazione nazionale
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[L'Isis conferma la morte del leader e nomina il successore](https://www.ansa.it/sito/notizie/mondo/mediooriente/2023/08/03/lisis-conferma-la-morte-del-leader-e-nomina-il-successore_005fbcb2-33b9-4729-9ff6-6bd977269902.html)*
-_3-Aug-2023_
+### [Gb: annunciato sciopero di due giorni per la metro di Londra](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/20/gb-annunciato-sciopero-di-due-giorni-per-la-metro-di-londra_224e2ede-95fc-4f52-9f7e-5d7cf4fa6cf6.html)
+_20-Sep-2023_
 
-Il nuovo 'Califfo' è Abu Hafs al-Qurashi
+In vertenza con ente della capitale su tagli e condizioni lavoro
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Il narco in fuga in un video ringrazia la polizia per l'aiuto](https://www.ansa.it/sito/notizie/mondo/americalatina/2023/08/03/il-narco-in-fuga-in-un-video-ringrazia-la-polizia-per-laiuto_708a5cff-b7f1-4483-93a0-dff5fa59d97b.html)*
-_3-Aug-2023_
+### [Museo Esma Patrimonio Unesco, gioia delle Nonne di Plaza de Mayo](https://www.ansa.it/sito/notizie/mondo/americalatina/2023/09/20/museo-esma-patrimonio-unesco-gioia-delle-nonne-di-plaza-de-mayo_903304e3-dde3-493e-8761-fc44f1aba79a.html)
+_20-Sep-2023_
 
-Marset al centro di una caccia all'uomo internazionale
+'Riconoscimento delle politiche dei diritti umani' in Argentina
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Trump, mi serve un'altra incriminazione per vincere](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/03/trump-mi-serve-unaltra-incriminazione-per-vincere_e7b85e13-541f-4470-9cdf-337959ffaf9f.html)*
-_3-Aug-2023_
+### [007 Kiev, 'Kadyrov è vivo, ma le sue condizioni sono gravi'](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/20/007-kiev-kadyrov-e-vivo-ma-le-sue-condizioni-sono-gravi_dbdd59cb-23b6-4775-afd2-41aff58d4f7e.html)
+_20-Sep-2023_
 
-Il tycoon ai sostenitori: 'Mi faccio arrestare per voi!'
+'La sua salute sta già influenzando il regime politico russo'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Migranti: Tunisia ne soccorre 150 in tre operazioni](https://www.ansa.it/sito/notizie/mondo/africa/2023/08/03/migranti-tunisia-ne-soccorre-150-in-tre-operazioni_83de178e-3dca-4cb6-b7a3-760b2acd2b80.html)*
-_3-Aug-2023_
+### [Libia:Unesco teme per l'antica Cirene allagata dalle inondazioni](https://www.ansa.it/sito/notizie/mondo/africa/2023/09/20/libiaunesco-teme-per-lantica-cirene-allagata-dalle-inondazioni_537742cb-d1a7-4cb8-ba7c-742c26f98008.html)
+_20-Sep-2023_
 
-Tentativo di aggressione segnalato da Guardia costiera
+L'acqua potrebbe causare crolli nel sito Patrimonio dell'Umanità
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Medvedev, 'da inizio anno reclutati oltre 230mila soldati'](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/medvedev-da-inizio-anno-reclutati-oltre-230mila-soldati_41ed0ef6-157f-4d63-a670-348fe2993703.html)*
-_3-Aug-2023_
+### [In patrimonio Unesco 4 memoriali del genocidio in Ruanda](https://www.ansa.it/sito/notizie/mondo/africa/2023/09/20/in-patrimonio-unesco-4-memoriali-del-genocidio-in-ruanda_2e3e1c11-b674-4adc-8e44-e7b860ae94e2.html)
+_20-Sep-2023_
 
-A maggio aveva parlato di 120mila unità
+Nell'eccidio dei tutsi furono sterminate 800.000 persone
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Biden, non seguirò l'arresto di Donald Trump](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/03/biden-non-seguiro-larresto-di-donald-trump_14756b24-17da-41d2-a961-67b18b09e8b9.html)*
-_3-Aug-2023_
+### [Al via visita di Stato di Carlo e Camilla in Francia](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/20/al-via-visita-di-stato-di-carlo-e-camilla-in-francia_f09e0b57-50ac-4516-b783-9061e0fd620a.html)
+_20-Sep-2023_
 
-Il presidente Usa risponde ad una domanda dei giornalisti
+Dall'Arco di Trionfo e Versailles si celebra 'entente cordiale'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[New York pensa ad una tendopoli per i migranti a Central Park](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/03/new-york-pensa-ad-una-tendopoli-per-i-migranti-a-central-park_b822349e-e202-4260-8b0c-1ebb9f9aa9a0.html)*
-_3-Aug-2023_
+### [India, statuette grezze 'eco-friendly' per il festival di Ganesh](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/20/india-statuette-grezze-eco-friendly-per-il-festival-di-ganesh_6616e3a3-75c4-4818-b2fe-659eb20e121a.html)
+_20-Sep-2023_
 
-Il sindaco ipotizza anche Park Slope a Brooklyn,scoppia polemica
+Vietati gli idoli in 'gesso di Parigi': avvelenano l'ambiente
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[L'Ue allunga la black list di individui e entità bielorussi](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/lue-allunga-la-black-list-di-individui-e-entita-bielorussi_d5297d8f-4268-4450-ae53-89c3a0a4bdb7.html)*
-_3-Aug-2023_
+### [Migranti: in migliaia a nord di Sfax in attesa di partire](https://www.ansa.it/sito/notizie/mondo/africa/2023/09/20/migranti-in-migliaia-a-nord-di-sfax-in-attesa-di-partire_2592fcfb-301a-4c7d-b194-bcc5c81116ce.html)
+_20-Sep-2023_
 
-Nuove misure anche per i continui abusi di diritti umani a Minsk
+Per lo più cittadini subsahariani
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[>ANSA-FOCUS/Ny pensa a una tendopoli per migranti a Central Park](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/03/ansa-focus/ny-pensa-a-una-tendopoli-per-migranti-a-central-park_bb314687-3c21-407f-9a5a-fb9925f70d46.html)*
-_3-Aug-2023_
+### [Ruanda: il presidente annuncia candidatura per il quarto mandato](https://www.ansa.it/sito/notizie/mondo/africa/2023/09/20/ruanda-il-presidente-annuncia-candidatura-per-il-quarto-mandato_b7a8412a-d5f4-4e52-9a15-540039d806cf.html)
+_20-Sep-2023_
 
-Il sindaco ipotizza anche Park Slope a Brooklyn,scoppia polemica
+Paul Kagame ha confermato di voler concorrere a elezioni 2024
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Raduno scout in Corea del Sud, colpo di calore per almeno 400](https://www.ansa.it/sito/notizie/mondo/asia/2023/08/03/raduno-scout-in-corea-del-sud-colpo-di-calore-per-almeno-400_4b5c7ccb-515c-4339-9492-78d760f8049f.html)*
-_3-Aug-2023_
+### [Africa: crisi clima forza migrazioni elefanti e provoca strage](https://www.ansa.it/sito/notizie/mondo/africa/2023/09/20/africa-crisi-clima-forza-migrazioni-elefanti-e-provoca-strage_993005e7-0ed7-4589-80ed-c6ff34ba3d72.html)
+_20-Sep-2023_
 
-Partecipano al 25/mo World Scout Jamboree a Buan
+Uno studio ripreso dal Guardian rileva tasso mortalità 10,5%%
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Investe persone poi attacca a coltellate a Seul, 13 feriti](https://www.ansa.it/sito/notizie/mondo/asia/2023/08/03/investe-persone-poi-attacca-a-coltellate-a-seul-13-feriti_21bb15a1-33b3-4b43-affb-c92ad7511fa3.html)*
-_3-Aug-2023_
+### ['Esplosioni in Crimea, nell'area della flotta del Mar Nero'](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/20/esplosioni-in-crimea-nellarea-della-flotta-del-mar-nero_b67441a9-d12b-4a07-8c14-1c99239b8184.html)
+_20-Sep-2023_
 
-Dopo aver travolto pedoni è entrato in un grande magazzino
+Media: 'Deflagrazioni e fumo anche a Sebastopoli'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Navalny, 'domani mi aspetto una sentenza stalinista'](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/navalny-domani-mi-aspetto-una-sentenza-stalinista_56318e81-2b49-4892-8e4a-fc85ee81851a.html)*
-_3-Aug-2023_
+### [Kiev, sabotati aerei dell'Armageddon russa a 30 km da Mosca](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/20/kiev-sabotati-aerei-dellarmageddon-russa-a-30-km-da-mosca_68efbe32-f592-423e-83e0-8ea1f1ff8dd2.html)
+_20-Sep-2023_
 
-Per le accuse di 'estremismo' ritenute di matrice politica
+'Alla base militare di Chkalovsky, nella regione della capitale'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[La Polonia rafforza i controlli al confine bielorusso](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/la-polonia-rafforza-i-controlli-al-confine-bielorusso_3887371c-5a3f-46f8-88ac-4df3b5c68a1c.html)*
-_3-Aug-2023_
+### [Berlino, 'la Germania è oberata dai migranti'](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/20/berlino-la-germania-e-oberata-dai-migranti_2c167e38-899d-4827-a7ea-853ef29d6a3b.html)
+_20-Sep-2023_
 
-'Aumenta rischio di provocazioni, se serve pronti a usare armi'
+Portavoce del governo: 'Scholz ne è ben consapevole'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Trump, Biden ha chiesto alla giustizia di accusarmi](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/03/trump-biden-ha-chiesto-alla-giustizia-di-accusarmi_9456d5c2-e57d-4788-a350-b9be77d89435.html)*
-_3-Aug-2023_
+### [Effetto post-Covid in Cina sui matrimoni, +5,4% nei primi 6 mesi](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/20/effetto-post-covid-in-cina-sui-matrimoni-54-nei-primi-6-mesi_621056ce-b48d-4f10-b5db-e640b1c5c442.html)
+_20-Sep-2023_
 
-'I democratici non vogliono correre contro di me'
+Ripresa dopo 9 anni di cali, sale attività di banchetti e hotel
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Alta tensione a Niamey per la giornata dell'indipendenza](https://www.ansa.it/sito/notizie/mondo/africa/2023/08/03/alta-tensione-a-niamey-per-la-giornata-dellindipendenza_e43bbc42-0ab1-44fe-9098-d42bfe5cd1db.html)*
-_3-Aug-2023_
+### [Gb: retromarcia di Sunak sul clima, monta la polemica](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/20/gb-retromarcia-di-sunak-sul-clima-monta-la-polemica_2e80fcc7-76c1-4cb6-8723-026b04a7c283.html)
+_20-Sep-2023_
 
-Appello di Biden ai golpisti ma Tchiani replica: 'non cediamo'
+Bando auto sarà rinviato da 2030 a 2305, ma anche Ford è contro
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Nuovi scontri tra palestinesi in sud Libano, morti salgono a 13](https://www.ansa.it/sito/notizie/mondo/mediooriente/2023/08/03/nuovi-scontri-tra-palestinesi-in-sud-libano-morti-salgono-a-13_30396e07-3555-45a4-832a-27cbe408a80b.html)*
-_3-Aug-2023_
+### [Media, separatisti Karabakh decidono di deporre le armi](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/20/media-separatisti-karabakh-decidono-di-deporre-le-armi_f492fe97-3357-420d-8f29-292ce57cb09d.html)
+_20-Sep-2023_
 
-Nel campo di Ain al Helwe alla periferia di Sidone
+'Accettate le proposte del comando dei peacekeeper russi'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Un'altra notte di guerra dei droni, a Kherson bombe sul filobus](https://www.ansa.it/sito/notizie/mondo/2023/08/03/unaltra-notte-di-guerra-dei-droni-a-kherson-bombe-sul-filobus_87ef9c36-0135-4715-95b7-4023185fd4db.html)*
-_3-Aug-2023_
+### [Yemen: terminati in maniera 'positiva' i colloqui di pace a Riad](https://www.ansa.it/sito/notizie/mondo/mediooriente/2023/09/20/yemen-terminati-in-maniera-positiva-i-colloqui-di-pace-a-riad_d4c2bdf8-c3c2-4b88-9ea1-05b28480450b.html)
+_20-Sep-2023_
 
-Russi e ucraini informano di attacchi notturni con velivoli senza equipaggio
+Sono durati cinque giorni, con la mediazione dell'Oman
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Cnn, per il 70% dei repubblicani la vittoria di Biden è illegittima](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/03/cnn-per-il-70-dei-repubblicani-vittoria-di-biden-e-illegittima_b7a01014-0710-4098-9550-109764d41e53.html)*
-_3-Aug-2023_
+### [Presidente Iran all'Onu, gli Usa ci tolgano le sanzioni](https://www.ansa.it/sito/notizie/mondo/mediooriente/2023/09/20/presidente-iran-allonu-gli-usa-ci-tolgano-le-sanzioni_1630657b-2787-4327-96bf-078415d5c5cd.html)
+_20-Sep-2023_
 
-Percentuale in aumento rispetto all'inizio dell'anno
+'Gli Usa hanno alimentato la guerra in Ucraina'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Giunta in porto la nave rimasta per una settimana in fiamme al largo dell'Olanda](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/giunta-in-porto-nave-per-una-settimana-in-fiamme-al-largo-olanda_5c3dc739-0b20-48b6-a0b2-1f17e269f712.html)*
-_3-Aug-2023_
+### [Zelensky all'Onu, 'un vertice mondiale per la pace'](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/20/zelensky-allonu-un-vertice-mondiale-per-la-pace_03674740-548c-4fb7-95d1-b86bcf9c1a6d.html)
+_20-Sep-2023_
 
-A bordo 500 auto elettriche, ma il disastro sarebbe scongiurato
+Mentre 'Putin spinge il mondo a guerra finale'. Appello di Biden
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Messico, senatrice indigena Galvez si candida alle presidenziali](https://www.ansa.it/sito/notizie/mondo/americalatina/2023/08/03/messico-senatrice-indigena-galvez-si-candida-alle-presidenziali_b639a7cd-e39d-411f-9ee3-140056613cd8.html)*
-_3-Aug-2023_
+### [Il Papa, tacciano le armi nel Nagorno-Karabakh](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/20/il-papa-tacciano-le-armi-nel-nagorno-karabakh_603ab3d6-2733-42d9-95b9-8c11e6809619.html)
+_20-Sep-2023_
 
-Il suo motto : 'Niente abbracci ai trafficanti'
+"Si compia ogni sforzo per trovare soluzioni pacifiche"
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Il Brasile cerca un ruolo da protagonista sul litio](https://www.ansa.it/sito/notizie/mondo/americalatina/2023/08/03/il-brasile-cerca-un-ruolo-da-protagonista-sul-litio_748dc877-656e-44a0-b0f8-0d9d5dc63ca5.html)*
-_3-Aug-2023_
+### [Iran, più sanzioni per le donne che non portano il velo](https://www.ansa.it/sito/notizie/mondo/africa/2023/09/20/iran-piu-sanzioni-per-le-donne-che-non-portano-il-velo_889ed4ff-0965-4294-8af4-5c4e363f9476.html)
+_20-Sep-2023_
 
-Il governo mira allo sviluppo dei giacimenti del Minas Gerais
+'Resteranno in vigore per un periodo di prova di 3 anni'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Fuga da Miami, la città ha perso circa 80 mila residenti](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/03/fuga-da-miami-la-citta-ha-perso-circa-80-mila-residenti_c4023609-1709-4e4d-9867-ddb60c605127.html)*
-_3-Aug-2023_
+### [Zelensky, la nostra controffensiva sta avendo successo](https://www.ansa.it/sito/notizie/mondo/europa/2023/09/20/zelensky-la-nostra-controffensiva-sta-avendo-successo_ddffa1fc-626a-49af-9fb4-06002e20f213.html)
+_20-Sep-2023_
 
-Pesa l'aumento dei prezzi delle case, raddoppiati dal 2020
+'Procede lentamente ma continuiamo ad andare avanti'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Attivisti di Greenpeace drappeggiano di nero la villa di Sunak](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/attivisti-di-greenpeace-drappeggiano-di-nero-la-villa-di-sunak_8d33711f-cd52-4f35-a1c4-04d0a7d53822.html)*
-_3-Aug-2023_
+### ['007 Kiev dietro attacchi a ribelli Sudan vicini a Wagner'](https://www.ansa.it/sito/notizie/mondo/africa/2023/09/20/007-kiev-dietro-attacchi-a-ribelli-sudan-vicini-a-wagner_ef34ce3d-3d1e-42b4-becd-08689d246f34.html)
+_20-Sep-2023_
 
-E' la casa del premier in North Yorkshire. Intervenuta polizia
+Cnn: 'Filmati mostrano metodi e droni di tipo ucraino'
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[L'Ue ribadisce, 'i roghi del Corano contrari ai nostri valori'](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/lue-ribadisce-i-roghi-del-corano-contrari-ai-nostri-valori_c3843e4e-89d8-4666-bf46-b66009fb4197.html)*
-_3-Aug-2023_
+### [Media, separatisti Karabakh decidono di deporre le armi](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/20/media-separatisti-karabakh-decidono-di-deporre-le-armi_b3b75160-9d5b-4d38-92b2-d53f4245ed6c.html)
+_20-Sep-2023_
 
-'Islamofobia e razzismo non hanno spazio nell'Unione'
+Come richiesto dall'Azerbaigian
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Caroline Kennedy ripete la traversata del padre JFK alle Salomone](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/03/caroline-kennedy-ripete-traversata-del-padre-jfk-alle-salomone_5947832a-d2b3-445e-a2e9-0cb41922b473.html)*
-_3-Aug-2023_
+### [Baku a Blinken, stop offensiva se armeni depongono le armi](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/20/baku-a-blinken-stop-offensiva-se-armeni-depongono-le-armi_2d1f7166-2f2f-4d92-b9e1-2b147c9b0486.html)
+_20-Sep-2023_
 
-Ha nuotato fra le isole dove padre salvò equipaggio 80 anni fa
+Colloquio tra il presidente azero e il segretario di Stato Usa
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[La Corea del Nord conferma la custodia del soldato americano](https://www.ansa.it/sito/notizie/mondo/asia/2023/08/03/la-corea-del-nord-conferma-la-custodia-del-soldato-americano_254ce0de-3201-4e31-aa19-3e9505b60001.html)*
-_3-Aug-2023_
+### [Armenia, 32 persone uccise nel Nagorno-Karabakh, 7 civili](https://www.ansa.it/sito/notizie/mondo/asia/2023/09/20/armenia-32-persone-uccise-nel-nagorno-karabakh-7-civili_e51350f4-3804-48a9-a760-a0d66a4c9365.html)
+_20-Sep-2023_
 
-Travis King, 23 anni, attraversò il confine il 18 luglio
+Tra le vittime due bambini, feriti altri 13
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[In Gran Bretagna la pioggia record di luglio penalizza lo shopping](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/in-gb-la-pioggia-record-di-luglio-penalizza-lo-shopping_62072bc0-66b7-40af-8219-361c79651842.html)*
-_3-Aug-2023_
+## [The guardian](https://www.theguardian.com/international)
+### [Permission denied for reentry of Varda’s orbiting experiment capsule](https://arstechnica.com/?p=1969942)
+_20-Sep-2023_
 
-Rapporto, eventi climatici estremi fra le minacce strategiche
+The FAA says Varda launched its vehicle into space without a reentry license.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Spagna, rubano una borsa piena di gioielli a turisti russi, presi](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/spagna-rubano-una-borsa-piena-di-gioielli-a-turisti-russipresi_0b1b22f3-92b1-47dd-a13c-c0174dfb66b2.html)*
-_3-Aug-2023_
+### [OpenAI’s new AI image generator pushes the limits in detail and prompt fidelity](https://arstechnica.com/?p=1969719)
+_20-Sep-2023_
 
-Recuperati preziosi per 8,5 milioni di euro
+With better response to details and text, DALL-E 3 hopes to make prompt engineering obsolete.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Niger, in migliaia alla manifestazione a favore dei golpisti](https://www.ansa.it/sito/notizie/mondo/africa/2023/08/03/niger-in-migliaia-a-manifestazione-a-favore-dei-golpisti_1b7ab867-4272-4d92-8eec-f5ab9e0267a1.html)*
-_4-Aug-2023_
+### [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/?p=1969634)
+_20-Sep-2023_
 
-A Niamey nel 63/mo anniversario dell'indipendenza. Sospeso il segnale di France 24 e Radio Rfi, le proteste della Francia
+Linux's six-year long-term support was meant to help embedded devices.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Niger, in migliaia alla manifestazione a favore dei golpisti](https://www.ansa.it/sito/notizie/mondo/2023/08/03/niger-in-migliaia-alla-manifestazione-a-favore-dei-golpisti_752a4a19-2ef3-4989-a896-0a98e90c9938.html)*
-_4-Aug-2023_
+### [Move over, Cordyceps, there’s a new “zombie” parasite to haunt our dreams](https://arstechnica.com/?p=1969792)
+_20-Sep-2023_
 
-A Niamey nel 63/mo anniversario dell'indipendenza. Sospeso il segnale di France 24 e Radio Rfi, le proteste della Francia
+The lancet liver fluke controls infected ants with a temperature-based on/off switch.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Parigi termina l'evacuazione dal Niger, 1.079 rimpatriati](https://www.ansa.it/sito/notizie/mondo/africa/2023/08/03/parigi-termina-levacuazione-dal-niger-1.079-rimpatriati_d7568524-e68d-4349-b30f-549879d55d13.html)*
-_3-Aug-2023_
+### [T-Mobile users saw other customers’ personal data due to “system glitch”](https://arstechnica.com/?p=1969887)
+_20-Sep-2023_
 
-Ministeri Esteri e Difesa:577 francesi, gli altri sono stranieri
+T-Mobile blames "temporary system glitch" during planned update.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mosca multa Apple, fake news sull'operazione speciale](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/mosca-multa-apple-fake-news-sulloperazione-speciale_dfb89650-81d6-43ac-a74c-b803efabda07.html)*
-_3-Aug-2023_
+### [Grisham, Martin join authors suing OpenAI: “There is nothing fair about this” [Updated]](https://arstechnica.com/?p=1969827)
+_20-Sep-2023_
 
-Prima volta che colosso californiano viene sanzionato in Russia
+Authors claim ChatGPT wouldn’t exist without their books.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Vox, sarà difficile per Feijòo formare un governo](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/vox-sara-difficile-per-feijoo-formare-un-governo_1e9e15ad-f6ef-452e-8a31-627fa211dae5.html)*
-_3-Aug-2023_
+### [iOS 17 review: StandBy for more features](https://arstechnica.com/?p=1969466)
+_20-Sep-2023_
 
-Lo afferma il vicepresidente Jorge Buxadé
+Messaging features lead a low-key refresh of the iPhone’s software.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Niger: Tchiani, non cederemo a pressioni](https://www.ansa.it/sito/notizie/mondo/africa/2023/08/03/niger-tchiani-non-cederemo-a-pressioni_ac4c126d-576b-4350-9256-672fdbf63f42.html)*
-_3-Aug-2023_
+### [French drillers may have stumbled upon a mammoth hydrogen deposit](https://arstechnica.com/?p=1969579)
+_20-Sep-2023_
 
-'Per reinsediare Bazoum', discorso alla tv
+A drill site in Lorraine shows rising levels of hydrogen mixed in with methane.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Madrid contro le low cost, poco chiare su bagagli a mano e posti](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/madrid-contro-le-low-cost-poco-chiare-su-bagagli-a-mano-e-posti_2d8e8407-5411-4842-8ae1-4c36b59262e0.html)*
-_3-Aug-2023_
+### [FCC plays whack-a-mole with telcos accused of profiting from robocalls](https://arstechnica.com/?p=1969755)
+_20-Sep-2023_
 
-Governo avvia indagine e minaccia sanzioni milionarie
+One Owl Telecom on verge of having all of its calls blocked by US carriers.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Il super-peso mina la competitività del Messico](https://www.ansa.it/sito/notizie/mondo/americalatina/2023/08/03/il-super-peso-mina-la-competitivita-del-messico_65940d21-228e-4f05-a589-ce19b743715e.html)*
-_3-Aug-2023_
+### [Intel’s biggest laptop CPU update in years is a huge departure from past designs](https://arstechnica.com/?p=1969537)
+_20-Sep-2023_
 
-In due anni la moneta si è apprezzata del 20% sul dollaro Usa
+Due mid-December, Meteor Lake uses silicon manufactured by both Intel and TSMC.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *['L'Iran verso nuova legge draconiana sull'uso del velo'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2023/08/03/iran-verso-nuova-legge-draconiana-sulluso-del-velo_4b7df1f3-6861-4299-863a-62348ce29ada.html)*
-_3-Aug-2023_
+### [Musk’s Neuralink seeks volunteers for brain implants—who’s in?](https://arstechnica.com/?p=1969681)
+_20-Sep-2023_
 
-Cnn, all'esame nuova stretta ad un anno da proteste per Masha
+The trial aims to help people with quadriplegia control a computer cursor or keyboard.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Il Papa inaugura a Cascais il murale più grande del mondo](https://www.ansa.it/sito/notizie/mondo/europa/2023/08/03/il-papa-inaugura-a-cascais-il-murale-piu-grande-del-mondo_28d3b5d4-74ce-40cb-a128-09059deb92af.html)*
-_3-Aug-2023_
+### [Dealmaster: Early Amazon Prime Big Deal Days sales continue, Garmin deals, and more](https://arstechnica.com/?p=1969561)
+_20-Sep-2023_
 
-Lungo 3,5 chilometri. Francesco: "E' come una Cappella Sistina"
+Shop early for the best savings on Amazon’s second Prime Day event of 2023.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[I produttori di pomodoro italiani puntano all'export in Brasile](https://www.ansa.it/sito/notizie/mondo/americalatina/2023/08/03/i-produttori-di-pomodoro-italiani-puntano-allexport-in-brasile_bc4a8fa5-cfe8-49bb-aabc-7e8c32d7eba7.html)*
-_3-Aug-2023_
+### [SpaceX breaks another booster reuse record, but did anyone see it?](https://arstechnica.com/?p=1969569)
+_20-Sep-2023_
 
-Nel Paese sudamericano la domanda è in crescita dal 2020
+SpaceX has continued its trend toward a minimalist broadcast approach.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Niger, Biden chiede la liberazione immediata di Bazoum](https://www.ansa.it/sito/notizie/mondo/2023/08/03/niger-biden-chiede-la-liberazione-immediata-di-bazoum_c7148ef7-fafe-4636-a2bd-ddb54c5a8b29.html)*
-_3-Aug-2023_
+### [Xbox exec says leaked “old emails and documents” have “outdated” info](https://arstechnica.com/?p=1969596)
+_20-Sep-2023_
 
-Prosegue l'evacuazione degli europei. Corteo a favore del golpe a Niamey
+Spencer: Real plans have "evolved" from what's in docs Microsoft accidentally shared.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Nuovi scontri tra palestinesi nel sud del Libano, i morti salgono a 13](https://www.ansa.it/sito/notizie/mondo/2023/08/03/nuovi-scontri-tra-palestinesi-nel-sud-del-libano-i-morti-salgono_75d5b779-cd5e-4234-aa9e-4ecd16997712.html)*
-_3-Aug-2023_
+### [Hyundai hurries to finish factory in Georgia to meet US EV demand](https://arstechnica.com/?p=1969580)
+_20-Sep-2023_
 
-Si affrontano miliziani di Al Fatah, Hamas e altri gruppi. L'Iran 'profondamente preoccupato' dalla crisi
+The Korean automaker now wants to start production in Georgia in 2024.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Accordo tra Italia e Colombia sull'agricoltura sostenibile](https://www.ansa.it/sito/notizie/mondo/americalatina/2023/08/03/accordo-tra-italia-e-colombia-sullagricoltura-sostenibile_f8b4727b-ca23-4da8-aa0e-fa5bcde61af7.html)*
-_3-Aug-2023_
+### [Renewable energy is now cheap—what’s next?](https://arstechnica.com/?p=1969491)
+_20-Sep-2023_
 
-Lo hanno siglato l'Università di Bologna e Uniminuto
+Ars will be at the UN's Climate Week to help find out&#8212;watch live.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Biden chiede l'immediato rilascio del presidente del Niger](https://www.ansa.it/sito/notizie/mondo/africa/2023/08/03/biden-chiede-limmediato-rilascio-del-presidente-del-niger_347faf75-7a46-4de7-996e-4954c3f1cf7d.html)*
-_3-Aug-2023_
+### [Fish’s big mistake preserved an unusual fossil for us](https://arstechnica.com/?p=1969560)
+_20-Sep-2023_
 
-In una nota diffusa dalla Casa Bianca
+A lethal final meal preserved the only intact ammonite found in a fossil bed.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Biden chiede l'immediato rilascio del presidente del Niger](https://www.ansa.it/sito/notizie/mondo/nordamerica/2023/08/03/biden-chiede-limmediato-rilascio-del-presidente-del-niger_41721e11-cad7-4350-bf6b-f316193a32a6.html)*
-_3-Aug-2023_
+### [The Signal Protocol used by 1+ billion people is getting a post-quantum makeover](https://arstechnica.com/?p=1969529)
+_20-Sep-2023_
 
-In una nota diffusa dalla Casa Bianca
+Update prepares for the inevitable fall of today's cryptographic protocols.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-## *[The guardian](https://www.theguardian.com/international)*
-### *[Trans-Atlantic joint venture aims to build new ‘international’ space station](https://arstechnica.com/?p=1958766)*
-_04-Aug-2023_
+### [New Huawei SoC features processor cores designed in-house](https://arstechnica.com/?p=1969554)
+_20-Sep-2023_
 
-Airbus replaces Lockheed Martin as habitat builder for the planned Starlab space station.
+Huawei Mate 60 Pro shows firm emulating Apple's strategy of doing its own chip design.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Even people who bought Meta’s Ray-Ban smart glasses don’t want to use them](https://arstechnica.com/?p=1958740)*
-_03-Aug-2023_
+### [It’s time for fall shots—and CDC is ready for anti-vaccine nonsense](https://arstechnica.com/?p=1969517)
+_19-Sep-2023_
 
-That's not stopping Meta from making second-gen Stories, WSJ report claims.
+It's time for RSV, flu, and COVID shots, and the CDC has a 4-step strategy to urge vaccination.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[iPhone sales are down, but Apple’s subscriptions are growing fast](https://arstechnica.com/?p=1958758)*
-_03-Aug-2023_
+## [The new york times](https://www.nytimes.com/international/)
+### [Zelensky Tells U.N. Security Council It’s Useless While Russia Has a Veto](https://www.nytimes.com/2023/09/20/world/europe/zelensky-un-security-council.html)
+_21-Sep-2023_
 
-Services and wearables were bright spots in an otherwise relatively slow quarter.
+The Ukrainian president joined many world leaders in calling for changes at the Security Council, where five permanent members wield veto power — a high barrier to taking action.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Waymo will expand rideshares to Austin, Texas, its fourth city](https://arstechnica.com/?p=1958728)*
-_03-Aug-2023_
+### [Biden and Netanyahu Meet to Try to Soothe Tensions, With Some Success](https://www.nytimes.com/2023/09/20/world/middleeast/biden-netanyahu-meet-iran-saudi.html)
+_21-Sep-2023_
 
-Waymo say testers will be taking rides "this fall."
+The president put aside his frustrations with the Israeli prime minister over his “extremist” government to focus on issues of mutual interest, like Iran and Saudi Arabia.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Linux surpasses the Mac among Steam gamers](https://arstechnica.com/?p=1958672)*
-_03-Aug-2023_
+### [Navigating a Perilous Mountain Pass After Morocco’s Devastating Earthquake](https://www.nytimes.com/2023/09/20/world/middleeast/atlas-mountains-pass-morocco-earthquake.html)
+_21-Sep-2023_
 
-It's not the year of Linux on desktop; it's the year of Linux on a handheld.
+A stretch of lonely road across Morocco’s Atlas Mountains has long been known for its stunning views and perilous turns. After the earthquake, it became a lifeline for dozens of destroyed villages.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[FCC slaps $300M fine on “largest illegal robocall operation” it’s ever seen](https://arstechnica.com/?p=1958712)*
-_03-Aug-2023_
+### [Russia-Ukraine War: Grain Tensions Escalate Between Ukraine and Staunch Ally Poland](https://www.nytimes.com/live/2023/09/20/world/russia-ukraine-news)
+_21-Sep-2023_
 
-Robocallers were already banned for life and unable to pay previous fines.
+Both have taken retaliatory measures after Poland and two other  Eastern European nations said they would defy an E.U. decision to end a ban on the import of Ukrainian grain. The dispute could threaten Europe’s cohesive support for Ukraine.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Backblaze probes increased annualized failure rate for its 240,940 HDDs](https://arstechnica.com/?p=1958544)*
-_03-Aug-2023_
+### [U.N. General Assembly: Zelensky Criticizes the U.N. and Presents Peace Plan to End the War](https://www.nytimes.com/live/2023/09/20/world/united-nations-general-assembly)
+_21-Sep-2023_
 
-Lifetime AFRs grew, while quarterly AFRs went from 1.54% in Q1 to 2.28% in Q2.
+Speaking before the Security Council, President Volodymyr Zelensky of Ukraine said Russia should lose its veto power. The Russian foreign minister later suggested that the U.S. could “command” Kyiv to negotiate with Moscow.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[General Motors drops entry-level Blazer EV as deliveries begin](https://arstechnica.com/?p=1958702)*
-_03-Aug-2023_
+### [Assassination of Hardeep Singh Nijjar Further Divides Indian Community](https://www.nytimes.com/2023/09/20/world/canada/hardeep-singh-nijjar-killed.html)
+_21-Sep-2023_
 
-It's yet another example of new EVs getting more and more expensive.
+The charge that the Indian government is linked to the killing of a Sikh separatist may fuel the rift between Canada’s Sikhs and Hindus.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Angry Tesla customers sue firm over “grossly” exaggerated EV range](https://arstechnica.com/?p=1958680)*
-_03-Aug-2023_
+### [U.K. Police Officer to Be Charged With Murder in Shooting of Chris Kaba](https://www.nytimes.com/2023/09/20/world/europe/uk-police-murder-charges-chris-kaba.html)
+_21-Sep-2023_
 
-Three Tesla drivers launch class action, alleging fraud and false advertising.
+Investigators say the officer killed Chris Kaba, 24, in London last year. The charge announcement is another blow to a police force accused of racism and misogyny.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Qualcomm chip sales down 25 percent, plans layoffs](https://arstechnica.com/?p=1958662)*
-_03-Aug-2023_
+### [Portraits of Fire Victims: Two Toddlers Named ‘Memory,’ and a Teacher About to Wed](https://www.nytimes.com/2023/09/20/world/africa/portraits-of-fire-victims-two-toddlers-named-memory-and-a-teacher-about-to-wed.html)
+_21-Sep-2023_
 
-Qualcomm doesn't expect a recovery next quarter, either.
+A picture is emerging of some of the 77 people who died when the derelict building in Johannesburg where they were living went up in flames on Aug. 31.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Musk calls French news agency’s copyright case against X “bizarre” [Updated]](https://arstechnica.com/?p=1958644)*
-_03-Aug-2023_
+### [Spain Women’s Team Will Play After Talks in Wake of World Cup Kiss](https://www.nytimes.com/2023/09/20/world/europe/spain-women-soccer-sweden-uefa.html)
+_20-Sep-2023_
 
-France has required online platforms to pay for news since 2019.
+Players’ participation had been in doubt after many signed a letter demanding an overhaul of the Spanish soccer federation in the wake of sexism scandals.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Satellite operators poised for $9 billion payday after clearing C-band spectrum](https://arstechnica.com/?p=1958600)*
-_03-Aug-2023_
+### [New Zealand Warriors Surpass All Blacks to Capture Country’s Imagination](https://www.nytimes.com/2023/09/20/world/asia/nz-warriors-finals-nrl.html)
+_20-Sep-2023_
 
-Intelsat, SES are on track to get nearly $9 billion in FCC incentive payments.
+An improbable run by the New Zealand Warriors has offered some excitement to counter the All Blacks’ recent misfortune.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Microsoft accidentally leaks internal utility for testing new Windows 11 features](https://arstechnica.com/?p=1958632)*
-_03-Aug-2023_
+### [Rishi Sunak to Weaken U.K. Climate Targets as Election Approaches](https://www.nytimes.com/2023/09/20/world/europe/uk-sunak-climate-change.html)
+_20-Sep-2023_
 
-StagingTool is a lot like a widely used third-party utility called ViVeTool.
+Prime Minister Rishi Sunak said he would delay a ban on the sale of new gas- and diesel-only cars, among other measures, sparking division in his own party.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Baldur’s Gate 3 early impressions: You’ll spend whole weeks in here and love it](https://arstechnica.com/?p=1958537)*
-_03-Aug-2023_
+### [South Korean Police Accuse 17 U.S. Soldiers of Drug Crimes](https://www.nytimes.com/2023/09/20/world/asia/south-korea-us-soldiers-drug.html)
+_20-Sep-2023_
 
-Another remarkable feat of a streamlined tabletop experience by Larian Studios.
+The soldiers distributed or used synthetic marijuana brought onto an Army base through the military postal service, according to the police.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[This bioelectronic device lets scientists map electrical signals of the Venus flytrap](https://arstechnica.com/?p=1958110)*
-_03-Aug-2023_
+### [Azerbaijan Reclaims Armenian Enclave, Shifting Region’s Political Dynamics](https://www.nytimes.com/2023/09/20/world/europe/azerbaijan-armenia-cease-fire.html)
+_20-Sep-2023_
 
-The signals spread radially outward with no clear preferred direction.
+Pro-Armenian leaders in the breakaway region of Nagorno-Karabakh appeared to have surrendered to Azerbaijan’s demands.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How cities can stem the tide of pedestrian deaths from large cars and SUVs](https://arstechnica.com/?p=1958563)*
-_03-Aug-2023_
+### [Syria’s Leader, al-Assad, Visits China in Search of Friends and Funds](https://www.nytimes.com/2023/09/21/world/asia/assad-china-syria.html)
+_21-Sep-2023_
 
-Ever-larger cars and trucks are causing a safety crisis on US streets.
+The trip by President Bashar al-Assad of Syria, his first to China since 2004, may bolster Beijing’s efforts to expand its influence in the Middle East.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/?p=1958508)*
-_02-Aug-2023_
+### [Thursday Briefing](https://www.nytimes.com/2023/09/21/briefing/climate-zelensky-azerbaijan-armenia.html)
+_21-Sep-2023_
 
-Azure looks like a house of cards collapsing under the weight of exploits and vulnerabilities.
+Climate at the U.N. General Assembly.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[ESA still seems shy about sharing news on Ariane 6 rocket testing](https://arstechnica.com/?p=1958359)*
-_02-Aug-2023_
+### [Darfur’s New Generation, Once Full of Promise, Now Suffers ‘Fire of War’](https://www.nytimes.com/2023/09/21/world/africa/sudan-war-darfur.html)
+_21-Sep-2023_
 
-Officials don't plan to broadcast a key Ariane 6 test-firing on its launch pad.
+In a region with a history of genocide, weeks of intense fighting between rival military factions in South Darfur have left hundreds dead and sent thousands fleeing.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Internet providers that won FCC grants try to escape broadband commitments](https://arstechnica.com/?p=1958448)*
-_02-Aug-2023_
+### [U.S. Hopes to Tackle Migrant Crisis With Processing Centers in Latin America](https://www.nytimes.com/2023/09/21/world/americas/border-migrants-biden-plan.html)
+_21-Sep-2023_
 
-"Coalition of RDOF Winners" lobbies FCC but won't reveal its full member list.
+By opening migration processing centers in three Latin American countries, the Biden administration is trying to coax people not to make a harrowing trek to the border.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Meta releases open source AI audio tools, AudioCraft](https://arstechnica.com/?p=1958362)*
-_02-Aug-2023_
+### [Biden Is Caught Between Allies as Canada Accuses India of Assassination](https://www.nytimes.com/2023/09/20/us/politics/biden-canada-india.html)
+_21-Sep-2023_
 
-Meta's suite of three AI models can create sound effects and music from descriptions.
+President Biden has prioritized bolstering partnerships over full-throated advocacy for democracy among American allies.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-## *[The new york times](https://www.nytimes.com/international/)*
-### *[Russia-Ukraine War: Infighting Rips Through the Pro-Kremlin Blogosphere](https://www.nytimes.com/live/2023/08/03/world/russia-ukraine-news)*
-_04-Aug-2023_
+### [Thursday Briefing: Climate and Ukraine at the U.N.](https://www.nytimes.com/2023/09/20/briefing/un-climate-zelensky-ukraine-nagorno-karabakh.html)
+_20-Sep-2023_
 
-Some military bloggers are viciously accusing others of favoring Ukraine in the war.
+Plus how rap is written today.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ukrainians Shun a Church Seen as a Kremlin Tool](https://www.nytimes.com/2023/08/03/world/europe/ukraine-orthodox-church.html)*
-_03-Aug-2023_
+### [McCarthy Declines to Host House Forum for Zelensky Amid G.O.P. Rifts](https://www.nytimes.com/2023/09/20/us/politics/mccarthy-zelensky-republicans.html)
+_21-Sep-2023_
 
-The village parishioners’ decision to oust their priest reflects a broader push within Ukraine to reduce the influence of an Orthodox church that answers to Moscow.
+The speaker plans a private meeting with the Ukrainian president, but his refusal to arrange for rank-and-file lawmakers to hear from him directly reflects Republican resistance to continuing aid to Kyiv.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Colombia Rebel Group ELN and Government Begin Cease-Fire](https://www.nytimes.com/2023/08/03/world/americas/colombia-eln-rebels-cease-fire.html)*
-_03-Aug-2023_
+### [The Litany of #MeToo News Continues. Is anything really changing?](https://www.nytimes.com/2023/09/20/world/europe/interpreter-metoo-russell-brand.html)
+_20-Sep-2023_
 
-A six-month truce began on Thursday between the government and the largest remaining insurgency, the far-left group known as the National Liberation Army.
+It can appear as though society is no closer to a future in which women can go about their ordinary lives without being harassed, assaulted and coerced into silence.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Niger Coup: Here’s What to Know](https://www.nytimes.com/article/niger-coup-military-explainer.html)*
-_03-Aug-2023_
+### [We Asked Readers to Spend the Summer Watching Birds. Here’s What Happened.](https://www.nytimes.com/2023/09/20/science/climate-birds-conservation.html)
+_20-Sep-2023_
 
-Amid an unpredictable military coup, neighboring countries have threatened to go to war — some to scuttle the coup, and others to ensure its success.
+Thousands of people from around the world responded to the invitation, sharing their sightings with scientists at the Cornell Lab of Ornithology.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[14 Injured in Car Rampage and Stabbing Near Seoul](https://www.nytimes.com/2023/08/03/world/asia/south-korea-seoul-stabbing.html)*
-_04-Aug-2023_
+### [Jango Edwards, Clown Who Challenged His Art Form, Dies at 73](https://www.nytimes.com/2023/09/20/world/europe/jango-edwards-dead.html)
+_20-Sep-2023_
 
-Thursday’s early-evening attack comes less than a month after another mass stabbing episode, also in the Seoul region, that left one victim dead and three injured.
+More Frank Zappa than Ronald McDonald, he moved the field beyond red noses, infusing it with social commentary while breaking down walls of propriety.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Canada Prime Minister, Justin Trudeau, Separates From Wife, Sophie Grégoire](https://www.nytimes.com/2023/08/02/world/americas/justin-trudeau-separate-wife-sophie-gregoire.html)*
-_02-Aug-2023_
+### [The Reach of Wildfire Smoke Is Going Global and Undoing Progress on Clean Air](https://www.nytimes.com/2023/09/20/climate/wildfire-smoke-air-pollution.html)
+_20-Sep-2023_
 
-The Canadian prime minister and his wife have been married for 18 years and share three children.
+In the United States, smoke from wildfires is undoing progress from the Clean Air Act. In poorer countries, the situation is even worse.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Rishi Sunak Home Scaled by Greenpeace Protesters in Britain](https://www.nytimes.com/2023/08/03/world/europe/sunak-greenpeace-protest-britain.html)*
-_03-Aug-2023_
+### [1923: Britain Frowns on Rum Running Stock Scheme](https://www.nytimes.com/2023/09/20/world/britain-rum-running-stock-scheme.html)
+_20-Sep-2023_
 
-The incursion by opponents of oil drilling raised concerns about the security of the British leader and his family.
+Prohibitionists pushed for the British authorities to investigate organizations promoting the export of alcohol to the United States.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[South Korean Ferry Disaster Figure Yoo Hyuk-kee Is Extradited](https://www.nytimes.com/2023/08/02/world/asia/yoo-hyuk-kee-south-korea-ferry.html)*
-_04-Aug-2023_
+### [What We Know About Canada’s Murder Claim Against India](https://www.nytimes.com/article/canada-india-nijjar.html)
+_20-Sep-2023_
 
-Yoo Hyuk-kee’s family company ran the Sewol ferry, whose sinking off the South Korean coast left hundreds dead. Prosecutors have charged Mr. Yoo, a U.S. resident, with embezzlement.
+A separatist leader’s death in British Columbia has strained already tense ties between the two nations.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Under Fire and Understaffed: Doctors](https://www.nytimes.com/2023/08/02/world/europe/ukraine-war-casualties-wounded.html)*
-_02-Aug-2023_
+### [Wednesday Briefing](https://www.nytimes.com/2023/09/20/briefing/zelensky-united-nations-trudeau-india.html)
+_20-Sep-2023_
 
-Positioned close to the front lines, temporary medical posts are a critical lifeline for the constant inflow of soldiers hurt in the counteroffensive.
+Volodymyr Zelensky at the U.N.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Hundreds Fall Ill From Heat at World Scout Jamboree in South Korea](https://www.nytimes.com/2023/08/03/world/asia/south-korea-heat-scout-jamboree.html)*
-_03-Aug-2023_
+### [Ukrainian Grain on Cargo Ship Reaches Romania](https://www.nytimes.com/2023/09/19/world/europe/ukraine-grain-ship.html)
+_19-Sep-2023_
 
-As the country endures its hottest summer in years, at least 125 people were hospitalized and many others were treated for symptoms during baking conditions at the World Scout Jamboree.
+After a journey of 12 hours across waters caught up in the war, a ship carrying tons of wheat made it safely to Romanian waters, as Kyiv worked to transport grain overland, as well.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[How Richard Beauvais and Eddie Ambrose Discovered They’d Been Switched at Birth](https://www.nytimes.com/2023/08/02/world/canada/canada-men-switched-at-birth.html)*
-_02-Aug-2023_
+### [Zelensky, at U.N., Urges World Leaders to Help Ukraine](https://www.nytimes.com/2023/09/19/world/europe/zelensky-ukraine-united-nations.html)
+_19-Sep-2023_
 
-Two Canadian men who were switched at birth to families of different ethnicities are now questioning who they really are and learning how racial heritage shapes identities.
+Painting Vladimir Putin’s Russia as a nation that seeks to dominate others, President Volodymyr Zelensky cast his appeal for broad support as a matter of global security.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Iranians Blame Power Grid and Gas Shortage for Shutdown Amid Heat](https://www.nytimes.com/2023/08/02/world/middleeast/iran-heat-shutdown-power-grid.html)*
-_02-Aug-2023_
+### [Wednesday Briefing: Zelensky’s Warning at the U.N.](https://www.nytimes.com/2023/09/19/briefing/un-zelensky-biden-trudeau-india-saudi-arabia.html)
+_19-Sep-2023_
 
-The government in Tehran cited “unprecedented” heat when it ordered a two-day shutdown to protect health and conserve energy, but many residents were not buying it.
+Plus, new discoveries about a nomadic clan on the island of Borneo.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Paris Bookstalls Are Told to Relocate During Next Year’s Olympics](https://www.nytimes.com/2023/08/02/world/europe/paris-olympics-booksellers.html)*
-_02-Aug-2023_
+### [Trudeau Rejects India’s Denial of Involvement in Assassination in Canada](https://www.nytimes.com/2023/09/19/world/canada/trudeau-india-canada-assassination.html)
+_19-Sep-2023_
 
-The “bouquinistes” along the River Seine have objected after being told that most of them will have to move temporarily for security reasons.
+The Canadian prime minister again urged India to cooperate with the investigation into the death of a Sikh separatist.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Who Is Shikma Bressler, the Face of Israel’s Protests?](https://www.nytimes.com/2023/08/02/world/middleeast/shikma-bressler-israel-judicial-protests.html)*
-_02-Aug-2023_
+### [Ukraine’s Counteroffensive Looms Large as Zelensky Addresses U.N.](https://www.nytimes.com/2023/09/19/world/europe/zelensky-ukraine-counteroffensive.html)
+_19-Sep-2023_
 
-Shikma Bressler, a mother of five who says her passion is life in the lab, has emerged as a symbol of the struggle against the government’s divisive judicial overhaul.
+The effort to drive Russian forces from Ukraine’s south and east has been slow and bloody. Here’s a look at what might come next in the campaign.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Verdict Expected in Latest Trial of Russian Opposition Leader Navalny](https://www.nytimes.com/2023/08/04/world/europe/navalny-putin-opposition-verdict.html)*
-_04-Aug-2023_
+### [Britain Passes Sweeping New Online Safety Law](https://www.nytimes.com/2023/09/19/technology/britain-online-safety-law.html)
+_20-Sep-2023_
 
-Aleksei A. Navalny, who is already in prison, is facing charges of supporting “extremism” that could extend his sentence by two decades.
+The far-reaching bill had set off debates about balancing free speech and privacy rights against efforts to halt the spread of harmful content online.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Friday Briefing](https://www.nytimes.com/2023/08/04/briefing/trump-court-not-guilty-oceans.html)*
-_04-Aug-2023_
+### [East Libya’s Leader Keeps Tight Control Over Flood Aid](https://www.nytimes.com/2023/09/19/world/middleeast/libya-flood-aid-khalifa-hifter.html)
+_20-Sep-2023_
 
-Donald Trump’s day in court.
+Khalifa Hifter, who oversees a military dictatorship that leads the eastern half of the divided, oil-rich nation, is dominating the response to the disaster and could use it to entrench his power further.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Australians’ ‘Golden Ticket’ to the U.S.](https://www.nytimes.com/2023/08/03/world/australia/changes-e3-visa-ireland-australia.html)*
-_04-Aug-2023_
+### [Who Was Hardeep Singh Nijjar? Canada Says India Was Behind His Killing.](https://www.nytimes.com/2023/09/19/world/canada/who-is-hardeep-singh-nijjar-india.html)
+_20-Sep-2023_
 
-Proposed changes to the E-3 visa have worried some expatriates.
+Prime Minister Justin Trudeau of Canada accused Indian agents of involvement in the killing of a Sikh separatist in British Columbia. Who was he?
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Meta Removes News From Platform in Canada](https://www.nytimes.com/2023/08/03/world/canada/meta-facebook-news-feed-removed.html)*
-_03-Aug-2023_
+### [Ancient Earthworks Trodden by Golfers Become a World Heritage Site](https://www.nytimes.com/2023/09/19/arts/design/octagon-earthworks-ohio-world-heritage-site.html)
+_19-Sep-2023_
 
-A Canadian law that will require tech companies to compensate domestic publishers has led Meta to start blocking news articles on its social networks.
+The UNESCO World Heritage Committee has recognized the Octagon Earthworks in central Ohio as a cultural marvel.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Russia’s Pro-War Bloggers Are Suddenly Sniping Among Themselves](https://www.nytimes.com/2023/08/03/world/europe/ukraine-war-russia-bloggers.html)*
-_03-Aug-2023_
+### [In Switzerland, Ex-Soldier Faces Trial Over Disappearances in Belarus](https://www.nytimes.com/2023/09/19/world/europe/switzerland-belarus-trial-lukashenko.html)
+_20-Sep-2023_
 
-A new tone has set in among the uninhibited military bloggers, whose support for the invasion has given them unusual powers to speak out.
+A former security services official is charged with helping to abduct three men in Minsk in 1999. He’s being tried in Switzerland under universal jurisdiction.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Winter Heat Wave Grips Chile, Argentina and Other South American Countries](https://www.nytimes.com/2023/08/03/world/americas/south-america-chile-heat-wave-winter.html)*
-_03-Aug-2023_
+### [Biden Aides and Saudis Explore Defense Treaty Modeled After Asian Pacts](https://www.nytimes.com/2023/09/19/us/politics/biden-saudi-defense-treaty.html)
+_19-Sep-2023_
 
-An unusual winter heat wave has brought record high temperatures to cities across Argentina, Chile and Paraguay this week, triggering concerns about the impacts of climate change.
+Despite U.S. fatigue over Middle East wars, the White House sees a security agreement resembling those with Japan or South Korea as an incentive for Saudi Arabia to normalize relations with Israel.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Seiichi Morimura, 90, Who Exposed Japanese Wartime Atrocities, Dies](https://www.nytimes.com/2023/08/03/world/asia/seiichi-morimura-dead.html)*
-_04-Aug-2023_
+### [Biden, in U.N. Speech, Calls for Action on Ukraine and Other Crises](https://www.nytimes.com/2023/09/19/world/europe/biden-speech-un-general-assembly.html)
+_20-Sep-2023_
 
-In a widely read book, he detailed gruesome biological experiments on people at a secret Imperial Army site in occupied China before and during World War II.
+As other major leaders skipped the annual opening session of the General Assembly, Mr. Biden used his address to try to counter war fatigue both at home and abroad.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[2 U.S. Navy Sailors Charged With Spying for China](https://www.nytimes.com/2023/08/03/us/politics/navy-sailors-spy-china.html)*
-_04-Aug-2023_
+### [Yemen Gets Ownership of Artifacts, but Met Will Still Display Them](https://www.nytimes.com/2023/09/19/arts/design/yemen-met-artifacts.html)
+_19-Sep-2023_
 
-Prosecutors said the two sailors in California gave Chinese intelligence officers U.S. military secrets and sensitive information.
+Ownership of the artifacts is being restored to Yemen, but given the civil war there Yemeni officials have asked the museum to safeguard them for now through a custodial agreement.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Poland and Lithuania Warn Against ‘Provocations’ From Wagner in Belarus](https://www.nytimes.com/2023/08/03/world/europe/poland-belarus-wagner-nato.html)*
-_03-Aug-2023_
+### [What’s Behind Canada and India’s Diplomatic Tension?](https://www.nytimes.com/2023/09/19/world/asia/trudeau-canada-india-separatists.html)
+_20-Sep-2023_
 
-The notice came a few days after two helicopters bearing Belarusian flags violated Polish airspace.
+The allegation that India was involved in the killing of a Sikh leader in Canada came after New Delhi had accused Western countries of inaction on secessionist groups.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Australia Will Return Looted Sculptures to Cambodia](https://www.nytimes.com/2023/08/03/world/asia/australia-cambodia-looted-sculptures.html)*
-_03-Aug-2023_
+### [Azerbaijan Begins a Military Operation in Nagorno-Karabakh](https://www.nytimes.com/2023/09/19/world/europe/azerbaijan-military-nagorno-karabakh.html)
+_20-Sep-2023_
 
-A centuries-old Buddhist sculpture was taken from a rural area in Cambodia nearly 30 years ago. It was later sold with two other statues to the National Gallery of Australia.
+The action in the Armenian enclave of Nagorno-Karabakh has left 25 people dead, the authorities say. And it’s raising fears of an expanding conflict.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[The Art of Telling Forbidden Stories in China](https://www.nytimes.com/2023/08/03/magazine/chinese-literature-censorship.html)*
-_03-Aug-2023_
+### [Keir Starmer Meets Emmanuel Macron, Building European Ties](https://www.nytimes.com/2023/09/19/world/europe/keir-starmer-paris-brexit.html)
+_19-Sep-2023_
 
-Many writers are looking for ways to capture the everyday realities that the government keeps hidden — sometimes at their own peril.
+Keir Starmer, the Labour Party leader, visited the French president as part of a tour to boost his international credentials. But efforts to improve European ties in the wake of Brexit could be fraught.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Thursday Briefing](https://www.nytimes.com/2023/08/03/briefing/trump-niger-ukraine.html)*
-_03-Aug-2023_
+### [What Is the U.N. General Assembly?](https://www.nytimes.com/2023/09/19/world/what-is-the-un-general-assembly.html)
+_19-Sep-2023_
 
-The future of U.S. politics after Donald Trump’s indictment.
+This body, which meets annually, has seen its influence wane over the years, but it is still considered important to global affairs.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[VanMoof’s Bankruptcy Worries Owners of Electric Bikes](https://www.nytimes.com/2023/08/03/business/vanmoof-bankruptcy-ebikes.html)*
-_03-Aug-2023_
+### [Wall Street Journal Reporter Evan Gershkovich Appears in Russian Court](https://www.nytimes.com/2023/09/19/world/europe/evan-gershkovich-wsj-reporter-russia.html)
+_19-Sep-2023_
 
-VanMoof’s sleek electric bikes attracted fans, but the Dutch company’s demise has left owners unable to get repairs and worried that app-enabled functions may stop working.
+The court declined to hear an appeal from the American journalist, Evan Gershkovich, against his pretrial detention on espionage charges. The United States has said he is wrongfully detained.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[‘Kill the Boer’ Song Fuels Backlash in South Africa and U.S.](https://www.nytimes.com/2023/08/02/world/africa/south-africa-kill-boer-song.html)*
-_02-Aug-2023_
+### [Australia Officially Declares Arrival of El Niño](https://www.nytimes.com/2023/09/19/world/australia/elnino-fires-nsw.html)
+_20-Sep-2023_
 
-Right-wing commenters claim that an old anti-apartheid chant is a call to anti-white violence, but historians and the left-wing politician who embraces it say it should not be taken literally.
+The authorities ordered school closures on the south coast of New South Wales, where springtime temperatures were expected to near 100 degrees.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A Leader of Niger’s Coup Visits Mali, Raising Fears of a Wagner Alliance](https://www.nytimes.com/2023/08/02/world/africa/niger-coup-mali-wagner.html)*
-_02-Aug-2023_
+### [Russia Drone Attack in Lviv Kills 1, Ukrainian Officials Say](https://www.nytimes.com/2023/09/19/world/europe/russian-drone-strike-lviv.html)
+_19-Sep-2023_
 
-Several military officials who took power from the president in Niger last week met with the leaders of Mali, where the Kremlin-backed Wagner mercenary group has deployed about 1,500 troops.
+One of the attacks, in the western city of Lviv, far from the front line, killed one person and caused fires at warehouses, including one storing humanitarian aid, officials said.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Are the Trump Indictments a Turning Point? History Says Not Likely.](https://www.nytimes.com/2023/08/02/world/trump-indictments-prosecution.html)*
-_02-Aug-2023_
+### [Tuesday Briefing](https://www.nytimes.com/2023/09/19/briefing/ukraine-military-united-nations.html)
+_19-Sep-2023_
 
-The latest indictment of former President Donald J. Trump takes the United States to an uncharted place in its history. But other countries’ histories suggest that the prosecution of leaders accused of wrongdoing cannot fix underlying problems.
+Changes in the Ukrainian defense ministry.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Amid Signs of a Covid Uptick, Researchers Brace for the ‘New Normal’](https://www.nytimes.com/2023/08/02/health/covid-rise.html)*
-_03-Aug-2023_
+### [Load. Fire. Get to Cover.](https://www.nytimes.com/2023/09/19/world/europe/soldiers-ukraine-donbas.html)
+_19-Sep-2023_
 
-Infections remain very low, despite signs of a slight increase. Now, experts are looking for clues to what living with the coronavirus will be like this winter and beyond.
+It was just a single moment in a war that at times feels endless, but an image of Ukrainian soldiers firing upon an unseen enemy captures the dangers of the front line.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ukrainian Troops Trained by the West Stumble in Battle](https://www.nytimes.com/2023/08/02/us/politics/ukraine-troops-counteroffensive-training.html)*
-_02-Aug-2023_
+### [Biden to Urge Nations to Protect and Nurture Democracy](https://www.nytimes.com/2023/09/19/us/politics/biden-united-nations-general-assembly.html)
+_19-Sep-2023_
 
-Ukraine’s army has for now set aside U.S. fighting methods and reverted to tactics it knows best.
+In a speech to the United Nations, President Biden is expected to promote his administration’s achievements around the globe even as he confronts challenges at home.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[As Russia Strikes Ports, Ukraine Scrambles to Continue Grain Exports](https://www.nytimes.com/2023/08/02/world/europe/russia-ukraine-grain-exports.html)*
-_02-Aug-2023_
+### [Jennifer Hermoso Excluded From Spain’s Soccer Team Roster](https://www.nytimes.com/2023/09/18/world/europe/spain-soccer-jenni-hermoso-sweden.html)
+_19-Sep-2023_
 
-Their grain and sunflower oil once helped feed the world. Now, even their backup routes to the international market have become targets.
+The team’s new coach said she was trying to protect Ms. Hermoso, who was forcibly kissed by the Spanish soccer chief. “Protect me from what?” the player responded.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Erdogan Urges Resumption of Grain Deal in Call With Putin](https://www.nytimes.com/2023/08/02/world/europe/putin-erdogan-grain-deal.html)*
-_02-Aug-2023_
+### [Ukraine to File WTO Complaint Over Grain Bans by Poland, Slovakia and Hungary](https://www.nytimes.com/2023/09/18/world/europe/ukraine-wto-complaint-grain-bans.html)
+_19-Sep-2023_
 
-The Turkish president urged a resumption of the agreement that allowed Ukraine to ship grain through the Black Sea, and called on both Russia and Ukraine not to escalate tensions.
+The countries said the bans were necessary to protect their own farmers, who were concerned that cheap grain from Ukraine had pushed down prices.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ukraine Says Russia Launched Overnight Drone Attacks on Kyiv](https://www.nytimes.com/2023/08/02/world/europe/russia-drone-attack-ukraine.html)*
-_02-Aug-2023_
+### [Drone Attack Kills 3 Counterterrorist Fighters in Iraqi Kurdistan](https://www.nytimes.com/2023/09/18/world/middleeast/iraq-kurdistan-drone-attack.html)
+_19-Sep-2023_
 
-Moscow launched at least 10 drones at the city, with an administrative building among those damaged by debris from interceptions, local officials said.
+Drone attacks in the Kurdistan region usually target insurgent groups fighting against Turkey and Iran; this one struck an elite Iraqi Kurdish security force.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Xi’s Abrupt Shake-Up of Nuclear Force’s Leaders Fans Speculation](https://www.nytimes.com/2023/08/02/world/asia/china-nuclear-shakeup.html)*
-_03-Aug-2023_
+### [Tuesday Briefing: What to Expect as the U.N. Meets](https://www.nytimes.com/2023/09/18/briefing/un-general-assembly-iran-prisoners-canada-india.html)
+_18-Sep-2023_
 
-The Chinese leader’s replacement of two commanders has fanned speculation about corruption or failings in the force that manages China’s nuclear missiles.
+Plus, lessons from Singapore on cooling a city.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[City in Mexico Bans Performances of Songs With Misogynistic Lyrics](https://www.nytimes.com/2023/08/02/world/americas/chihuahua-mexico-lyrics-ban.html)*
-_02-Aug-2023_
+### [Evidence Suggests Ukrainian Missile Caused Market Tragedy](https://www.nytimes.com/2023/09/18/world/europe/ukraine-missile-kostiantynivka-market.html)
+_18-Sep-2023_
 
-The city of Chihuahua said it would impose hefty fines on bands that perform songs with lyrics that “promote violence against women.”
+Witness accounts and an analysis of video and weapon fragments suggest a Ukrainian missile failed to hit its intended target and landed in a bustling street, with devastating consequences.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Can a Rapper Change Italy’s Mind About Migrants?](https://www.nytimes.com/2023/08/02/magazine/ghali-italy-migrants.html)*
-_02-Aug-2023_
+### [Libyan Protesters Demand Accountability After Floods Killed Thousands](https://www.nytimes.com/2023/09/18/world/middleeast/libya-floods-protests-derna.html)
+_18-Sep-2023_
 
-As the country’s right-wing government takes a hard line on Mediterranean immigration, the hip-hop artist Ghali has become a prominent voice of compassion.
+The cries of protesters were part of a rising chorus of calls for answers from leaders across a divided Libya, specifically for an international investigation.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Read Your Way Through Hanoi](https://www.nytimes.com/2023/08/02/books/hanoi-vietnam-books.html)*
-_02-Aug-2023_
+## [Wall street journal](https://www.wsj.com/)
+### [Next Raises Guidance Again](https://www.wsj.com/articles/next-plc-raises-full-year-views-as-1h-pretax-profit-rose-da3a0638)
+_21-Sep-2023_
 
-Hanoi, long a city of storytellers, has been devastated and reborn time and time again. Nguyễn Phan Quế Mai guides readers through the literature that has played a part in that renewal.
+Next forecast a fiscal 2024 pretax profit of £875 million and sales of £4.7 billion after it reported an improved first-half result, and it said the longer-term outlook looked more positive as inflationary pressures continue to ease.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Wednesday Briefing](https://www.nytimes.com/2023/08/02/briefing/trump-indictment-niger-evacuations.html)*
-_02-Aug-2023_
+### [Chinese Shares Fall on Ongoing Growth Concerns](https://www.wsj.com/articles/australia-shares-set-to-slip-again-at-the-open-cdbeabcb)
+_21-Sep-2023_
 
-Donald Trump faces significant new federal charges.
+Chinese shares ended lower, with sentiment weighed by ongoing concerns over economic growth and the Fed’s hawkish rate pause after officials hinted at another hike in the coming months
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Pope Francis Heads to Portugal for Catholic Church’s Youth Day](https://www.nytimes.com/2023/08/02/world/europe/pope-francis-portugal-youth-day.html)*
-_02-Aug-2023_
+### [Casino Slashes Earnings Forecasts](https://www.wsj.com/articles/casino-guichard-perrachon-lowers-2024-28-france-sales-earnings-views-275f9286)
+_21-Sep-2023_
 
-The pope will preside over a gathering of young people from around the world, mindful that the changes he has initiated in the Roman Catholic Church will depend on them.
+Casino cut back its French sales and earnings projections through 2028, with underlying profit seen at €401 million next year, following a review of its units, energy costs and actions taken as part of its financial restructuring.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Kenya Offers to Lead International Force to Help Restore Order in Haiti](https://www.nytimes.com/2023/08/01/world/americas/haiti-international-intervention.html)*
-_02-Aug-2023_
+### [Rate Hikes From SNB, Riksbank, Norges Bank Unlikely to Boost Currencies Much](https://www.wsj.com/articles/most-asian-currencies-weaken-after-fed-signals-rates-will-stay-higher-for-longer-84be7afb)
+_21-Sep-2023_
 
-Kenya has offered to lead a police force to help restore order to Haiti, where gangs that control vast parts of the country’s capital have fomented violence.
+The Swiss National Bank, Sweden’s Riksbank and Norway’s Norges Bank are all expected to raise interest rates in decisions on Thursday but the Swiss franc, Swedish krona and Norwegian krone are unlikely to benefit much, UniCredit Research said.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Iran Orders Two-Day Shutdown Because of ‘Unprecedented’ Heat](https://www.nytimes.com/2023/08/01/world/middleeast/iran-heat-shutdown.html)*
-_02-Aug-2023_
+### [Philippines Central Bank Keeps Rate Unchanged](https://www.wsj.com/articles/philippines-central-bank-keeps-rate-unchanged-as-economy-shows-signs-of-weakness-9b11aca)
+_21-Sep-2023_
 
-The government announced a two-day public holiday, ordering all government agencies, banks and schools to close amid soaring temperatures that threatened public health and strained the power grid.
+The Philippine central bank left its benchmark interest rate unchanged despite a recent rise in inflation, as the economy showed signs of weakness.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[2 Drone Strikes in Moscow in 2 Days and a Message: Russia Is Not Safe](https://www.nytimes.com/2023/08/01/world/europe/moscow-drone-attack-ukraine.html)*
-_01-Aug-2023_
+### [Eurozone Bond Yields Rise After Fed's 'High-For-Long' Message](https://www.wsj.com/articles/eurozone-bond-yields-rise-after-feds-high-for-long-message-c44cf360)
+_21-Sep-2023_
 
-The same building housing Russian government offices was hit twice within 48 hours.
+Eurozone government bond yields rose, with the 10-year Bund yield hovering close to its year-to-date high, after the Fed’s “high-for-long” message on interest rates prompted some selloff in Treasurys.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[U.K.’s New Alcohol Taxes Are Aimed at Keeping Pubs Open and Votes Flowing](https://www.nytimes.com/2023/08/01/world/europe/uk-alcohol-levies.html)*
-_01-Aug-2023_
+### [Glynn's Take: RBA Reforms Fail Best Practice; Further Scrutiny Needed](https://www.wsj.com/articles/glynns-take-rba-reforms-fail-best-practice-further-scrutiny-needed-5f677046)
+_21-Sep-2023_
 
-The changes are the biggest shake-up to Britain’s alcohol levies in 140 years, according to a government whose leader was clearly on the campaign trail in announcing them.
+Former Reserve Bank of Australia Gov. Ian Macfarlane warned in a television interview that proposed reforms may require further scrutiny.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Chinese Zoo: This Is a Real Sun Bear, Not a Costume](https://www.nytimes.com/2023/08/01/world/asia/chinese-zoo-sun-bear-costume.html)*
-_01-Aug-2023_
+### [McCarthy Sees Progress in Winning Over GOP's 'Dysfunction Caucus'](https://www.wsj.com/articles/gops-dysfunction-caucus-blocks-mccarthy-as-government-shutdown-looms-f8f624f9)
+_21-Sep-2023_
 
-“Some people think I look too human when I stand up,” the Hangzhou Zoo’s statement said, after a video prompted internet conspiracy theories. “I am a Malayan sun bear!”
+The standoff has some Republicans looking for a backup plan and thinking about possible outreach to the Democrats.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ukraine’s Grain Lifeline in Danube Ports Comes Under Russia Threat](https://www.nytimes.com/2023/08/01/world/europe/ukraine-grain-danube-ports-russia.html)*
-_02-Aug-2023_
+### [The Antitrust Lawsuit That Helped Make Modelo America's Top Beer](https://www.wsj.com/articles/the-antitrust-lawsuit-that-helped-make-modelo-americas-top-beer-b2a99250)
+_21-Sep-2023_
 
-Since the collapse of the Black Sea grain deal two weeks ago, small ports on the Danube River are the only shipping outlet for millions of tons of grain.
+Modelo Especial is now America’s top-selling beer, dethroning the longstanding king, Bud Light, which recently has been subject to a culture-war storm. Here’s how an antitrust lawsuit and savvy marketing helped the Mexican brand grow in the U.S.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Ousmane Sonko’s Arrest Sets Off New Round of Protests](https://www.nytimes.com/2023/08/01/world/africa/senegal-protests-sonko.html)*
-_01-Aug-2023_
+### [Higher Rates Not Just for Longer, but Maybe Forever](https://www.wsj.com/articles/higher-interest-rates-not-just-for-longer-but-maybe-forever-d5891964)
+_21-Sep-2023_
 
-Ousmane Sonko, a fiery figure with a loyal youth following, was charged with fomenting insurrection, and his party dissolved.
+Rate projections suggest many Fed officials see a rising ‘neutral rate,’ which keeps inflation and unemployment stable in the long run
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Under Hindu Nationalist Leaders, Sectarian Violence Flares in India](https://www.nytimes.com/2023/08/01/world/asia/india-hindu-muslim-violence.html)*
-_02-Aug-2023_
+### [Tether Is Lending Its Stablecoins Again](https://www.wsj.com/articles/tether-is-lending-its-stablecoins-again-b11705f2)
+_21-Sep-2023_
 
-A gunman who killed Muslim train passengers and a Hindu march that turned riotous underscore how the partisan stances of India’s top Hindu leaders have given license to chaotic elements in the country.
+The cryptocurrency issuer had said it would cut loans to zero in 2023.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[A Stairway to Nowhere Sells for $32,000 in London](https://www.nytimes.com/2023/08/01/world/europe/stairwell-auction-25k-pounds.html)*
-_01-Aug-2023_
+### [Israel Mulls Accepting Saudi Nuclear Enrichment](https://www.wsj.com/articles/israel-considers-saudi-arabias-nuclear-program-under-potential-normalization-deal-617ae9bd)
+_21-Sep-2023_
 
-An entrepreneur saw what others didn’t and now owns the unused set of stairs, which are attached to the back of a suburban building.
+The initiative is part of talks that would forge diplomatic ties between the two Middle Eastern countries.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[UNESCO Recommends Venice for Endangered List](https://www.nytimes.com/2023/08/01/world/europe/venice-unesco-world-heritage-danger-list.html)*
-_01-Aug-2023_
+### [The FTC disclosed new details in its lawsuit against Amazon involving an alleged scheme to enroll customers unwittingly in the company's Prime program.](https://www.wsj.com/politics/policy/ftc-updates-amazon-suit-over-prime-enrollment-naming-executives-88eb08d)
+_21-Sep-2023_
 
-The United Nations’ culture agency is warning of twin perils to the historic city from mass tourism and climate change.
+The FTC disclosed new details in its lawsuit against Amazon involving an alleged scheme to enroll customers unwittingly in the company’s Prime program.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[France Prepares Niger Evacuation Amid Risks of Conflict](https://www.nytimes.com/2023/08/01/world/africa/niger-coup-mali-burkina-faso.html)*
-_02-Aug-2023_
+### [Fed officials voted to hold interest rates steady at a 22-year high and revealed a divide over whether they should raise rates once more this year, with most leaning toward another increase.](https://www.wsj.com/economy/central-banking/federal-reserve-powell-interest-rates-ba600bf0)
+_21-Sep-2023_
 
-Tensions were rising in the West African nation over demands by African and Western countries to reinstate a president ousted in a military takeover.
+Fed officials voted to hold interest rates steady at a 22-year high and revealed a divide over whether they should raise rates once more this year, with most leaning toward another increase.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Kerala Lottery: India Sanitation Workers Win $1.2 Million Lottery](https://www.nytimes.com/2023/08/01/world/asia/india-kerala-lottery-jackpot.html)*
-_01-Aug-2023_
+### [Marketing-automation platform Klaviyo saw its shares rise 9.2% in their debut on the NYSE.](https://www.wsj.com/finance/stocks/klaviyo-shares-surge-in-trading-debut-6928fff2)
+_21-Sep-2023_
 
-The winners, who are sanitation co-workers in India, each make just a few dollars a day. The jackpot will help them pay off crippling debts.
+Marketing-automation platform Klaviyo saw its shares rise 9.2% in their debut on the NYSE.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Construction to Break German Dependence on Russian Gas Hits a Snag: Wartime Bombs](https://www.nytimes.com/2023/08/01/world/europe/germany-gas-terminal-munitions.html)*
-_01-Aug-2023_
+### [High borrowing costs and a shortage of properties for sale have slowed home buying by big landlords, limiting their ability to grow at the same time suburban rents are climbing.](https://www.wsj.com/real-estate/americas-biggest-landlords-cant-find-houses-to-buy-either-ea893213)
+_21-Sep-2023_
 
-The choreography of finding and clearing unexploded, decades-old munitions has become routine on Germany’s northern coast.
+High borrowing costs and a shortage of properties for sale have slowed home buying by big landlords, limiting their ability to grow at the same time suburban rents are climbing.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Mexico’s ‘Monster’ Trucks Show Cartels Taking Drug War to Next Level](https://www.nytimes.com/2023/08/01/world/americas/mexico-cartels-trucks.html)*
-_01-Aug-2023_
+### [The U.K.'s annual rate of inflation fell for a third straight month in August, increasing the likelihood that the Bank of England may soon pause a series of increases in its key interest rate.](https://www.wsj.com/economy/global/u-k-inflation-falls-unexpectedly-easing-pressure-on-bank-of-england-bdaa4bdc)
+_21-Sep-2023_
 
-Taking the monster truck concept to deadly new realms, cartels are modifying pickups with gun turrets, steel armoring and battering rams.
+The U.K.’s annual rate of inflation fell for a third straight month in August, increasing the likelihood that the Bank of England may soon pause a series of increases in its key interest rate.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Solar Supply Chain Grows More Opaque Amid Human Rights Concerns](https://www.nytimes.com/2023/08/01/business/economy/solar-xinjiang-china-report.html)*
-_01-Aug-2023_
+### [The Biden administration has agreed to make roughly 470,000 Venezuelan migrants eligible for work permits in a concession to New York City Mayor Eric Adams aimed at easing the financial strain on major migrant destinations.](https://www.wsj.com/us-news/biden-administration-to-offer-work-permits-to-roughly-470-000-venezuelan-migrants-19d2f63c)
+_21-Sep-2023_
 
-The global industry is cutting some ties to China, but its exposure to forced labor remains high and companies are less transparent, a new report found.
+The Biden administration has agreed to make roughly 470,000 Venezuelan migrants eligible for work permits in a concession to New York City Mayor Eric Adams aimed at easing the financial strain on major migrant destinations.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[‘Barbenheimer’ Isn’t Funny in Nuclear-Scarred Japan](https://www.nytimes.com/2023/08/01/world/asia/japan-barbenheimer.html)*
-_02-Aug-2023_
+### [Major U.S. stock indexes fell after the central bank's pause on interest rates, with the S&P 500, Nasdaq and Dow dropping 0.9%, 1.5% and 0.2%, respectively.](https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-09-20-2023-1e30c85)
+_21-Sep-2023_
 
-The Japanese subsidiary of Warner Bros. criticized what it called insensitive promotion of “Barbie” by the company’s headquarters.
+Major U.S. stock indexes fell after the central bank’s pause on interest rates, with the S&amp;P 500, Nasdaq and Dow dropping 0.9%, 1.5% and 0.2%, respectively.
 
 [&#x25B2; TOP &#x25B2;](#)
 
 ---
-### *[Aung San Suu Kyi Receives Partial Pardon in Myanmar](https://www.nytimes.com/2023/08/01/world/asia/aung-san-suu-kyi-pardon-myanmar.html)*
-_01-Aug-2023_
+### [Amazon demonstrated a chattier and less-scripted interaction with Alexa powered by generative AI at its HQ2 offices in Virginia.](https://www.wsj.com/tech/personal-tech/amazon-alexa-artificial-intelligence-echo-speaker-99fcdec9)
+_21-Sep-2023_
 
-The civilian leader, who was ousted in a coup in 2021, had six years cut from a 33-year prison sentence and five of her 19 convictions overturned, state television said.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Typhoon Khanun Lashes Okinawa, Japan, Killing 1 Person](https://www.nytimes.com/2023/08/01/world/asia/typhoon-khanun-japan-china-doksuri.html)*
-_03-Aug-2023_
-
-Typhoon Khanun was hovering near Okinawa Prefecture days after an earlier tropical cyclone, Doksuri, brought death and destruction to China and the Philippines.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Russia’s Law Targeting Transgender People Sows Fear for L.G.B.T. Russians](https://www.nytimes.com/2023/08/01/world/europe/russia-transgender-ban.html)*
-_01-Aug-2023_
-
-A new law underscores how Vladimir V. Putin is increasingly using the war in Ukraine as justification for greater restrictions on L.G.B.T.Q. life, portraying it as a consequence of deviant Western values.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Move Over, Men: Women Were Hunters, Too](https://www.nytimes.com/2023/08/01/science/anthropology-women-hunting.html)*
-_01-Aug-2023_
-
-Anthropologists are finding that women in modern foraging societies have played a major role in catching game.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Tuesday Briefing](https://www.nytimes.com/2023/07/31/briefing/ukraine-strikes-trump-myanmar.html)*
-_01-Aug-2023_
-
-The details of Ukraine’s drone strikes.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-## *[Wall street journal](https://www.wsj.com/)*
-### *[Importing Laptops Into India Will Now Require a Permit](https://www.wsj.com/articles/india-restricts-laptop-imports-to-boost-local-manufacturing-244cf56a)*
-_04-Aug-2023_
-
-India is making it harder to import laptops, tablets and other consumer-electronics devices to boost local manufacturing and curb imports from China, government and industry officials said.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Credit Agricole Profit Jump as Insurance Lifts Revenue](https://www.wsj.com/articles/credit-agricole-2q-earnings-jumped-insurance-boosts-revenue-3ae734ca)*
-_04-Aug-2023_
-
-Credit Agricole reported a second-quarter net profit of €2 billion on sales that rose 19%, boosted by insurance income, with €1 billion in net inflows at its asset-management business.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Maersk Sees Improved Outlook as Cost Cuts Offset Lower Earnings](https://www.wsj.com/articles/maersk-lifts-guidance-as-cost-cuts-helped-offset-lower-earnings-53714929)*
-_04-Aug-2023_
-
-Maersk posted a sharp drop in second-quarter net profit, as freight rates and volumes fell, but cost-cutting helped it beat expectations and prompted the company to raise the lower end of its full-year guidance range.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[WPP Cuts Guidance After Profit Slump](https://www.wsj.com/articles/wpp-cuts-growth-guidance-after-profit-halves-us-tech-spending-slows-4d07bc71)*
-_04-Aug-2023_
-
-WPP sees like-for-like growth in revenue of 1.5%-3% in 2023, with headline operating profit margin still expected to be around 15%, after it reported a below-forecast profit for the first half hit by a slowdown in U.S. tech spending.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[WPP's 2Q Organic Growth Miss, Cut Outlook Seen As Disappointing](https://www.wsj.com/articles/australia-shares-likely-to-edge-lower-at-the-open-392622a)*
-_04-Aug-2023_
-
-WPP’s disappointing second-quarter organic growth and outlook cut for the year is unhelpful but may already be in the price to some extent, Citi said, as the ad group’s shares open almost 7% lower.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Value Seen in Duration When 10-Year Bund Yields Rise Above 2.50%](https://www.wsj.com/articles/pressure-seen-shifting-to-long-end-eurozone-bonds-e6388f49)*
-_04-Aug-2023_
-
-There is value in progressively buying duration when the 10-year German Bund yield moves above 2.5%, and adding to long on dips, Societe Generale said.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[AngloGold Ashanti Earnings Hit by Brazil Writedowns](https://www.wsj.com/articles/anglogold-ashanti-hurt-by-brazil-portfolio-impairments-2e06bd6c)*
-_04-Aug-2023_
-
-AngloGold Ashanti reported lower first-half headline earnings of $140 million, in line with its guidance, as it booked impairments in its Brazilian portfolio, and forecast capex this year of up to $1.1 billion.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[China's Central Bank Pledges to Flexibly Use RRR Cuts, Other Policy Tools](https://www.wsj.com/articles/chinas-central-bank-pledges-to-flexibly-use-rrr-cuts-other-policy-tools-5881bb5b)*
-_04-Aug-2023_
-
-The People’s Bank of China will need to flexibly use monetary policy tools to ensure ample liquidity in the country’s banking system, a senior central bank official said.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Vonovia Keeps Guidance Despite Weaker First Half](https://www.wsj.com/articles/vonovia-1h-earnings-fell-on-proceeds-recurring-sales-decline-backs-2023-outlook-722cde39)*
-_04-Aug-2023_
-
-Vonovia reported lower revenue and earnings in the first half, and said group funds from operations also fell, but it confirmed its outlook for the year.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[China Scraps Tariffs on Australian Barley](https://www.wsj.com/articles/china-scraps-tariffs-on-australian-barley-cfb4dafe)*
-_04-Aug-2023_
-
-China’s Ministry of Commerce said it would scrap tariffs on Australian-imported barley, in the latest sign of improving ties between Beijing and Canberra.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Commerzbank Lifts Outlook After Record Interest Income](https://www.wsj.com/articles/commerzbank-raises-views-as-higher-interest-rates-drive-profitability-c60296d5)*
-_04-Aug-2023_
-
-Commerzbank forecast net interest income of at least €7.8 billion in 2023 after it hit a record in the second quarter, helping push profits higher.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Swiss Re Profit Surges on Lower Natural-Catastrophe Losses](https://www.wsj.com/articles/swiss-re-profit-surges-on-contained-natural-catastrophe-losses-d6afebbf)*
-_04-Aug-2023_
-
-Swiss Re posted a higher net profit of $804 million in the second quarter, helped by a low natural-catastrophe burden in its property-and-casualty segment, and maintained its 2023 profit target of more than $3 billion.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[American Travelers Are Shunning U.S. for Europe](https://www.wsj.com/articles/american-travelers-are-shunning-the-u-s-for-europe-5b5e08ea)*
-_04-Aug-2023_
-
-Domestic ticket fares are falling as travelers favor longer trips abroad.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[How the World's Biggest Cruise Ship Is Docked, Explained by a Captain](https://www.wsj.com/articles/how-the-worlds-biggest-cruise-ship-is-docked-explained-by-a-captain-a1d5f811)*
-_04-Aug-2023_
-
-A Royal Caribbean captain explains how he docks a 1,188-foot cruise ship at Port Canaveral, Fla., and how environmental conditions pose the biggest challenge.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[AB InBev said its U.S. sales, profit and market share fell sharply in the second quarter as consumers abandoned Bud Light after a promotion it did with a transgender influencer.](https://www.wsj.com/articles/ab-inbev-bud-q2-earnings-report-2023-90a57dee)*
-_04-Aug-2023_
-
-AB InBev said its U.S. sales, profit and market share fell sharply in the second quarter as consumers abandoned Bud Light after a promotion it did with a transgender influencer.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Disney's ESPN is hunting for a strategic partner as it tries to bring order to the messy world of streaming and secure its own future.](https://www.wsj.com/articles/disneys-espn-plots-its-streaming-future-seeking-tie-ups-with-leagues-and-rivals-25041a41)*
-_04-Aug-2023_
-
-Disney’s ESPN is hunting for a strategic partner as it tries to bring order to the messy world of streaming and secure its own future.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[The American Academy of Pediatrics plans to review the evidence for gender-affirming medical care and potentially amend its policies that help guide doctors and clinicians providing the treatment to transgender youth.](https://www.wsj.com/articles/doctors-group-to-examine-guidelines-for-treatment-of-transgender-youths-dbe98caa)*
-_04-Aug-2023_
-
-The American Academy of Pediatrics plans to review the evidence for gender-affirming medical care and potentially amend its policies that help guide doctors and clinicians providing the treatment to transgender youth.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Striking Los Angeles hotel workers are calling for a levy on employers to subsidize the construction of affordable employee housing, saying inflation has eroded their previous wage increases.](https://www.wsj.com/articles/striking-l-a-workers-want-hotels-to-help-build-affordable-housing-442181d6)*
-_04-Aug-2023_
-
-Striking Los Angeles hotel workers are calling for a levy on employers to subsidize the construction of affordable employee housing, saying inflation has eroded their previous wage increases.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[Israeli military reservists began skipping duty, following through on a threat from thousands of their peers to suspend service after the government moved to limit the Supreme Court's power.](https://www.wsj.com/articles/israeli-reservists-start-missing-duty-threatening-military-unity-and-readiness-76df3ade)*
-_04-Aug-2023_
-
-Israeli military reservists began skipping duty, following through on a threat from thousands of their peers to suspend service after the government moved to limit the Supreme Court’s power.
-
-[&#x25B2; TOP &#x25B2;](#)
-
----
-### *[The UAW is pressing the Detroit car companies to give its factory workers a 40% pay hike over four years in the next labor contract, an increase that would be the largest in recent memory.](https://www.wsj.com/articles/uaw-demands-40-pay-hike-in-labor-talks-with-detroit-automakers-d5daa557)*
-_04-Aug-2023_
-
-The UAW is pressing the Detroit car companies to give its factory workers a 40% pay hike over four years in the next labor contract, an increase that would be the largest in recent memory.
+Amazon demonstrated a chattier and less-scripted interaction with Alexa powered by generative AI at its HQ2 offices in Virginia.
 
 [&#x25B2; TOP &#x25B2;](#)
 
